@@ -1,4 +1,4 @@
-#summary Project idea: have students prepare short tutorials like those at [http://www.showmedo.com ShowMeDo].
+#summary Project idea: have students prepare short tutorials like those at ShowMeDo.com.
 
 = Pros =
 
