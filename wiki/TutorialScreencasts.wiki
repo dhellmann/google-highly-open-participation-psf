@@ -1,0 +1,14 @@
+#summary Project idea: have students prepare short tutorials like those at [http://www.showmedo.com ShowMeDo].
+
+= Pros =
+
+  * The [http://www.youtube.com YouTube] generation thinks user-generated video is cool.
+  * People at all skills levels could take part (i.e., lower cost of entry than hacking the core library).
+  * This project would attract people with skills in areas other than pure hacking (i.e., we wouldn't be preaching to the converted).
+  * Students would be able to understand/appreciate/review other students' work.
+  * People could contribute by doing an ABC-language version of someone else's XYZ-language contribution.
+  * A "best of" show would make a great [http://www.pycon.org/ PyCon] event.
+
+= Cons =
+
+  * Doesn't add new capabilities to Python, the standard library, or related tools.
