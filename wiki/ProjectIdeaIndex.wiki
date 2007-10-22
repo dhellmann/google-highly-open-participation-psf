@@ -1,0 +1,5 @@
+#summary Point-form summary of project ideas with links to details as appropriate.
+
+= Introduction =
+
+  * TutorialScreencasts: have students prepare short screencasts like those at [http://www.showmedo.com ShowMeDo].
