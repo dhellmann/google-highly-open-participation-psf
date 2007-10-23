@@ -5,4 +5,4 @@
 
 Author: Georg Brandl
 
-Get something like "try python" working (a sandbox where you can try Python over the web).
+Get something like "try python" working (a sandbox where you can try Python over the web). Could also include a few "exercises".
