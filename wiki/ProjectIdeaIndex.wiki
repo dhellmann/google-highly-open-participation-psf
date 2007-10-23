@@ -21,6 +21,7 @@ Tasks by category.
   * SyncDocStrings: sync docstrings with docs
   * DocumentCApiFunctions: document undocumented C API functions
   * UpdateReferenceCountData: update the refcount file
+  * DocumentPEPs: document PEPs implemented but not documented yet
 
 = Training =
 
