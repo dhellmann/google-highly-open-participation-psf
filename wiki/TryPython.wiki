@@ -1,0 +1,8 @@
+#summary Setup Try Python
+#labels code
+
+= Setup Try Python =
+
+Author: Georg Brandl
+
+Get something like "try python" working (a sandbox where you can try Python over the web).
