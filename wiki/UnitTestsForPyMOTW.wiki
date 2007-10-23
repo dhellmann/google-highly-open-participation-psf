@@ -1,0 +1,8 @@
+#summary Write unit tests for 3 pyMOTW modules
+#labels testing
+
+== Write unit tests for 3 pyMOTW modules ==
+
+Author: Grig Gheorghiu
+
+Check out http://www.doughellmann.com/projects/PyMOTW/ ; choose 3 modules; improve unit test coverage for these modules
