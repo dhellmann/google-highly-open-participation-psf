@@ -1,0 +1,24 @@
+#summary Write python interfaces to popular social networking sites
+#labels code
+
+= Write python interfaces to popular social networking sites =
+
+Author: Grig Gheorghiu
+
+Many such modules already exist, so this would mean either enhancing
+them, or writing alternative implementations from scratch.
+
+Examples:
+
+python-twitter: http://code.google.com/p/python-twitter/
+
+python-facebook: http://groups.google.com/group/pyfacebook
+
+python-digg:
+http://neothoughts.com/2007/04/30/pydigg-a-python-toolkit-for-the-digg-api/
+
+python-myspace: doesn't exist yet, but see
+http://www.kiberpipa.org/~gandalf/blog/?p=73
+
+...and I'm sure the list can go on. This type of tasklet might look
+interesting especially to a highschooler.
