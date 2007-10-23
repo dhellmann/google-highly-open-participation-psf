@@ -19,9 +19,9 @@ Tasks by category.
   * DocumentPy2And3Syntax: Document syntactic differences between Python 2 and 3
   * AddCodeExamples: add examples to library docs
   * SyncDocStrings: sync docstrings with docs
-  * DocumentCApiFunctions: document undocumented C API functions
+  * [DocumentCApiFunctions]: document undocumented C API functions
   * UpdateReferenceCountData: update the refcount file
-  * DocumentPEPs: document PEPs implemented but not documented yet
+  * [DocumentPEPs]: document PEPs implemented but not documented yet
 
 = Training =
 
