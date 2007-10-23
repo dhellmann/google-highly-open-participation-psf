@@ -16,8 +16,11 @@ Tasks by category.
 
 = Documentation =
 
-  * PythonCoreDocumentation: Python core documentation tasks (_needs splitting_)
   * DocumentPy2And3Syntax: Document syntactic differences between Python 2 and 3
+  * AddCodeExamples: add examples to library docs
+  * SyncDocStrings: sync docstrings with docs
+  * DocumentCApiFunctions: document undocumented C API functions
+  * UpdateReferenceCountData: update the refcount file
 
 = Training =
 
