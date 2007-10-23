@@ -1,0 +1,20 @@
+#summary Performance testing for WideFinder implementations
+#labels testing
+
+= Performance testing for WideFinder implementations =
+
+Author: Grig Gheorghiu
+
+By now I think everybody is familiar with Tim Bray's Wide Finder
+challenge: <http://www.tbray.org/ongoing/When/200x/2007/09/20/Wide-Finder>.
+
+I particularly liked the effbot's approach here:
+<http://effbot.org/zone/wide-finder.htm>
+
+For this tasklet, the students would run the 3 main implementations
+(single threaded, multi threaded, multi-processor) on at least 2
+machines, and generate performance graphs -- using matplotlib for
+example. If MP machines are not available, then they'd do single- and
+multi-threaded comparisons at least.
+
+For extra credit, they could try improving the speed of the code.
