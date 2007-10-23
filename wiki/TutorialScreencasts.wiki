@@ -1,4 +1,5 @@
 #summary Project idea: have students prepare short tutorials like those at ShowMeDo.com.
+#labels training
 
 = Pros =
 
