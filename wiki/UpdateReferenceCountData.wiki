@@ -1,4 +1,5 @@
 #summary Update the refcount.dat file
+#labels documentation
 
 = Update the refcount.dat file =
 
