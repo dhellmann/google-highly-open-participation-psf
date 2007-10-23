@@ -1,4 +1,5 @@
 #summary Document undocumented C API functions
+#labels documentation
 
 = Document undocumented C API functions =
 
