@@ -1,5 +1,24 @@
 #summary Point-form summary of project ideas with links to details as appropriate.
 
-= Introduction =
+Tasks by category.
+
+= Code =
+
+  * TryPython: Setup Try Python
+  * [PythonInterfacesToSN]: Write python interfaces to popular social networking sites
+
+= Testing =
+
+  * BuildOnWindows
+  * WideFinderPerformanceTesting: Performance testing for WideFinder implementations
+  * [UnitTestsForPyMOTW]: Write unit tests for 3 pyMOTW modules
+
+= Documentation =
+
+  * PythonCoreDocumentation: Python core documentation tasks (_needs splitting_)
+  * DocumentPy2And3Syntax: Document syntactic differences between Python 2 and 3
+
+= Training =
 
   * TutorialScreencasts: have students prepare short screencasts like those at [http://www.showmedo.com ShowMeDo].
+  * GivingPythonCourse: Giving a course on Python
