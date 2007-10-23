@@ -5,4 +5,6 @@
 
 Author: Georg Brandl
 
-Get something like "try python" working (a sandbox where you can try Python over the web). Could also include a few "exercises".
+Get a "try python" page working (a sandbox where you can try Python over the web). Could also include a few "exercises".
+
+Ruby equivalent: http://tryruby.hobix.com/
