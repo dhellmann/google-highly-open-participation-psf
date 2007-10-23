@@ -1,4 +1,5 @@
 #summary Sync docstrings with docs
+#labels documentation
 
 = Sync docstrings with docs =
 
