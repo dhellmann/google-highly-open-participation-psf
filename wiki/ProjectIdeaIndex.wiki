@@ -7,12 +7,14 @@ Tasks by category.
 
   * TryPython: Setup Try Python
   * [PythonInterfacesToSN]: Write python interfaces to popular social networking sites
+  * [PortPackagesToPy3K]: Try out and/or port small/useful 3rd party packages to Py3K.
 
 = Testing =
 
   * BuildOnWindows
   * WideFinderPerformanceTesting: Performance testing for WideFinder implementations
   * [UnitTestsForPyMOTW]: Write unit tests for 3 pyMOTW modules
+  * [IncreaseTestCoverage]: Increase code coverage of unit tests for Python modules
 
 = Documentation =
 
