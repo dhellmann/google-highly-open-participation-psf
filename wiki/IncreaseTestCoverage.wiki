@@ -1,0 +1,10 @@
+#summary Increase code coverage of unit tests on a Python module.
+
+= Increase unit test code coverage in the Python std lib =
+
+Author: Titus Brown
+
+There are a number of modules with very poor/low test coverage.  I will assemble a list
+of the most egregious ones.
+
+This task would need some good documentation describing how to *measure* this kind of code coverage.  Easy enough for me to write, I think...
