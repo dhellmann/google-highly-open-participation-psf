@@ -27,3 +27,4 @@ Tasks by category.
 
   * TutorialScreencasts: have students prepare short screencasts like those at [http://www.showmedo.com ShowMeDo].
   * GivingPythonCourse: Giving a course on Python
+  * CrunchyTutorials: Write new tutorial for Crunchy
