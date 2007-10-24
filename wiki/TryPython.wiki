@@ -8,3 +8,7 @@ Author: Georg Brandl
 Get a "try python" page working (a sandbox where you can try Python over the web). Could also include a few "exercises".
 
 Ruby equivalent: http://tryruby.hobix.com/
+
+_This is hard, and would probably make a non-trivial Summer of Code project. First of all Python doesn't have restricted execution built-in right now (since 2.3). Making this right would involve hacking on CPython sources - building a custom Python version with dangerous bits from os, sys and similar modules stripped out. There's also quite a bit of JavaScript involved to make it as nice and interactive as the Ruby version. Making good tutorials is also a complex task and requires a good knowledge of Python features._ -- mk
+
+_On the bright side this proposal lead me to the CrunchyTutorials idea. :)_ -- mk
