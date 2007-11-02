@@ -1,10 +1,10 @@
-#summary Document syntactic differences between Python 2 and 3
+#summary Document differences between Python 2 and 3
 #labels documentation
 
-= Document syntactic differences between Python 2 and 3 =
+= Document differences between Python 2 and 3 =
 
 Author: Georg Brandl
 
-One easy and (not too tedious) task is to get to know the syntactic
-differences between Python 2 and Python 3, and review the code examples
-in the library documentation, updating syntax where needed.
+One easy and (not too tedious) task is to get to know the most important
+differences between Python 2 and Python 3 and write a basic document that
+explains them to users, with code examples.
