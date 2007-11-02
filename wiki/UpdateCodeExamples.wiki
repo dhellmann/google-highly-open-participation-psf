@@ -1,0 +1,7 @@
+#summary Update code examples in docs
+
+= Update code examples in docs =
+
+Author: Georg Brandl
+
+Review the code examples in the library documentation, updating to 3.0 syntax where needed.
