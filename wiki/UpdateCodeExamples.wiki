@@ -1,4 +1,5 @@
 #summary Update code examples in docs
+#labels documentation
 
 = Update code examples in docs =
 
