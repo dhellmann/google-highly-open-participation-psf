@@ -1,4 +1,5 @@
 #summary Remove all mentions of long integers from the docs
+#labels documentation
 
 = Remove all mentions of long integers from the docs =
 
