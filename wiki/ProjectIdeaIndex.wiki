@@ -27,11 +27,14 @@ Tasks by category.
 
 == General tasks ==
 
+  * UsingOnWindows: add a document on using Python on Windows
+  * UsingOnUnix: add a document on using Python on UNIX
   * AddCodeExamples: add examples to library docs
   * SyncDocStrings: sync docstrings with docs
   * [DocumentCApiFunctions]: document undocumented C API functions
   * UpdateReferenceCountData: update the refcount file
   * [DocumentPEPs]: document PEPs implemented but not documented yet
+  * FillGlossary: add useful terms to the glossary and cross-link them
 
 = Training =
 
