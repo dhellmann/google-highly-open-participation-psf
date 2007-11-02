@@ -1,0 +1,7 @@
+#summary Remove all mentions of long integers from the docs
+
+= Remove all mentions of long integers from the docs =
+
+Author: Georg Brandl
+
+In 3.0, there is no distinction between long and "plain" integers anymore.
