@@ -19,6 +19,8 @@ Tasks by category.
 = Documentation =
 
   * DocumentPy2And3Syntax: Document syntactic differences between Python 2 and 3
+  * UpdateCodeExamples: update code snippets in Python 3 docs
+  * UpdateStrUnicodeDocs: update library documentation w.r.t. str/unicode change
   * AddCodeExamples: add examples to library docs
   * SyncDocStrings: sync docstrings with docs
   * [DocumentCApiFunctions]: document undocumented C API functions
