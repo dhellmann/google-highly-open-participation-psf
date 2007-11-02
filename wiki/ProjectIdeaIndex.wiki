@@ -18,10 +18,15 @@ Tasks by category.
 
 = Documentation =
 
+== Py3k tasks ==
+
   * DocumentPy2And3Syntax: Write a basic "differences between Python 2 and 3" document
   * UpdateCodeExamples: update code snippets in Python 3 docs
   * UpdateStrUnicodeDocs: update library documentation w.r.t. str/unicode change
   * RemoveLongIntegers: remove all mentions of long integers from the docs
+
+== General tasks ==
+
   * AddCodeExamples: add examples to library docs
   * SyncDocStrings: sync docstrings with docs
   * [DocumentCApiFunctions]: document undocumented C API functions
