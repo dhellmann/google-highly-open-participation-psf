@@ -1,0 +1,13 @@
+#summary Several tasks for visualizing system log files in real time
+
+= Real-time log file visualization =
+
+Author: Grig Gheorghiu
+
+The goal of this mini-project is to replicate and possibly enhance the software available at <http://www.fudgie.org/>. Since this project is too big for one tasks, I propose splitting it in several tasklets:
+
+  * Write a program that is able to retrieve log files from multiple servers via ssh
+  * Choose a log file format (Apache Combined, Rails, IIS, Postfix/spamd/clamd, Nginx, Squid, PostgreSQL, PureFTPD, MySQL, TShark, qmail/vmpop3d) and write a parser for it, then save the relevant log data in a database of your choice (MySQL, PostgreSQL, SQLite)
+  * Assuming you have all the relevant log data in a database, write a tool that shows reports/stats on that data
+  * Assuming you have all the relevant log data in a database, write a tool that uses a graphics library to show the data in various ways
+  * Write a visualization program using OpenGL that operates on a live log by parsing out its relevant data, then showing it in real time (no database)
