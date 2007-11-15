@@ -1,6 +1,6 @@
-#summary Several tasks for visualizing system log files in real time
+#summary Several tasks for visualizing system log files based on historical data or in real time
 
-= Real-time log file visualization =
+= Log file reporting and visualization =
 
 Author: Grig Gheorghiu
 
