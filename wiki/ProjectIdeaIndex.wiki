@@ -8,6 +8,7 @@ Tasks by category.
   * TryPython: Setup Try Python
   * [PythonInterfacesToSN]: Write python interfaces to popular social networking sites
   * [PortPackagesToPy3K]: Try out and/or port small/useful 3rd party packages to Py3K.
+  * [BenchmarkTCMalloc]: Try out Google's TCMalloc with Python.
 
 = Testing =
 
