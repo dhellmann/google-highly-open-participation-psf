@@ -1,0 +1,17 @@
+tags = "coding,thirdparty"
+
+summary = """
+Write a pyfacebook-style API for MySpace.
+"""
+
+description = """
+Develop an API for MySpace similar to pyfacebook,
+
+      http://code.google.com/p/pyfacebook/
+
+as described here:
+
+http://www.jurecuhalev.com/blog/2007/03/03/python-myspace-api-proxy/
+"""
+
+owner = "titus@idyll.org"

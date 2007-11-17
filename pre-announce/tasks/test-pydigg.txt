@@ -1,0 +1,15 @@
+tags = "tests,thirdparty"
+
+summary = """
+Write automated tests for pydigg.
+"""
+
+description = """
+Write automated tests using unittest, nose, or py.test, for pydigg:
+
+      http://code.google.com/p/pydigg/
+
+Write the tests to achieve > 70% code coverage (see MeasuringCodeCoverage).
+"""
+
+owner = "titus@idyll.org"
