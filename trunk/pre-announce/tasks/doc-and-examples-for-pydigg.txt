@@ -1,0 +1,15 @@
+tags = "docs,examples,thirdparty"
+
+summary = """
+Write docs and examples for pydigg.
+"""
+
+description = """
+Write documentation and examples showing how to use the pydigg project,
+
+    http://code.google.com/p/pydigg/
+
+to retrieve information from digg.
+"""
+
+owner = "titus@idyll.org"

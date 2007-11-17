@@ -1,0 +1,16 @@
+tags = "coding,thirdparty"
+
+summary = """
+Write a pydigg-style module for reddit.
+"""
+
+description = """
+Write an API for grabbing new, hot, etc. stories from reddit.com; see
+pydigg,
+
+      http://code.google.com/p/pydigg/
+
+for inspiration in style if not in details.
+"""
+
+owner = "titus@idyll.org"
