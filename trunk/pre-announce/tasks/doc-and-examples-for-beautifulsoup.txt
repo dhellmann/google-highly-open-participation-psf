@@ -1,0 +1,27 @@
+tags = "docs,examples,thirdparty"
+
+summary = """
+Write an introduction to BeautifulSoup.
+"""
+
+description = """
+Write a *simple* tutorial introduction to the BeautifulSoup parser,
+
+http://www.crummy.com/software/BeautifulSoup/
+
+Take a fairly simple page (e.g. reddit.com, or www.python.org) and 
+write a tutorial introduction that shows how to use BeautifulSoup
+to extract each type of information from the page, including:
+
+ - title
+ - links
+ - div information
+ - form information
+
+This could eaisly be done by extracting elements from the existing
+BeautifulSoup docs, here:
+
+http://www.crummy.com/software/BeautifulSoup/documentation.html
+"""
+
+owner = "titus@idyll.org"
