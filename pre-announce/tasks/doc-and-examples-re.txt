@@ -1,0 +1,34 @@
+tags = "docs,examples,stdlib"
+
+summary = """
+Add docs and examples to the 're' module
+"""
+
+description = """
+Add documentation and examples to the 're' module in the Python 2.6 standard
+library.
+
+See DocumentationAndExampleGuidelines for general information on
+getting the latest docs, editing them, and generating patches.
+
+Details for this specific module:
+
+ - in "matching vs searching", simplify the examples by removing the
+   're.compile' code, and expand the discussion.
+   (http://docs.python.org/lib/matching-searching.html)
+
+ - add a simpler example of using 're.match' under "Match Objects";
+   revise documentation to contain (more) examples for start/end/group/
+   groups/groupdict/span.
+
+ - under the "Examples" section add (simple!) examples for
+
+   * matching groups and subgroups;
+   * search, match, split, sub, findall, finditer
+   * talk about use of r"string" notation instead of 'escape'
+
+ - (optional) fold "regular expression objects" discussion into
+   "module contents" discussion
+"""
+
+owner = "titus@idyll.org"

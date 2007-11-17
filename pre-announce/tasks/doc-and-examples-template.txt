@@ -1,0 +1,22 @@
+ignore=True		# template
+
+tags = "docs,examples,stdlib"
+
+summary = """
+Add documentation and examples to the '@@' module
+"""
+
+description = """
+Add documentation and examples to the '@@' module in the Python 2.6 standard
+library.
+
+See DocumentationAndExampleGuidelines for general information on
+getting the latest docs, editing them, and generating patches.
+
+Details for this specific module:
+
+ - @@
+
+"""
+
+owner = "titus@idyll.org"
