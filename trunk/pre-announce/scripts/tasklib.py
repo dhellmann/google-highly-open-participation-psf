@@ -23,10 +23,14 @@ def load_task_from_file(filename):
         print 'ignoring:', filename
         return
 
-    summary = local_d['summary'].strip()
-    description = local_d['description'].strip()
-    tags = set(local_d['tags'].split(','))
-    owner = local_d['owner'].strip()
+    try:
+        summary = local_d['summary'].strip()
+        description = local_d['description'].strip()
+        tags = set(local_d['tags'].split(','))
+        owner = local_d['owner'].strip()
+    except KeyError:
+        print 'ERROR loading info from file', filename
+        raise
 
     task = Task(summary, description, tags, owner)
     return task
