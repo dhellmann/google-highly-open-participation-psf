@@ -1,0 +1,17 @@
+tags = "demo,core,advocacy"
+
+summary = """
+Give a class or non-Python-interest-group presentation on Python.
+"""
+
+description = """
+Work through the Python tutorial at
+
+     http://docs.python.org/tut/
+
+and give a class or interest-group demonstration of the tutorial.
+Document your presentation by taking a photo at the end of the
+presentation and uploading your slides in PDF format.
+"""
+
+owner = "titus@idyll.org"
