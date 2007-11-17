@@ -1,0 +1,25 @@
+tags = "testing,thirdparty"
+
+summary = """
+Test several plugins from pyblosxom (pyblosxom #1).
+"""
+
+description = """
+Verify that several plugins work properly in PyBlosxom 1.4, a Python
+Weblog system:
+
+http://pyblosxom.sourceforge.net/blog/registry?sortby=path
+
+Specifically, install PyBlosxom 1.4 and verify that these plugins work.
+Add plain text 'README.txt'-style documentation where it does not exist.
+
+ pycategories
+ pygallery
+ viewcount
+
+If you install the plugins and configure them, but a plugin does not
+work, please either fix it or write a short description of why it
+does not work.
+"""
+
+owner = "titus@idyll.org"
