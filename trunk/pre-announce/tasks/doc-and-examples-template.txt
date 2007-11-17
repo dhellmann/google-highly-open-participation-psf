@@ -1,3 +1,29 @@
+### xmlrpclib - server/client example
+### datetime - examples
+### ConfigParser - examples & docs
+### wsgiref - simple example server & discussion
+### logging - rearrange docs, more examples
+### csv - examples (delim)
+### pprint - indent, depth, width
+### urllib2 - transfer from "hidden guide"
+### traceback - examples
+### bisect - examples
+### xml.etree.ElementTree - transfer docs from effbot
+### multimedia stuff / videoreader (docs)
+
+### struct ?
+### glob ?
+
+### unittest ??
+### UserDict??
+### SocketServer ??
+### itertools??
+### operator??
+### mmap??
+### compiler docs (see kumar; note AST => AbSynTree)
+### applesingle?
+
+
 ignore=True		# template
 
 tags = "docs,examples,stdlib"
