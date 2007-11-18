@@ -1,0 +1,30 @@
+tags = "core,performance,C"
+
+summary = """
+Benchmark a new memory allocation scheme, TCMalloc.
+"""
+
+description = """
+Replace the existing malloc- and pymalloc-based schemes with TCMalloc,
+
+    http://goog-perftools.sourceforge.net/doc/tcmalloc.html 
+
+and use pybench (Tools/pybench/pybench.py in Subversion) to assess the
+results.
+
+Run pybench for either Python 2.6 or Python 3.0, under four different
+configurations of Python:
+
+ - default pymalloc-based system ('configure')
+
+ - with pymalloc disabled ('configure --without-pymalloc')
+
+ - with pymalloc disabled and with TCMalloc enabled (see TCMalloc docs);
+
+ - with pymalloc enabled with TCMalloc enabled.
+
+Do this for either Python 2.6 or Python 3.0; summarize the reports and
+send them to ghop-psf mailing list.
+"""
+
+owner = "titus@idyll.org"
