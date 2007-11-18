@@ -1,5 +1,5 @@
 #summary Write unit tests for 3 pyMOTW modules
-#labels testing
+#labels testing,deprecated
 
 == Write unit tests for 3 pyMOTW modules ==
 
