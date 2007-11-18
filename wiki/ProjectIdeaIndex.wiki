@@ -20,7 +20,7 @@ Tasks by category.
 
 == Py3k tasks ==
 
-  * DocumentPy2And3Syntax: Write a basic "differences between Python 2 and 3" document
+  * DocumentPy2And3Syntax: Write a basic "differences between Python 2 and 3" document - *done*
   * UpdateCodeExamples: update code snippets in Python 3 docs -- *needs more info*
   * UpdateStrUnicodeDocs: update library documentation w.r.t. str/unicode change
   * RemoveLongIntegers: remove all mentions of long integers from the docs
