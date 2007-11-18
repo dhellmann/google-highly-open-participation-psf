@@ -1,4 +1,4 @@
-#Instructions and notes for working on the Py3k branch
+#summary Instructions and notes for working on the Py3k branch
 
 = Introduction =
 
