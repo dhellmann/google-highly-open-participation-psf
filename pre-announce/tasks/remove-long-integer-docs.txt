@@ -1,0 +1,14 @@
+tags = "docs,py3k"
+
+summary = """
+Convert all 'long integer' documentation references into 'integer'.
+"""
+
+description = """
+In Python 3.0, there is no distinction between "long integer" and "integer".
+(See "Atomic Types" in PEP 3100, http://www.python.org/dev/peps/pep-3100/).
+
+Find all mentions of "long integer" in the documentation and correct them.
+"""
+
+owner = "titus@idyll.org"

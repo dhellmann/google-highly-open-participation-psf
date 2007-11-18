@@ -1,0 +1,16 @@
+tags = "docs,py3k"
+
+summary = """
+Update 'str', 'unicode', and 'bytes' references in the docs.
+"""
+
+description = """
+
+In Python 3.0, unicode has been removed, because all strings are now
+unicode. Byte strings are now 'bytes'.  (See "Atomic Types" in PEP
+3100, http://www.python.org/dev/peps/pep-3100/).
+
+Update 'lib' documentation appropriately.
+"""
+
+owner = "titus@idyll.org"
