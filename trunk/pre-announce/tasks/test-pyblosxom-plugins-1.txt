@@ -13,9 +13,9 @@ http://pyblosxom.sourceforge.net/blog/registry?sortby=path
 Specifically, install PyBlosxom 1.4 and verify that these plugins work.
 Add plain text 'README.txt'-style documentation where it does not exist.
 
- pycategories
- pygallery
- viewcount
+  comments
+  comment-openid
+  nospam or spamquestion
 
 If you install the plugins and configure them, but a plugin does not
 work, please either fix it or write a short description of why it
