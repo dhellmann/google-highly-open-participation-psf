@@ -7,7 +7,7 @@ Tasks by category.
 
   * [PythonInterfacesToSN]: Write python interfaces to popular social networking sites  -- *done*
   * [PortPackagesToPy3K]: Try out and/or port small/useful 3rd party packages to Py3K.
-  * [BenchmarkTCMalloc]: Try out Google's TCMalloc with Python.
+  * [BenchmarkTCMalloc]: Try out Google's TCMalloc with Python - *done*
   * [RealTimeLogFileVisualization]: Several tasks for visualizing system log files in real time
 
 = Testing =
