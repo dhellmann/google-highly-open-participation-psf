@@ -8,3 +8,14 @@ General subversion instructions here: http://www.python.org/dev/faq/#subversion-
 
 Use the URL http://svn.python.org/projects/python/branches/py3k/ to get the py3k branch
 of Python.
+
+== Py3k documentation =
+
+The latest documentation is available here:
+
+http://docs.python.org/dev/3.0/
+
+The documentation for Py3k is written in reStructuredText and available under
+Doc/ in the py3k branch source tree.  See http://docutils.sourceforge.net/rst.html
+for an introduction to reStructuredText.
+
