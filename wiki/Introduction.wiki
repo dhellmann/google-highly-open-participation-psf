@@ -1,1 +1,17 @@
 #summary Introducing Python's project for the Google Highly Open Participation competition.
+
+= Introducing GHOP =
+
+= For students: Getting started with Python tasks =
+
+== Joining the mailing list ==
+
+== Choosing a task ==
+
+== Completing a task ==
+
+= For mentors: Getting involved =
+
+== Joining the mailing list ==
+
+== Suggesting new tasks ==
