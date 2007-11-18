@@ -1,0 +1,24 @@
+ignore=True		# template
+
+tags = "docs,py3k"
+
+summary = """
+Update the Py3K docs with changes from PEP @@.
+"""
+
+description = """
+Many of the Python Enhancement Proposals (PEP) for Py3K, numbered 31xx,
+have been accepted and implemented (see the PEP index, "Finished PEPs",
+
+     http://www.python.org/dev/peps/
+
+for a full list).  However, the changes in the code are not yet
+reflected in the Python docs.  Read and understand the PEP, locate the
+places in the docs that need to be updated, and update them to reflect
+the changes in the PEP.
+
+Reminder: working code examples are an excellent way to make sure that
+you understood the PEP ;)
+"""
+
+owner = "titus@idyll.org"
