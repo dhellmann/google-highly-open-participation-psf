@@ -15,3 +15,7 @@
 == Joining the mailing list ==
 
 == Suggesting new tasks ==
+
+= Acknowledgements =
+
+Thanks to the many [Contributors] from the Python community!
