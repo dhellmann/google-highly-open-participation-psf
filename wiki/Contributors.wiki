@@ -1,0 +1,9 @@
+#summary Members of the Python community who have contributed tasks.
+
+Leslie Hawthorn @ Google (now an honorary member of the Python community ;)
+
+The py-skunkworks gang (...)
+
+Will Guaraldi (pyblosxom), Terry Peppers, Shannon Behrens
+
+Blog commenters at http://ivory.idyll.org/blog/nov-07/hidden-gems-in-stdlib.html - extract and add!
