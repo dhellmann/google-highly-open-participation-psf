@@ -1,0 +1,10 @@
+#Instructions and notes for working on the Py3k branch
+
+= Introduction =
+
+== Subversion checkout Of Py3k ==
+
+General subversion instructions here: http://www.python.org/dev/faq/#subversion-svn
+
+Use the URL http://svn.python.org/projects/python/branches/py3k/ to get the py3k branch
+of Python.
