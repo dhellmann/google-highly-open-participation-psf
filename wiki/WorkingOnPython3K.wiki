@@ -16,6 +16,10 @@ The latest documentation is available here:
 http://docs.python.org/dev/3.0/
 
 The documentation for Py3k is written in reStructuredText and available under
-Doc/ in the py3k branch source tree.  See http://docutils.sourceforge.net/rst.html
-for an introduction to reStructuredText.
+Doc/ in the py3k branch source tree.
 
+See http://docs.python.org/dev/3.0/documenting/index.html for information on contributing
+to documentation.
+
+Also see http://docutils.sourceforge.net/rst.html
+for an introduction to reStructuredText.
