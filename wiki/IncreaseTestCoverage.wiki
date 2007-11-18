@@ -1,4 +1,5 @@
 #summary Increase code coverage of unit tests on a Python module.
+#labels testing
 
 = Increase unit test code coverage in the Python std lib =
 
