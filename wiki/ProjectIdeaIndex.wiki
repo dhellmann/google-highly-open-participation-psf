@@ -7,29 +7,29 @@ Tasks by category.
 
   * [PythonInterfacesToSN]: Write python interfaces to popular social networking sites  -- *done*
   * [PortPackagesToPy3K]: Try out and/or port small/useful 3rd party packages to Py3K.
-  * [BenchmarkTCMalloc]: Try out Google's TCMalloc with Python - *done*
+  * [BenchmarkTCMalloc]: Try out Google's TCMalloc with Python -- *done*
   * [RealTimeLogFileVisualization]: Several tasks for visualizing system log files in real time
 
 = Testing =
 
   * BuildOnWindows
   * WideFinderPerformanceTesting: Performance testing for WideFinder implementations
-  * [IncreaseTestCoverage]: Increase code coverage of unit tests for Python modules - *in progress*
+  * [IncreaseTestCoverage]: Increase code coverage of unit tests for Python modules -- *in progress*
 
 = Documentation =
 
 == Py3k tasks ==
 
-  * DocumentPy2And3Syntax: Write a basic "differences between Python 2 and 3" document - *done*
+  * DocumentPy2And3Syntax: Write a basic "differences between Python 2 and 3" document -- *done*
   * UpdateCodeExamples: update code snippets in Python 3 docs -- *needs more info*
-  * UpdateStrUnicodeDocs: update library documentation w.r.t. str/unicode change
-  * RemoveLongIntegers: remove all mentions of long integers from the docs - *done*
+  * UpdateStrUnicodeDocs: update library documentation w.r.t. str/unicode change -- *done*
+  * RemoveLongIntegers: remove all mentions of long integers from the docs -- *done*
 
 == General tasks ==
 
   * UsingOnWindows: add a document on using Python on Windows
   * UsingOnUnix: add a document on using Python on UNIX
-  * AddCodeExamples: add examples to library docs - *in progress*
+  * AddCodeExamples: add examples to library docs -- *in progress*
   * SyncDocStrings: sync docstrings with docs -- *needs more info*
   * [DocumentCApiFunctions]: document undocumented C API functions -- *needs more info*
   * UpdateReferenceCountData: update the refcount file -- *needs more info*
