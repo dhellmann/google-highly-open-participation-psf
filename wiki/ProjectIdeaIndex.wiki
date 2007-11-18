@@ -5,7 +5,7 @@ Tasks by category.
 
 = Code =
 
-  * [PythonInterfacesToSN]: Write python interfaces to popular social networking sites *done*
+  * [PythonInterfacesToSN]: Write python interfaces to popular social networking sites  -- *done*
   * [PortPackagesToPy3K]: Try out and/or port small/useful 3rd party packages to Py3K.
   * [BenchmarkTCMalloc]: Try out Google's TCMalloc with Python.
   * [RealTimeLogFileVisualization]: Several tasks for visualizing system log files in real time
@@ -32,14 +32,14 @@ Tasks by category.
   * AddCodeExamples: add examples to library docs
   * SyncDocStrings: sync docstrings with docs
   * [DocumentCApiFunctions]: document undocumented C API functions
-  * UpdateReferenceCountData: update the refcount file *needs more info*
+  * UpdateReferenceCountData: update the refcount file -- *needs more info*
   * [DocumentPEPs]: document PEPs implemented but not documented yet
   * FillGlossary: add useful terms to the glossary and cross-link them
 
 = Training =
 
   * TutorialScreencasts: have students prepare short screencasts like those at [http://www.showmedo.com ShowMeDo].
-  * GivingPythonCourse: Giving a course on Python *done*
+  * GivingPythonCourse: Giving a course on Python -- *done*
   * CrunchyTutorials: Write new tutorial for Crunchy
 
 == Deprecated ==
