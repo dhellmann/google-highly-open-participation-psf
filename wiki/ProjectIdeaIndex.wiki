@@ -14,7 +14,7 @@ Tasks by category.
 
   * BuildOnWindows
   * WideFinderPerformanceTesting: Performance testing for WideFinder implementations
-  * [IncreaseTestCoverage]: Increase code coverage of unit tests for Python modules
+  * [IncreaseTestCoverage]: Increase code coverage of unit tests for Python modules - *in progress*
 
 = Documentation =
 
@@ -29,11 +29,11 @@ Tasks by category.
 
   * UsingOnWindows: add a document on using Python on Windows
   * UsingOnUnix: add a document on using Python on UNIX
-  * AddCodeExamples: add examples to library docs
+  * AddCodeExamples: add examples to library docs - *in progress*
   * SyncDocStrings: sync docstrings with docs
   * [DocumentCApiFunctions]: document undocumented C API functions
   * UpdateReferenceCountData: update the refcount file -- *needs more info*
-  * [DocumentPEPs]: document PEPs implemented but not documented yet
+  * [DocumentPEPs]: document PEPs implemented but not documented yet - *in progress*
   * FillGlossary: add useful terms to the glossary and cross-link them
 
 = Training =
