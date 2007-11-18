@@ -5,8 +5,7 @@ Tasks by category.
 
 = Code =
 
-  * TryPython: Setup Try Python
-  * [PythonInterfacesToSN]: Write python interfaces to popular social networking sites
+  * [PythonInterfacesToSN]: Write python interfaces to popular social networking sites *done*
   * [PortPackagesToPy3K]: Try out and/or port small/useful 3rd party packages to Py3K.
   * [BenchmarkTCMalloc]: Try out Google's TCMalloc with Python.
   * [RealTimeLogFileVisualization]: Several tasks for visualizing system log files in real time
@@ -15,7 +14,6 @@ Tasks by category.
 
   * BuildOnWindows
   * WideFinderPerformanceTesting: Performance testing for WideFinder implementations
-  * [UnitTestsForPyMOTW]: Write unit tests for 3 pyMOTW modules
   * [IncreaseTestCoverage]: Increase code coverage of unit tests for Python modules
 
 = Documentation =
@@ -34,12 +32,17 @@ Tasks by category.
   * AddCodeExamples: add examples to library docs
   * SyncDocStrings: sync docstrings with docs
   * [DocumentCApiFunctions]: document undocumented C API functions
-  * UpdateReferenceCountData: update the refcount file
+  * UpdateReferenceCountData: update the refcount file *needs more info*
   * [DocumentPEPs]: document PEPs implemented but not documented yet
   * FillGlossary: add useful terms to the glossary and cross-link them
 
 = Training =
 
   * TutorialScreencasts: have students prepare short screencasts like those at [http://www.showmedo.com ShowMeDo].
-  * GivingPythonCourse: Giving a course on Python
+  * GivingPythonCourse: Giving a course on Python *done*
   * CrunchyTutorials: Write new tutorial for Crunchy
+
+== Deprecated ==
+
+  * TryPython: Setup Try Python
+  * [UnitTestsForPyMOTW]: Write unit tests for 3 pyMOTW modules
