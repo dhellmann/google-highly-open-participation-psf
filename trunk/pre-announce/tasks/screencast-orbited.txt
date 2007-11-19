@@ -1,0 +1,20 @@
+tags = "screencast,3rdparty"
+
+summary = """
+Develop a screencast on orbited.
+"""
+
+description = """
+Install orbited,
+
+    http://www.oribted.org/
+
+and run through either the CherryChat or PylonsChat tutorial at
+
+    http://www.orbited.org/tutorials.html
+
+Then record a screencast showing off the results (see
+RecordingScreencasts).  Upload the screencast to the GHOP-PSF site.
+"""
+
+owner = "titus@idyll.org"

@@ -21,7 +21,7 @@ configurations of Python:
 
  - with pymalloc disabled and with TCMalloc enabled (see TCMalloc docs);
 
- - with pymalloc enabled with TCMalloc enabled.
+ - with pymalloc enabled and with TCMalloc enabled.
 
 Do this for either Python 2.6 or Python 3.0; summarize the reports and
 send them to ghop-psf mailing list.

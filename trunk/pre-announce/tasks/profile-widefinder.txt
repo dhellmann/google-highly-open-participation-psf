@@ -1,0 +1,17 @@
+tags = "performance"
+
+summary = """
+Profile Fredrik Lundh's single-threaded "widefinder" implementation.
+"""
+description = """
+Read over this page,
+
+     http://effbot.org/zone/wide-finder.htm
+
+and profile the single-threaded Python implementation using Python 2.6
+and the cProfile module.  Make the code and profiling results available,
+and write a short (~1 page) discussion of how you might make this faster.
+For extra credit, try making it faster.
+"""
+
+owner = "grig@gheorghiu.net"

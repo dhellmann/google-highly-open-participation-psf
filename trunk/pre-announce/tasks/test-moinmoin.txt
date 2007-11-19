@@ -1,0 +1,25 @@
+tags = "testing,3rdparty"
+
+summary = """
+Write automated linking tests for MoinMoin.
+"""
+
+description = """
+Install the development version (1.6) of MoinMoin,
+
+    http://moinmo.in/MoinMoinDownload
+
+(see "Beta testing") and write automated tests for the linking features,
+
+    http://master.moinmo.in/HelpOnLinking
+
+with twill,
+
+    http://twill.idyll.org/
+
+Your test script(s) should take the URL of an empty MoinMoin page,
+edit it with examples of each kind of link, and verify that the
+correct HTML link is produced.
+"""
+
+owner = "titus@idyll.org"

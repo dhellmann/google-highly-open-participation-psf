@@ -1,0 +1,18 @@
+tags = "performance"
+
+summary = """
+Benchmark Fredrik Lundh's "widefinder" implementations on your machine.
+"""
+description = """
+Read over this page,
+
+     http://effbot.org/zone/wide-finder.htm
+
+and benchmark all three Python implementations (single-threaded,
+multi-threaded, and multi-process) on the fastest machine you have
+access to.  Make the source code and timing results available, and
+write a short discussion (~1 paragraph) about why you got the results
+you did.
+"""
+
+owner = "grig@gheorghiu.net"

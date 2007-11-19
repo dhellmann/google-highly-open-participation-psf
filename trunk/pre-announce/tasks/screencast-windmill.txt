@@ -1,0 +1,18 @@
+tags = "screencast,3rdparty"
+
+summary = """
+Record a screencast on Windmill.
+"""
+
+description = """
+Install Windmill,
+
+    http://windmill.osafoundation.org/trac/wiki/WindmillBook
+
+and record a screencast on recording and playing back Web actions
+on a simple Web site of your choosing.
+
+See RecordingScreencasts.
+"""
+
+owner = "titus@idyll.org"

@@ -1,0 +1,23 @@
+tags = "demo,3rdparty,advocacy"
+
+summary = """
+Give a class or interest-group presentation on pygame.
+"""
+
+description = """
+Install pygame,
+
+    http://www.pygame.org/
+
+and work through the Arkanoid-style game tutorial at
+
+    http://www.scriptedfun.com/about/
+
+Give a short demo of the results to a programming class or
+club/interest-group.
+
+Document your presentation by taking a photo at the end of the
+presentation and uploading your slides in PDF format.
+"""
+
+owner = "titus@idyll.org"

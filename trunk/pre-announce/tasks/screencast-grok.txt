@@ -1,0 +1,17 @@
+tags = "screencast,3rdparty"
+
+summary = """
+Record a screencast on Grok.
+"""
+
+description = """
+Install Grok and run through the tutorial,
+
+    http://grok.zope.org/tutorial.html
+
+and record a screencast with the highlights of the tutorial.
+
+See RecordingScreencasts.
+"""
+
+owner = "titus@idyll.org"
