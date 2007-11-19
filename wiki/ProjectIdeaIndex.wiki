@@ -13,7 +13,7 @@ Tasks by category.
 = Testing =
 
   * BuildOnWindows
-  * WideFinderPerformanceTesting: Performance testing for WideFinder implementations
+  * WideFinderPerformanceTesting: Performance testing for WideFinder implementations -- done
   * [IncreaseTestCoverage]: Increase code coverage of unit tests for Python modules -- *in progress*
 
 = Documentation =
@@ -38,7 +38,7 @@ Tasks by category.
 
 = Training =
 
-  * TutorialScreencasts: have students prepare short screencasts like those at [http://www.showmedo.com ShowMeDo].
+  * TutorialScreencasts: have students prepare short screencasts like those at [http://www.showmedo.com ShowMeDo]. -- *done*
   * GivingPythonCourse: Giving a course on Python -- *done*
   * CrunchyTutorials: Write new tutorial for Crunchy
 
