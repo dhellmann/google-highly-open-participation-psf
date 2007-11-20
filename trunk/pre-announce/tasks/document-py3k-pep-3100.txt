@@ -1,0 +1,18 @@
+tags = "docs,py3k"
+
+summary = """
+Update the Py3K docs to match PEP 3100, Core Language Changes.
+"""
+
+description = """
+PEP 3100 documents most of the Python 3.0 plans.  While most of the
+core language changes have been made, the documentation does not reflect
+all of them.  Go over the Python 3.0 docs,
+
+    http://docs.python.org/dev/3.0/
+
+and make a list of all of the places that describe behavior incompatible
+with Python 3.0.  Then update the documentation appropriately.
+"""
+
+owner = "titus@idyll.org"
