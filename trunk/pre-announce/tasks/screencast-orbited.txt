@@ -7,7 +7,7 @@ Develop a screencast on orbited.
 description = """
 Install orbited,
 
-    http://www.oribted.org/
+    http://www.orbited.org/tutorials/installation.html
 
 and run through either the CherryChat or PylonsChat tutorial at
 
