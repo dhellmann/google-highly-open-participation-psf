@@ -1,11 +1,8 @@
 ### logging - rearrange docs, more examples
 ### urllib2 - transfer from "hidden guide"
-### multimedia stuff / videoreader (docs)
-
 ### unittest ??
-### itertools??
-### operator??
-### mmap??
+
+### multimedia stuff / videoreader (docs)
 ### compiler docs (see kumar; note AST => AbSynTree)
 ### applesingle?
 

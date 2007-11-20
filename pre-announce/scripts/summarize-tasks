@@ -12,6 +12,11 @@ if __name__ == '__main__':
     print 'Looking for tasks (*.txt) under %s' % (startdir,)
 
     tasks = tasklib.gather_tasks(startdir)
+    tasks = list(tasks)
+
+    def mycmp(a, b):
+        return cmp(a.summary, b.summary)
+    tasks.sort(mycmp)
 
     print '%d tasks:' % (len(tasks),)
     for task in tasks:

@@ -13,8 +13,8 @@ getting the latest docs, editing them, and generating patches.
 
 Details for this specific module:
 
- - add individual, simple examples to the existing itertools examples
-   section.
+ - add individual, simple examples of each itertools function to the
+   existing itertools examples section.
 
 """
 

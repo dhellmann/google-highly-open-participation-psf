@@ -1,0 +1,30 @@
+tags = "docs,examples,stdlib"
+
+summary = """
+Add simpler examples to the 'logging' module
+"""
+
+description = """
+
+Add documentation and examples to the 'logging' module in the Python
+2.6 standard library.
+
+See DocumentationAndExampleGuidelines for general information on
+getting the latest docs, editing them, and generating patches.
+
+Details for this specific module:
+
+ - integrate Doug Hellmann's "Python Module of the Week" post,
+
+     http://blog.doughellmann.com/2007/05/pymotw-logging.html
+
+ into a new section in the logging docs, "Getting started with logging".
+
+Please be sure to credit Doug Hellmann as the author of the original text.
+
+Also consider integrating some of Jeremy Jones' text from:
+
+   http://www.onlamp.com/pub/a/python/2005/06/02/logging.html
+"""
+
+owner = "titus@idyll.org"
