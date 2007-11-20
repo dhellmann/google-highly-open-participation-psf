@@ -1,0 +1,19 @@
+tags = "demo,thirdparty,advocacy"
+
+summary = """
+Write an example use case of the DB API for a MySQL database
+"""
+
+description = """
+Using Andrew Kuchling's tutorial on the DB API as a starting point,
+
+     http://www.amk.ca/python/writing/DB-API.html
+
+install MySQL and a MySQL interface for Python, and show how to create
+a database, create a table, and then use Python and the DB API to
+add data, retrieve data, and delete data as in the tutorial above.
+
+Write the documentation in reStructuredText.
+"""
+
+owner = "titus@idyll.org"
