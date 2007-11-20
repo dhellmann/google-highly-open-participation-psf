@@ -1,0 +1,20 @@
+tags = "coverage,test,stdlib"
+
+summary = """
+Add unit tests for the 'cmd' module in Python 2.6.
+"""
+
+description = """
+Measure the number of lines executed by the unit tests included with
+Python 2.6 for the 'cmd' module, using figleaf or coverage (see
+MeasuringCodeCoverage).  Add new tests that increase the code coverage
+for this module to greater than 60%.  Submit a context diff (see
+SubmittingPatches) and text or HTML files containing both the old and
+new test coverage results.
+
+There appear to be no tests for 'cmd' currently in the Python source
+tree, so you will need to start from scratch.  Ask for help if you
+need a starting point.
+"""
+
+owner = "titus@idyll.org"
