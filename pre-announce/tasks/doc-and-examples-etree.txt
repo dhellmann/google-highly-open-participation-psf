@@ -1,0 +1,30 @@
+tags = "docs,examples,stdlib"
+
+summary = """
+Expand the xml.etree.ElementTree documentation by adding examples.
+"""
+
+description = """
+Add documentation and examples to the 'xml.etree.ElementTree' module
+in the Python 2.6 standard library.
+
+See DocumentationAndExampleGuidelines for general information on
+getting the latest docs, editing them, and generating patches.
+
+Details for this specific module:
+
+ - Write a simple example of parsing an XML file, as in
+
+	 http://effbot.org/zone/element-index.htm
+
+   section "Basic Usage".  Show loading, manipulating, and saving
+   of a simple XML structure.
+
+ - Add a link and some text to the xml.etree.ElementTree docs that
+   points at the effbot site, which is the location of the development
+   version of xml.etree.ElementTree, a.k.a. "ElementTree".
+
+ - Write an example for XMLTreeBuilder.
+"""
+
+owner = "titus@idyll.org"

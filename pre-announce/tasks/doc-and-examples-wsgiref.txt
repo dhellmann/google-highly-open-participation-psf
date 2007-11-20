@@ -1,0 +1,29 @@
+tags = "docs,examples,stdlib"
+
+summary = """
+Add example code to the wsgiref module documentation.
+"""
+
+description = """
+Write examples for the wsgiref module docs.
+
+See DocumentationAndExampleGuidelines for general information on
+getting the latest docs, editing them, and generating patches.
+
+Details for this specific module:
+
+ - Add a documented and fully functional example of a "Hello, world"
+   application to a new 'examples' section of the wsgiref module docs
+   (i.e. implement 'demo_app' in the wsgiref.simple_server section).
+
+ - Expand the discussion of wsgiref.util.setup_testing_defaults() by
+   adding an example;
+
+ - Add an example of FileWrapper use.
+
+ - Write an example showing how to use validator, including a simple
+   example of a broken WSGI application.  (Choose your breakage so
+   validator breaks, obviously.)
+"""
+
+owner = "titus@idyll.org"

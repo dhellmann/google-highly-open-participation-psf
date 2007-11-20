@@ -1,0 +1,27 @@
+tags = "docs,examples,stdlib"
+
+summary = """
+Add examples to the 'mmap' module
+"""
+
+description = """
+Add documentation and examples to the 'mmap' module in the Python 2.6 standard
+library.
+
+See DocumentationAndExampleGuidelines for general information on
+getting the latest docs, editing them, and generating patches.
+
+Details for this specific module:
+
+Add an explicit example of using mmap on either Windows and Linux to
+map a file into memory and then read from it and write to it.  In your
+example, verify that the file is changed on disk.
+
+Also add an explicit example of creating an anonymous mmap object, writing
+to it, fork()ing another process, and then reading from the preserved
+mmap object.
+
+(Also see http://en.wikipedia.org/wiki/Mmap for more information.)
+"""
+
+owner = "titus@idyll.org"
