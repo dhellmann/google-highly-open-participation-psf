@@ -1,0 +1,22 @@
+tags = "coverage,test,stdlib"
+
+summary = """
+Test the 'bisect' and 'heapq' module Python code in Python 2.6.
+"""
+
+description = """
+Measure the number of lines executed by the unit tests included with
+Python 2.6 for the 'bisect' and 'heapq' modules, using figleaf or
+coverage (see MeasuringCodeCoverage).  Add new tests that increase the
+code coverage for this module to > 95%.  Submit a context diff (see
+SubmittingPatches) and text or HTML files containing both the old and
+new test coverage results.
+
+Note that for both bisect and heapq, the C implementation is already
+tested thouroughly; for example, see test/test_bisect.py in the Python
+2.6 subversion archive.  A good approach would be to modify the bisect
+and heapq modules so that you can import the Python code instead of
+the C code, and make sure that all of the tests work properly.
+"""
+
+owner = "titus@idyll.org"

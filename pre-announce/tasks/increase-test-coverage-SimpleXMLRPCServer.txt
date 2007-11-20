@@ -1,0 +1,23 @@
+tags = "coverage,test,stdlib"
+
+summary = """
+Increase the unit test coverage for the 'SimpleXMLRPCServer' module in the stdlib.
+"""
+
+description = """
+
+Measure the number of lines executed by the unit tests included with
+Python 2.6 for the 'SimpleXMLRPCServer' module, using figleaf or coverage
+(see MeasuringCodeCoverage).  Add new tests that increase the code
+coverage for this module to > 95%.  Submit a context diff (see
+SubmittingPatches) and text or HTML files containing both the old and
+new test coverage results.
+
+Note that for SimpleXMLRPCServer, the '__main__' code is run in a
+forked process, so code coverage may not be not accurately recorded.
+However, there is still quite a bit of code -- especially
+error-handling code -- that needs to be tested.
+
+"""
+
+owner = "titus@idyll.org"
