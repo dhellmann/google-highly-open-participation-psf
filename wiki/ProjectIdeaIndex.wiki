@@ -29,7 +29,7 @@ Tasks by category.
 
   * UsingOnWindows: add a document on using Python on Windows
   * UsingOnUnix: add a document on using Python on UNIX
-  * AddCodeExamples: add examples to library docs -- *in progress*
+  * AddCodeExamples: add examples to library docs -- *done*
   * SyncDocStrings: sync docstrings with docs -- *needs more info*
   * [DocumentCApiFunctions]: document undocumented C API functions -- *needs more info*
   * UpdateReferenceCountData: update the refcount file -- *needs more info*
