@@ -2,9 +2,6 @@
 ### pprint - indent, depth, width
 ### traceback - examples
 
-
-ignore=True		# template
-
 tags = "docs,examples,stdlib"
 
 summary = """
