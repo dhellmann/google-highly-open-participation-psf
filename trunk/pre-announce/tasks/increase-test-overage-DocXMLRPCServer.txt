@@ -1,0 +1,17 @@
+tags = "coverage,test,stdlib"
+
+summary = """
+Increase the unit test coverage for the 'DoXMLRPCServer' module in the stdlib.
+"""
+
+description = """
+
+Measure the number of lines executed by the unit tests included with
+Python 2.6 for the 'DoxXMLRPCServer' module, using figleaf or coverage
+(see MeasuringCodeCoverage).  Add new tests that increase the code
+coverage for this module to > 80%.  Submit a context diff (see
+SubmittingPatches) and text or HTML files containing both the old and
+new test coverage results.
+"""
+
+owner = "titus@idyll.org"

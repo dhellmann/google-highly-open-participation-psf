@@ -1,3 +1,7 @@
+#http://iorich.caltech.edu/~t/transfer/pyhtml/imaplib.py.html
+#http://iorich.caltech.edu/~t/transfer/pyhtml/unittest.py.html
+
+
 ignore=True		# template
 
 tags = "coverage,test,stdlib"
