@@ -33,14 +33,14 @@ Tasks by category.
   * SyncDocStrings: sync docstrings with docs -- *needs more info*
   * [DocumentCApiFunctions]: document undocumented C API functions -- *needs more info*
   * UpdateReferenceCountData: update the refcount file -- *needs more info*
-  * [DocumentPEPs]: document PEPs implemented but not documented yet - *in progress*
+  * [DocumentPEPs]: document PEPs implemented but not documented yet - *done*
   * FillGlossary: add useful terms to the glossary and cross-link them
 
 = Training =
 
   * TutorialScreencasts: have students prepare short screencasts like those at [http://www.showmedo.com ShowMeDo]. -- *done*
   * GivingPythonCourse: Giving a course on Python -- *done*
-  * CrunchyTutorials: Write new tutorial for Crunchy
+  * CrunchyTutorials: Write new tutorial for Crunchy -- *in progress*
 
 == Deprecated ==
 
