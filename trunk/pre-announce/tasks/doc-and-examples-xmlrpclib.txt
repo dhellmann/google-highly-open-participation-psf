@@ -1,0 +1,25 @@
+tags = "docs,examples,stdlib"
+
+summary = """
+Add documentation and examples to the 'xmlrpclib' module
+"""
+
+description = """
+Add documentation and examples to the 'xmlrpclib' module in the Python 2.6
+standard library.
+
+See DocumentationAndExampleGuidelines for general information on
+getting the latest docs, editing them, and generating patches.
+
+Details for this specific module:
+
+ - in the "Example of Client Usage", link to the examples in the
+   discussion fo "SimpleXMLRPCServer Objects"
+
+ - add examples showing the use of Boolean, DateTime, Binary, Fault,
+   ProtocolError, and MultiCall objects; make use of SimpleXMLRPCServer
+   objects to build *functional* examples of using these on both the
+   client and server side of an XML-RPC connection.
+"""
+
+owner = "titus@idyll.org"

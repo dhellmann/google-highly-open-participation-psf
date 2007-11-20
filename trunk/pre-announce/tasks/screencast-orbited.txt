@@ -1,4 +1,4 @@
-tags = "screencast,3rdparty"
+tags = "screencast,thirdparty"
 
 summary = """
 Develop a screencast on orbited.

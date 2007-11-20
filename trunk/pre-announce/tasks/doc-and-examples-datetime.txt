@@ -1,0 +1,41 @@
+tags = "docs,examples,stdlib"
+
+summary = """
+Add documentation and examples to the 'datetime' module
+"""
+
+description = """
+Add documentation and examples to the 'datetime' module in the Python 2.6
+standard library.
+
+See DocumentationAndExampleGuidelines for general information on
+getting the latest docs, editing them, and generating patches.
+
+Details for this specific module:
+
+ - write an additional set of examples by adding code examples
+   (and discussion) showing:
+
+  * the use of timedelta objects, along with +/-, //, and abs() on
+    timedeltas;
+
+  * the use of date objects, including fromtimestamp, fromordinal,
+    replace, timetuple, isocalendar, isoformat, and strftime;
+
+  * the use of datetime objects, including combine, strptime, astimezone,
+    timetuple, isocalendar, and strftime;
+
+  * the use of time objects, including dst and tzname;
+
+  * the use of tzinfo objects;
+
+  * the use of strftime, with a number of examples showing the use of the
+    various % codes from the 'time' module.
+
+  * also, import the full set of codes from the 'time' module into the
+    strftime section.
+
+Extra credit if the examples are all doctests!
+"""
+
+owner = "titus@idyll.org"

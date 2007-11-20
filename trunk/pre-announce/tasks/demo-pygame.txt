@@ -1,4 +1,4 @@
-tags = "demo,3rdparty,advocacy"
+tags = "demo,thirdparty,advocacy"
 
 summary = """
 Give a class or interest-group presentation on pygame.

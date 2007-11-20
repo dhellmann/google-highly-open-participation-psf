@@ -1,0 +1,26 @@
+tags = "docs,examples,stdlib"
+
+summary = """
+Add example code to the ConfigParser module documentation.
+"""
+
+description = """
+Write examples for the ConfigParser module docs.
+
+See DocumentationAndExampleGuidelines for general information on
+getting the latest docs, editing them, and generating patches.
+
+Details for this specific module:
+
+Add a new subsection, Examples, to the ConfigParser module docs.
+This subsection should include 
+
+ - a detailed example of using a ConfigParser object, including loading
+   configs from a file, supplying defaults, using all of the get* functions,
+   and writing the config file back out.
+
+ - write examples showing the different behavior of RawConfigParser,
+   ConfigParser, and SafeConfigParser.
+"""
+
+owner = "titus@idyll.org"

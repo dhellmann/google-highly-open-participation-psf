@@ -1,0 +1,42 @@
+### csv - examples (delim)
+### pprint - indent, depth, width
+### traceback - examples
+
+
+ignore=True		# template
+
+tags = "docs,examples,stdlib"
+
+summary = """
+Add documentation and examples to the 'csv', 'pprint', and 'traceback' modules.
+"""
+
+description = """
+
+Add documentation and examples to the 'csv', 'pprint', and 'traceback'
+modules in the Python 2.6 standard library.
+
+See DocumentationAndExampleGuidelines for general information on
+getting the latest docs, editing them, and generating patches.
+
+Details for these specific modules:
+
+ - in the csv module, add simple 1- or 2-line examples (perhaps copied
+   from the Examples section) to the reader() and writer() docs under
+   "Module Contents".  Be sure to show the use of some of the format
+   parameters, like 'delimiter' and 'quoting'.
+
+ - in the pprint module, add a simple example for the 'depth' and 'width'
+   keywords.
+
+ - also in the pprint module, rewrite the code examples under
+   'class PrettyPrinter' to use lists and tuples defined in the
+   example, i.e. replace the use of sys.path and parser to generate
+   example data structures.
+
+ - in the traceback module, write examples showing how to use *all* of the
+   functions, and place them in the 'examples' subsection.
+
+"""
+
+owner = "titus@idyll.org"

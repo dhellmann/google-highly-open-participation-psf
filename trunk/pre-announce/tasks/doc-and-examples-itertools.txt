@@ -1,0 +1,21 @@
+tags = "docs,examples,stdlib"
+
+summary = """
+Add documentation and examples to the 'itertools' module
+"""
+
+description = """
+Add documentation and examples to the 'itertools' module in the Python
+2.6 standard library.
+
+See DocumentationAndExampleGuidelines for general information on
+getting the latest docs, editing them, and generating patches.
+
+Details for this specific module:
+
+ - add individual, simple examples to the existing itertools examples
+   section.
+
+"""
+
+owner = "titus@idyll.org"
