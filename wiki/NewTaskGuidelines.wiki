@@ -19,4 +19,6 @@ If you don't already have a project in mind but want to contribute by writing up
 
 Just add an issue with a status of New.
 
+Once the task is made available to students, it will be changed to Open.
+
 Tasks that we decided not to make available will be Deleted.
