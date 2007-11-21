@@ -1,3 +1,4 @@
 #summary Recording code coverage of tests
+#labels students,needs-work
 
 How to use figleaf, coverage.py
