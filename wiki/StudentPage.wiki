@@ -17,7 +17,7 @@ There are a bunch of different tasks, ranging from documenting stuff, to giving 
 == Working on tasks ==
 
 In the interests of fairness to you, the project, the mentors, and other students, we
-have a few rules about working on the task.  The most important rule is that you need to *communicate* with us, the mentors, so that we know what's going on with your task and we  know that you're working on it.
+have a few rules about working on the tasks.  The most important rule is that you need to *communicate* with us, the mentors, so that we know what's going on with your task and we  know that you're working on it.
 
 So, if you are interested in working on a particular task, be sure you understand that:
 
