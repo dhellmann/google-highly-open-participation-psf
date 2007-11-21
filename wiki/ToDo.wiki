@@ -3,7 +3,7 @@
 *Change tasks from open to new*
 
 Go through tasks and make sure that necessary Wiki pages are written and linked to from the comments.  Wiki info I know we'll need: GettingAndCompilingPython;
-WorkingOnDocumentation; WritingExampleCode; BenchmarkingAndProfiling; SearchingTheDocumentation; [Python3K]; HowToMakeScreencasts; RunningPythonTests; RecrdingTestCoverage; HowToTest.
+WorkingOnDocumentation; WritingExampleCode; BenchmarkingAndProfiling; SearchingTheDocumentation; [Python3K]; HowToMakeScreencasts; RunningPythonTests; RecordingTestCoverage; HowToTest.
 
 Write TaskBreakdown page
 
