@@ -1,0 +1,7 @@
+#summary How to write tests for source code
+
+Basic testing concepts
+
+Introduce unittest, py.test
+
+Thinking about code coverage
