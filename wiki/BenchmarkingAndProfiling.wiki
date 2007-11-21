@@ -1,4 +1,5 @@
 #summary Information on benchmarking and profiling Python code
+#labels students,needs-work
 
 pystone
 
