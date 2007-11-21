@@ -1,13 +1,16 @@
 #summary Information for GHOP students
+#labels students
 
 = Introduction =
 
-Add your content here.
+Welcome to the GHOP contest, and welcome to Python!  We're thrilled to have you!
 
+== Getting started ==
 
-= Details =
+== Choosing tasks ==
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+== Working on tasks ==
+
+== Completing tasks ==
+
+== Disputes, arbitration, unfairness ==
