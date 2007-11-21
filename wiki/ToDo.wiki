@@ -9,11 +9,6 @@ Write TaskBreakdown page
 
 Go through blog comments and e-mail and add tasks or update ProjectIdeaIndex.
 
-Document what a completed task is; reviews by mentor ok, mentors will be guided by
-primary developers if available!
-
-Talk about "extra credit" & "best student" award
-
 Note: add to Deleted tasks, "this task was entered incorrectly and work on
 it is not eligible for the Google Highly Open Participation Contest"
 
