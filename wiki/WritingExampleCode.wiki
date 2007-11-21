@@ -1,0 +1,7 @@
+#summary How to write example code for the docs
+
+Preformatted
+
+Write a script to make sure it runs, if you can't put all setup/teardown in docs.
+
+Think about using doctest, if you can.
