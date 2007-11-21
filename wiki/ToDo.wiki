@@ -4,6 +4,8 @@
 
 Go through tasks and make sure that necessary Wiki pages are written and linked to from the comments.  Wiki info I know we'll need: python co and compile; python doc contributing; adding example code; benchmarking; searching the docs; python30; screencast howto; running python unit tests; measuring test coverage; testing in general.
 
+Write TaskBreakdown page
+
 Go through blog comments and e-mail and add tasks or update ProjectIdeas.
 
 Document what a completed task is; reviews by mentor ok, mentors will be guided by
