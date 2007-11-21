@@ -1,4 +1,5 @@
 #summary Information for mentors
+#labels mentors
 
 = Introduction =
 
