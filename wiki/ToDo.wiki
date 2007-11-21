@@ -15,9 +15,7 @@ it is not eligible for the Google Highly Open Participation Contest"
 
 Discuss licenses somewhere!
 
-Add communication expectations to student page
-
-Update contributors
+Update [Contributors].
 
 Leslie says:
 {{{
