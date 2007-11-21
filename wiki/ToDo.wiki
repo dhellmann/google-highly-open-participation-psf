@@ -2,7 +2,8 @@
 
 *Change tasks from open to new*
 
-Go through tasks and make sure that necessary Wiki pages are written and linked to from the comments.  Wiki info I know we'll need: python co and compile; python doc contributing; adding example code; benchmarking; searching the docs; python30; screencast howto; running python unit tests; measuring test coverage; testing in general.
+Go through tasks and make sure that necessary Wiki pages are written and linked to from the comments.  Wiki info I know we'll need: GettingAndCompilingPython;
+WorkingOnDocumentation; WritingExampleCode; BenchmarkingAndProfiling; SearchingTheDocumentation; [Python3K]; HowToMakeScreencasts; RunningPythonTests; RecrdingTestCoverage; HowToTest.
 
 Write TaskBreakdown page
 
