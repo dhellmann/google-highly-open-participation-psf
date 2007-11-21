@@ -1,4 +1,5 @@
 #summary Instructions for working on Python docs
+#labels students,needs-work
 
 Python 3k http://docs.python.org/dev/3.0/, http://docs.python.org/dev/3.0/documenting/index.html
 
