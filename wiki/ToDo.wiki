@@ -6,7 +6,7 @@ Go through tasks and make sure that necessary Wiki pages are written and linked 
 
 Write TaskBreakdown page
 
-Go through blog comments and e-mail and add tasks or update ProjectIdeas.
+Go through blog comments and e-mail and add tasks or update ProjectIdeaIndex.
 
 Document what a completed task is; reviews by mentor ok, mentors will be guided by
 primary developers if available!
