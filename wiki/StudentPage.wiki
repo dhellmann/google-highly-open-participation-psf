@@ -37,3 +37,5 @@ Each task has a specific completion condition -- submitting patches to the docum
 
 == Disputes, arbitration, and general unfairness ==
 If you have any questions or comments about your dealings with a particular mentor or set of mentors, please simply discuss them on the mailing list.  Note that there are general rules of conduct expected of you, as well as everyone else on the mailing list; see [http://www.albion.com/netiquette/ Netiquette] for more information.
+
+If you disagree with the decision of the mentoring organization (in this case, Python!) you can contact Google directly to resolve the dispute.
