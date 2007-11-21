@@ -20,7 +20,8 @@ If you don't already have a project in mind but want to contribute by writing up
 
 = Submitting a task =
 
-Just add an issue with a status of New.
+Once you have the OK from the mentors list, just add an issue with a status of New.  Note that we cannot actually delete or edit task descriptions, so proof your descriptions,
+please!  Also note that Wiki markup (and live links) don't show up in task descriptions.  (This is a known "feature".)
 
 Once the task is made available to students, it will be changed to Open.
 
