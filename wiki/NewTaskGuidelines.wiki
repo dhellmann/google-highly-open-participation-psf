@@ -9,8 +9,8 @@ The primary requirement for a new task is that it be *specific*.
 
 It helps if it's *relatively small*, but there's nothing wrong with challenging students with bigger tasks ;).
 
-Ultimately your task must be approved by someone.  For the moment the process is relatively informal: simply type up the description and send it to [http://groups.google.com/group/ghop-python-mentors the mentors list], where we will try to come to a consensus.
-
+Ultimately your task must be approved by someone.  For the moment the process is relatively informal: simply type up the description and send it to [http://groups.google.com/group/ghop-python-mentors the mentors list], where we will try to come to a consensus decision about whether the task is suitable for students.
+  
 Note that tasks cannot *build on other tasks*.
 
 If you don't already have a project in mind but want to contribute by writing up a new project, go check out ProjectIdeaIndex.
@@ -21,4 +21,4 @@ Just add an issue with a status of New.
 
 Once the task is made available to students, it will be changed to Open.
 
-Tasks that we decided not to make available will be Deleted.
+Tasks that we withdraw or do not make available will be Deleted.
