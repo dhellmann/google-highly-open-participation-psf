@@ -1,0 +1,5 @@
+#summary Instructions for working on Python docs
+
+Python 3k http://docs.python.org/dev/3.0/, http://docs.python.org/dev/3.0/documenting/index.html
+
+Python 26 http://docs.python.org/dev/, http://docs.python.org/dev/documenting/index.html
