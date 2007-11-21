@@ -31,6 +31,11 @@ So, if you are interested in working on a particular task, be sure you understan
 
 If you don't complete the task on time, or try to claim multiple tasks, or don't communicate with us, we *will* re-open the task for other students to claim and you won't get credit for it!
 
+=== Communicating with us ===
+
+This is so important that we want to really emphasize it: you need to talk to us!
+At the very least, you need to send an e-mail to [http://groups.google.com/group/ghop-python the discussion list] every time you complete a task or take a new one.  However, this list is also a source for help on every aspect of the tasks: do you need a pointer to a resource?  Is your code not working for reasons you don't understand? *Ask the list.*  We won't mind, and this is an entirely accepted way of making progress on open source projects.
+
 == Completing tasks ==
 
 Each task has a specific completion condition -- submitting patches to the documentation or to code, or uploading presentation materials, or whatnot.  Please attach the patches or presentation materials to the task by going to the issue page, click on "Add a comment...", and attaching the file or files.  Then (and this is very important!) *e-mail the discussion list* and ask for a mentor to look over the files you've uploaded.  Only a mentor can close a task!
