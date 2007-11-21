@@ -21,13 +21,10 @@ have a few rules about working on the task.  The most important rule is that you
 
 So, if you are interested in working on a particular task, be sure you understand that:
 
- - you must complete the task within three days, unless you gain explicit permission
-   from a project mentor (on the discussion mailing list) for an extension;
+ - you must complete the task within three days, unless you gain explicit permission from a project mentor (on the discussion mailing list) for an extension;
  - you can only claim one task at a time;
- - you must *communicate* with the discussion mailing list within a day of claiming the
-   task, assuring us that you're still alive and that you're making progress.
- - a task is not *complete* until you've actually sent us something.  (Exactly what you
-   need to send is specified in each task.)
+ - you must *communicate* with the discussion mailing list within a day of claiming the task, assuring us that you're still alive and that you're making progress.
+ - a task is not *complete* until you've actually sent us something.  (Exactly what you need to send is specified in each task.)
 
 If you don't complete the task on time, or try to claim multiple tasks, or don't communicate with us, we *will* re-open the task for other students to claim and you won't get credit for it!
 
