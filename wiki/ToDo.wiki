@@ -2,8 +2,9 @@
 
 *Change tasks from open to new*
 
-Go through tasks and make sure that necessary Wiki pages are written and linked to from the comments.  Wiki info I know we'll need: GettingAndCompilingPython;
-WorkingOnDocumentation; WritingExampleCode; BenchmarkingAndProfiling; SearchingTheDocumentation; [Python3K]; HowToMakeScreencasts; RunningPythonTests; RecordingTestCoverage; HowToTest.
+Go through tasks and make sure that necessary Wiki pages are linked to
+
+See [http://code.google.com/p/google-highly-open-participation-psf/w/list?q=label:needs-work the list of pages that need work]
 
 Write TaskBreakdown page
 
