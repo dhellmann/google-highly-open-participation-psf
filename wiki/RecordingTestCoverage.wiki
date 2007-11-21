@@ -1,0 +1,3 @@
+#summary Recording code coverage of tests
+
+How to use figleaf, coverage.py
