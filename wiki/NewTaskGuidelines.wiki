@@ -1,6 +1,8 @@
 #summary Guidelines for coming up with new tasks.
 #labels mentors
 
+= Task outline =
+
 _Note: I tend to be fairly informal about these things.  Someone else could maybe write up some guidelines if they think it's too chaotic! --titus_
 
 The primary requirement for a new task is that it be *specific*.
@@ -12,3 +14,9 @@ Ultimately your task must be approved by someone.  For the moment the process is
 Note that tasks cannot *build on other tasks*.
 
 If you don't already have a project in mind but want to contribute by writing up a new project, go check out ProjectIdeaIndex.
+
+= Submitting a task =
+
+Just add an issue with a status of New.
+
+Tasks that we decided not to make available will be Deleted.
