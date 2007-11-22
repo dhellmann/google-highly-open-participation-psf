@@ -1,0 +1,4 @@
+2007-11-22  Doug Hellmann  <doug.hellmann@gmail.com>
+
+	* tasklib.py (gather_tasks): Ignore .svn directories.
+

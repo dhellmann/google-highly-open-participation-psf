@@ -41,6 +41,8 @@ def gather_tasks(startdir):
     startdir = os.path.abspath(startdir)
 
     for (dirpath, dirnames, filenames) in os.walk('.'):
+        if '.svn' in dirnames:
+            dirnames.remove('.svn')
         for filename in filenames:
             if filename.endswith('.txt'):
                 fullpath = os.path.join(dirpath, filename)
