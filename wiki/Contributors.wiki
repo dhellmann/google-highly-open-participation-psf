@@ -5,6 +5,6 @@ Leslie Hawthorn @ Google (now an honorary member of the Python community ;)
 The py-skunkworks gang (...)
 
 Will Guaraldi (pyblosxom), Terry Peppers, Shannon Behrens, Doug Hellmann (PyMOTW),
-Michael Carter (orbited).
+Michael Carter (orbited), André Roberge (Crunchy).
 
 Blog commenters at http://ivory.idyll.org/blog/nov-07/hidden-gems-in-stdlib.html - extract and add!
