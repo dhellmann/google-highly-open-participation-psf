@@ -5,16 +5,10 @@ Add unit tests for Crunchy.
 """
 
 description = """
-Crunchy makes use of doctest to test some of its modules.  Add
-new doctest-based tests to increase the number of functions/methods
-that are currently unit tested.  Ask for help if you
-need a starting point.  You can download Crunchy from
+Crunchy makes use of doctest to test some of its modules.  Using the example for the module vlam_editor.py (which needs to be done first), add new doctest-based tests for all the other modules (plugins) whose name start with "vlam_".  You can download Crunchy from
 
 http://code.google.com/p/crunchy
 
-If you claim this task, you should work on adding tests for only one Crunchy module and you must specify the name of the module you
-are writing tests for.  For the purpose of the GHOP contest, you can not
-do more than 3 tasks of this kind.
 """
 
 owner = "andre.roberge@gmail.com"
