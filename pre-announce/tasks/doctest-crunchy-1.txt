@@ -11,6 +11,7 @@ that are currently unit tested in the module utilities.py.  Ask for help if you 
 
 http://code.google.com/p/crunchy
 
+Bonus points: Use the knowledge you've gained to write doctest-based for other modules after you check in your completed task.  
 """
 
 owner = "andre.roberge@gmail.com"

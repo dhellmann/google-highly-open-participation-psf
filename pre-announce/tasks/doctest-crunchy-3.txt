@@ -5,10 +5,11 @@ Add unit tests for Crunchy.
 """
 
 description = """
-Crunchy makes use of doctest to test some of its modules.  Using the example for the module vlam_editor.py (which needs to be done first), add new doctest-based tests for all the other modules (plugins) whose name start with "vlam_".  You can download Crunchy from
+Crunchy makes use of doctest to test some of its modules.  Add new doctest-based tests for two modules (plugins) whose name start with "vlam_" with the exception of vlam_editor.py.  You can download Crunchy from
 
 http://code.google.com/p/crunchy
 
+Bonus points: Use the knowledge you've gained to write doctest-based for other modules after you check in your completed task.  
 """
 
 owner = "andre.roberge@gmail.com"

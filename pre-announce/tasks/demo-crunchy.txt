@@ -10,11 +10,12 @@ Install Crunchy,
     http://code.google.com/p/crunchy/
 
 and work through the Crunchy tutorial.  Then, give a short demo of 
-the tutorial to a programming class or
-club/interest-group.
+the tutorial to a programming class or club/interest-group.
 
 Document your presentation by taking a photo at the end of the
 presentation and uploading your slides in PDF format.
+
+Bonus points: write up a report on a publicly available blog, including a reference to GHOP, the PSF, describing your experience and the feedback you received.
 """
 
 owner = "andre.roberge@gmail.com"
