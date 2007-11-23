@@ -10,6 +10,7 @@ new doctest-based tests to for the three functions in the module vlam_editor.py.
 
 http://code.google.com/p/crunchy
 
+Bonus points: Use the knowledge you've gained to write doctest-based for other modules after you check in your completed task.  
 """
 
 owner = "andre.roberge@gmail.com"
