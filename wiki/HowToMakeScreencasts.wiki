@@ -1,8 +1,4 @@
 #summary How to record screencasts
 #labels students,needs-work
 
-vnc2swf
-
-OR
-
-screen recorder of your choice => edit etc.
+Visit the ShowMeDo site, and in particular the wiki at [http://wiki.showmedo.com/index.php/Main_Page] for more information.
