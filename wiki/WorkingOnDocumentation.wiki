@@ -9,4 +9,4 @@ Python 2.6:
  * Daily builds at http://docs.python.org/dev/
  * "Documenting Python" document at http://docs.python.org/dev/documenting/index.html (there  should be no difference to the 3.0 one)
 
-The documentation source is in Subversion at http://svn.python.org/projects/python/branches/py3k/Doc for 3.0 and http://svn.python.org/projects/python/trunk/Doc for 2.6.
+The documentation source is in Subversion at http://svn.python.org/projects/python/branches/py3k/Doc for 3.0 and http://svn.python.org/projects/python/trunk/Doc for 2.6.  Instructions for building the documentation can be found in the README.txt file inside the Doc directory, once you check out the source.
