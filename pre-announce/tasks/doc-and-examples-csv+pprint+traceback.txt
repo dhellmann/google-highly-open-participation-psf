@@ -36,4 +36,4 @@ Details for these specific modules:
 
 """
 
-owner = "titus@idyll.org"
+owner = "doug.hellmann@gmail.com"

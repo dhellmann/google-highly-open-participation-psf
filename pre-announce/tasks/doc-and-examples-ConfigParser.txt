@@ -23,4 +23,4 @@ This subsection should include
    ConfigParser, and SafeConfigParser.
 """
 
-owner = "titus@idyll.org"
+owner = "doug.hellmann@gmail.com"
