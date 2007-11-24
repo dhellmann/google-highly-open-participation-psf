@@ -1,6 +1,12 @@
 #summary Instructions for working on Python docs
 #labels students,needs-work
 
-Python 3k http://docs.python.org/dev/3.0/, http://docs.python.org/dev/3.0/documenting/index.html
+Python 3.0:
+ * Daily builds at http://docs.python.org/dev/3.0/
+ * "Documenting Python" document at http://docs.python.org/dev/3.0/documenting/index.html
 
-Python 26 http://docs.python.org/dev/, http://docs.python.org/dev/documenting/index.html
+Python 2.6:
+ * Daily builds at http://docs.python.org/dev/
+ * "Documenting Python" document at http://docs.python.org/dev/documenting/index.html (there  should be no difference to the 3.0 one)
+
+The documentation source is in Subversion at http://svn.python.org/projects/python/branches/py3k/Doc for 3.0 and http://svn.python.org/projects/python/trunk/Doc for 2.6.
