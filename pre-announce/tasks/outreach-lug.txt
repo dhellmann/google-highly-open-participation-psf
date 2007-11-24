@@ -11,11 +11,15 @@ what happened at the meeting, the presentations given, and what you
 learned.  You can post the write-up to your own web site or blog, or
 the user group's site, if it has one.
 
-Submit a URL to the completed write-up by pasting it into a comment on
-the task.  The URL must be available to be indexed by a search engine
-and visible to any reader on the internet without requiring special
-permissions (for example, access cannot be limited to "friends" in a
-social network).  Most web sites and blogs meet this requirement.
+Once you have selected a meeting to attend, add the information about
+date, time, and location as a comment on this task.
+
+After attending the meeting, submit a URL to the completed write-up by
+pasting it into a comment on this task.  The URL must be available to
+be indexed by a search engine and visible to any reader on the
+internet without requiring special permissions (for example, access
+cannot be limited to "friends" in a social network).  Most web sites
+and blogs meet this requirement.
 
 Include a reference to GHOP, PSF, and the task number for this task in
 the write-up.
