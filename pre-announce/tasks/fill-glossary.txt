@@ -1,0 +1,31 @@
+tags = "docs,py3k"
+
+summary = """
+Find new terms for the Python documentation's glossary and cross-link them
+from the rest of the docs.
+"""
+
+description = """
+
+The Python documentation for 2.6 and 3.0 has a glossary which aims to
+explain common, Python-specific or otherwise important terms used in
+the documentation.
+
+See http://docs.python.org/dev/glossary.html for the 2.6 glossary.
+
+Look at the glossary and decide which additional terms would be good
+to explain here. Explain them in one or two sentences, maybe referring
+to other glossary entries in turn.
+
+Then, search through the rest of the documentation for the new terms
+and, where appropriate, add a ":term:" role to them in order to create
+a link to the glossary.
+
+See the DocumentationAndExampleGuidelines and WorkingOnDocumentation wiki
+pages for helpful information, under
+
+   http://code.google.com/p/google-highly-open-participation-psf/w/list
+
+"""
+
+owner = "georg@python.org"
