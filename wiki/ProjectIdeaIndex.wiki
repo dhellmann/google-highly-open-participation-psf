@@ -28,8 +28,8 @@ Tasks by category.
 
 == General tasks ==
 
-  * UsingOnWindows: add a document on using Python on Windows
-  * UsingOnUnix: add a document on using Python on UNIX
+  * UsingOnWindows: add a document on using Python on Windows -- *done*
+  * UsingOnUnix: add a document on using Python on UNIX -- *done*
   * AddCodeExamples: add examples to library docs -- *done*
   * SyncDocStrings: sync docstrings with docs -- *needs more info*
   * [DocumentCApiFunctions]: document undocumented C API functions -- *done*
