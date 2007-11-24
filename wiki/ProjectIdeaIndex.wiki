@@ -33,9 +33,9 @@ Tasks by category.
   * AddCodeExamples: add examples to library docs -- *done*
   * SyncDocStrings: sync docstrings with docs -- *needs more info*
   * [DocumentCApiFunctions]: document undocumented C API functions -- *needs more info*
-  * UpdateReferenceCountData: update the refcount file -- *needs more info*
-  * [DocumentPEPs]: document PEPs implemented but not documented yet - *done*
+  * [DocumentPEPs]: document PEPs implemented but not documented yet -- *done*
   * FillGlossary: add useful terms to the glossary and cross-link them
+  * UpdateReferenceCountData: update the refcount file -- *withdrawn*
 
 = Training =
 
