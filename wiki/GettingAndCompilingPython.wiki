@@ -11,6 +11,19 @@ All tasks, unless stated explicitly, apply to Python version 2.6.  Use the URL h
 
 For tasks based on Python 3.0, check out the source from http://svn.python.org/projects/python/branches/py3k/.
 
+== Using Subversion ==
+
+There are many tutorials on Subversion available on the net, so here's only a
+very quick tour of frequently-used commands:
+
+ * use `svn checkout URL` to check out a source tree
+ * use `svn update` to update the source tree (you should do this frequently)
+ * use `svn status` to see which files you changed locally
+ * use `svn diff` to see in detail what changes you made locally, and to create patch files
+
+Of course, for Windows there exist sophisticated graphical tools using which you don't
+have to use the command line interface of Subversion.
+
 == Compiling Python from Source ==
 
 If you are working on the Python core and want to test your changes, or you want to
