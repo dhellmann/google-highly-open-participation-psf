@@ -14,7 +14,7 @@ getting the latest docs, editing them, and generating patches.
 Details for this specific module:
 
  - in the "Example of Client Usage", link to the examples in the
-   discussion fo "SimpleXMLRPCServer Objects"
+   discussion of "SimpleXMLRPCServer Objects"
 
  - add examples showing the use of Boolean, DateTime, Binary, Fault,
    ProtocolError, and MultiCall objects; make use of SimpleXMLRPCServer
