@@ -8,7 +8,7 @@ description = """
 
 Python 3.0 is not compatible with Python 2.6. Write a medium-length
 (2-3 page) text or reStructuredText (preferred) document giving examples
-of syntax that worked in Python 2.6 but does not work in Python 3.0.
+of syntax that worked in Python 2.6 but do not work in Python 3.0.
 
 See PEP 3100, http://www.python.org/dev/peps/pep-3100/, "Core
 Language", for inspiration.  A straightforward walkthrough of the

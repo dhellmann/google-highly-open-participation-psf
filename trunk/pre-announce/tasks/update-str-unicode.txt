@@ -10,7 +10,13 @@ In Python 3.0, unicode has been removed, because all strings are now
 unicode. Byte strings are now 'bytes'.  (See "Atomic Types" in PEP
 3100, http://www.python.org/dev/peps/pep-3100/).
 
-Update 'lib' documentation appropriately.
+Update 'lib' documentation for Py3K appropriately.
+
+See the DocumentationAndExampleGuidelines and WorkingOnDocumentation wiki
+pages for helpful information, under
+
+   http://code.google.com/p/google-highly-open-participation-psf/w/list
+
 """
 
 owner = "titus@idyll.org"
