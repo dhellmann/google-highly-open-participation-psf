@@ -27,4 +27,4 @@ Also consider integrating some of Jeremy Jones' text from:
    http://www.onlamp.com/pub/a/python/2005/06/02/logging.html
 """
 
-owner = "titus@idyll.org"
+owner = "doug.hellmann@gmail.com"

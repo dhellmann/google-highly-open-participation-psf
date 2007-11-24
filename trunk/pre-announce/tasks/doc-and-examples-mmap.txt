@@ -24,4 +24,4 @@ mmap object.
 (Also see http://en.wikipedia.org/wiki/Mmap for more information.)
 """
 
-owner = "titus@idyll.org"
+owner = "doug.hellmann@gmail.com"

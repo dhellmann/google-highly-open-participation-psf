@@ -22,4 +22,4 @@ Details for this specific module:
    client and server side of an XML-RPC connection.
 """
 
-owner = "titus@idyll.org"
+owner = "doug.hellmann@gmail.com"

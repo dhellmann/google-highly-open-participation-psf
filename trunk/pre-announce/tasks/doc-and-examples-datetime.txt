@@ -38,4 +38,4 @@ Details for this specific module:
 Extra credit if the examples are all doctests!
 """
 
-owner = "titus@idyll.org"
+owner = "doug.hellmann@gmail.com"

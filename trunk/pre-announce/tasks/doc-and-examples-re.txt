@@ -31,4 +31,4 @@ Details for this specific module:
    "module contents" discussion
 """
 
-owner = "titus@idyll.org"
+owner = "doug.hellmann@gmail.com"

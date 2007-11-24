@@ -18,4 +18,4 @@ Details for this specific module:
 
 """
 
-owner = "titus@idyll.org"
+owner = "doug.hellmann@gmail.com"
