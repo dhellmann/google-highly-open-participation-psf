@@ -1,4 +1,4 @@
-tags = "docs,py3k"
+tags = "docs"
 
 summary = """
 Find new terms for the Python documentation's glossary and cross-link them
