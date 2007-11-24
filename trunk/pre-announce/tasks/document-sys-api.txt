@@ -1,0 +1,27 @@
+tags = "core,docs"
+
+summary = """
+Document the PySys_* C API functions in the C API Reference.
+"""
+
+description = """
+
+There are several public C API functions in Python/sysmodule.c which are
+not documented in the API reference document at
+
+  http://docs.python.org/dev/c-api
+
+Collect them (their names all begin with "PySys_"), find out what they
+do (which is quite trivial in most cases) and add an appropriate paragraph
+to the API documentation.
+
+See the DocumentationAndExampleGuidelines and WorkingOnDocumentation wiki
+pages for helpful information, under
+
+   http://code.google.com/p/google-highly-open-participation-psf/w/list
+
+"""
+
+bugs = "1245"
+
+owner = "georg@python.org"
