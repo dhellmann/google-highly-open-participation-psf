@@ -1,4 +1,10 @@
 #summary How to get and compile the latest versions of Python
 #labels needs-work,students
 
-Python 26 and Python 30
+The source code for Python is stored in a [http://subversion.tigris.org/ Subversion] repository hosted on a python.org server.  Refer to [http://www.python.org/dev/faq/#how-do-i-get-a-checkout-of-the-repository-read-only-and-read-write the FAQ] for details of how to check out the source.
+
+You do not need commit permissions in the repository for any of the PSF-sponsored tasks for GHOP.  Each task includes details about how to submit your code or documentation changes, where appropriate.  In most cases, it will only be necessary to attach files to the task and indicate that you have completed the work.
+
+All tasks, unless stated explicitly, apply to Python version 2.6.  Use the URL http://svn.python.org/projects/python/trunk to check out a copy of the source for Python 2.6, if the task requires it.
+
+For tasks based on Python 3.0, check out the source from http://svn.python.org/view/python/branches/py3k/.
