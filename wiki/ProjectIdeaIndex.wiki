@@ -34,7 +34,7 @@ Tasks by category.
   * SyncDocStrings: sync docstrings with docs -- *needs more info*
   * [DocumentCApiFunctions]: document undocumented C API functions -- *needs more info*
   * [DocumentPEPs]: document PEPs implemented but not documented yet -- *done*
-  * FillGlossary: add useful terms to the glossary and cross-link them
+  * FillGlossary: add useful terms to the glossary and cross-link them -- *done*
   * UpdateReferenceCountData: update the refcount file -- *withdrawn*
 
 = Training =
