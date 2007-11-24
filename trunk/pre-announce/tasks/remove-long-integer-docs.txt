@@ -11,7 +11,7 @@ In Python 3.0, there is no distinction between "long integer" and "integer".
 Find all mentions of "long integer" in the Py3K documentation and correct them.
 
 See the DocumentationAndExampleGuidelines and WorkingOnDocumentation wiki
-pages for more information, under
+pages for helpful information, under
 
    http://code.google.com/p/google-highly-open-participation-psf/w/list
 
