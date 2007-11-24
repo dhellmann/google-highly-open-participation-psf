@@ -1,7 +1,7 @@
 #summary Extra credit and "best student" awards
 #labels students,needs-work
 
-The main purpose of GHOP is to get *you* interested in contributing to the open source community.  Hopefully, your involvement will continue well after the contest is finished.  The "ideal" student is one that would become a full participant in the Python Software Foundation community, who would contribute to the various projects on an ongoing basis without the need.
+The main purpose of GHOP is to get *you* interested in contributing to the open source community.  Hopefully, your involvement will continue well after the contest is finished.  The "ideal" student is one that would become a full participant in the Python Software Foundation community, who would contribute to various projects on an ongoing basis. 
 
 If you are that "ideal" student, you will no doubt do more than simply meeting the stated requirements for the tasks you have completed.  Perhaps you will go a bit more than what is required for each task you complete.  Or, perhaps, you will use the knowledge you have gained in completing one task (for example: writing unit tests for a specified module) and use that knowledge elsewhere (for example: writing unit tests for modules that have not been mentioned in official tasks).  As the "ideal" student, you will certainly not be afraid to tackle the tasks that have been identified as being more challenging.  And you will likely write enthusiastically about your experience with Python, and convince others to join in. 
 
