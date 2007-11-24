@@ -1,0 +1,29 @@
+tags = "docs,windows"
+
+summary = """
+Write a "Using Python on Windows" document.
+"""
+
+description = """
+We have a document on using Python on the Mac at
+
+   http://docs.python.org/dev/using/mac.html
+
+An equivalent thing for Windows would be great. That section should
+contain, roughly, information how to install Python on Windows, how
+to configure it, how to invoke it, what the essential packages and
+programs for working with Windows are, what extra things and quirks
+you should know about.
+
+Collect this information (it is likely to be found at several sources
+on the Internet) and write it into a document similar to the existing
+Mac one.
+
+See the DocumentationAndExampleGuidelines and WorkingOnDocumentation wiki
+pages for helpful information, under
+
+   http://code.google.com/p/google-highly-open-participation-psf/w/list
+
+"""
+
+owner = "georg@python.org"
