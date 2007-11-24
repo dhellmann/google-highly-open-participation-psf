@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary "Simple programming problems" solved in multiple prog languages
 
 Michael Mol suggests:
 
