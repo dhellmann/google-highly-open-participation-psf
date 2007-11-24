@@ -15,4 +15,4 @@ and make a list of all of the places that describe behavior incompatible
 with Python 3.0.  Then update the documentation appropriately.
 """
 
-owner = "titus@idyll.org"
+owner = "georg@python.org"

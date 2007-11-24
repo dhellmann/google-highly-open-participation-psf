@@ -19,4 +19,4 @@ pages for helpful information, under
 
 """
 
-owner = "titus@idyll.org"
+owner = "georg@python.org"

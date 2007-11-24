@@ -16,4 +16,4 @@ Python language changes (ignoring the C syntax changes) mentioned in
 this section would be very acceptable.
 """
 
-owner = "titus@idyll.org"
+owner = "georg@python.org"

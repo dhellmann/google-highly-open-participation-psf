@@ -27,4 +27,4 @@ Reminder: working code examples are an excellent way to make sure that
 you understood the PEP ;)
 """
 
-owner = "titus@idyll.org"
+owner = "georg@python.org"
