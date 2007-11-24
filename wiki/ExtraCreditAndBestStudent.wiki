@@ -1,5 +1,5 @@
 #summary Extra credit and "best student" awards
-#labels students,needs-work
+#labels students
 
 The main purpose of GHOP is to get *you* interested in contributing to the open source community.  Hopefully, your involvement will continue well after the contest is finished.  The "ideal" student is one that would become a full participant in the Python Software Foundation community, who would contribute to various projects on an ongoing basis. 
 
