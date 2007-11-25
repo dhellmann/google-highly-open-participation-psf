@@ -9,3 +9,36 @@ go *somewhere*. Please remove a task when you've done it.
 = Outstanding Tasks =
 
 Create DocumentationAndExampleGuidelines page.
+
+Go through tasks and make sure that necessary Wiki pages are linked to
+
+See [http://code.google.com/p/google-highly-open-participation-psf/w/list?q=label:needs-work the list of pages that need work]
+
+Write TaskBreakdown page
+
+Go through blog comments and e-mail and add tasks or update ProjectIdeaIndex.
+
+Note: add to Deleted tasks, "this task was entered incorrectly and work on
+it is not eligible for the Google Highly Open Participation Contest"
+
+Discuss licenses somewhere!
+
+Update [Contributors].
+
+Leslie says:
+{{{
+
+These URLs are to be created and for now will yield 404 errors.  But
+they'll be live at launch time:
+
+Main Page: http://code.google.com/opensource/ghop/2007-8
+
+FAQs: http://code.google.com/opensource/ghop/2007-8/faqs.html
+
+Contest Official Rules: http://code.google.com/opensource/ghop/2007-8/rules.html
+
+And I just put the contest logo in the files section:
+
+http://groups.google.com/group/sockhoppers/web/ghoplogo.jpg
+
+}}}
