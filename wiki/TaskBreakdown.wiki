@@ -6,19 +6,29 @@ incomplete, but an example --titus
 = Getting started =
 
  - Demo Genshi
+
  - Demo Pylons
+
  - Demo Django
+
  - Demo Python
+
  - Demo Crunchy
+
  - Adding documentation and examples to ConfigParser
+
  - Adding documentation and examples to csv, pprint, and traceback
+
  - Adding documentation and examples to datetime
 
 = Making live or recorded presentations =
 
  - User-group outreach
+
  - Screencast Grok
+
  - Screencast Orbited
+
  - Screencast Windmill
 
 = Installing and testing software and documentation =
@@ -28,9 +38,13 @@ incomplete, but an example --titus
 = Moderately difficult tasks involving coding =
 
  - Demo pygame
+
  - Write DB-API examples for PostgreSQL
+
  - Write DB-API examples for MySQL
+
  - Test pydigg
+
  - Test pyfacebook
 
 = Difficult tasks involving lots of coding =
@@ -40,5 +54,7 @@ incomplete, but an example --titus
 = Unstructured and very difficult tasks =
 
  - Write Windows HOWTO
+
  - Write UNIX HOWTO
+
  - Write reddit API
