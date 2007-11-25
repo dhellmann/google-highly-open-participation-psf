@@ -1,4 +1,4 @@
-#summary Tasks Requiring Completion by Adminstrators
+#summary Tasks Requiring Completion by Administrators
 
 = Introduction =
 
