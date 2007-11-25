@@ -1,2 +1,6 @@
 #summary Guidelines on how to write documentation and example code.
 #labels students,needs-work
+
+note that this is for both python core and thirdparty stuff.
+
+encourage docs in reST.
