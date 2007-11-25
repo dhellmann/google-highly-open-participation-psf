@@ -36,6 +36,17 @@ Details for this specific module:
     strftime section.
 
 Extra credit if the examples are all doctests!
+
+Completion:
+
+Attach the results of a 'svn diff' (context diff) against the Python
+source tree to this task in a comment, and send an e-mail briefly
+describing the changes you made to the ghop-python mailing list.
+
+Relevant wiki pages:
+
+ - DocumentationAndExampleGuidelines
+ - WorkingOnDocumentation
 """
 
 owner = "doug.hellmann@gmail.com"

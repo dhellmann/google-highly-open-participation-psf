@@ -11,7 +11,15 @@ Install Grok and run through the tutorial,
 
 and record a screencast with the highlights of the tutorial.
 
-See RecordingScreencasts.
+Completion:
+
+Attach either a file containing the screencast, or the URL of the
+screencast, to this task.  The screencast must be in an acceptable
+format and should be under 100 mb in size; see RecordingScreencasts.
+
+Relevant wiki pages:
+
+  - RecordingScreencasts.
 """
 
 owner = "titus@idyll.org"

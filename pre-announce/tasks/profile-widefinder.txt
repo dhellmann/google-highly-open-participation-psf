@@ -12,6 +12,15 @@ and profile the single-threaded Python implementation using Python 2.6
 and the cProfile module.  Make the code and profiling results available,
 and write a short (~1 page) discussion of how you might make this faster.
 For extra credit, try making it faster.
+
+Completion:
+
+Send source code, results, and ~1 page discussion to the ghop-python
+mailing list.
+
+Relevant wiki pages:
+
+ - BenchmarkingAndProfiling
 """
 
 owner = "grig@gheorghiu.net"

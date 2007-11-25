@@ -15,6 +15,11 @@ DB API to add data, retrieve data, and delete data as in the tutorial
 above.
 
 Write the documentation in the reStructuredText format.
+
+Completion:
+
+Upload a file containing your reStructuredText document as an attachment
+to this task.
 """
 
 owner = "titus@idyll.org"

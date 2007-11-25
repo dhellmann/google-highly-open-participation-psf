@@ -15,7 +15,13 @@ the tutorial to a programming class or club/interest-group.
 Document your presentation by taking a photo at the end of the
 presentation and uploading your slides in PDF format.
 
-Bonus points: write up a report on a publicly available blog, including a reference to GHOP, the PSF, describing your experience and the feedback you received.
+Bonus points: write up a report on a publicly available blog,
+including a reference to GHOP, the PSF, describing your experience and
+the feedback you received.
+
+Completion:
+
+Attach files containing the slides and a photo to this task.
 """
 
 owner = "andre.roberge@gmail.com"

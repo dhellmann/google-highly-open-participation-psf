@@ -13,6 +13,18 @@ all of them.  Go over the Python 3.0 docs,
 
 and make a list of all of the places that describe behavior incompatible
 with Python 3.0.  Then update the documentation appropriately.
+
+Completion:
+
+Attach the results of an 'svn diff' (context diff) against the Python
+source tree to this task, and send a brief description of your changes
+to the ghop-python mailing list.
+
+Relevant wiki pages:
+
+ - DocumentationAndExampleGuidelines
+ - WorkingOnDocumentation
+ - Python3K
 """
 
 owner = "georg@python.org"

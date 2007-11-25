@@ -20,6 +20,17 @@ Details for this specific module:
    ProtocolError, and MultiCall objects; make use of SimpleXMLRPCServer
    objects to build *functional* examples of using these on both the
    client and server side of an XML-RPC connection.
+
+Completion:
+
+Attach the results of a 'svn diff' (context diff) against the Python
+source tree to this task in a comment, and send an e-mail briefly
+describing the changes you made to the ghop-python mailing list.
+
+Relevant wiki pages:
+
+ - DocumentationAndExampleGuidelines
+ - WorkingOnDocumentation
 """
 
 owner = "doug.hellmann@gmail.com"

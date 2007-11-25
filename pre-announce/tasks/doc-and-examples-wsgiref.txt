@@ -24,6 +24,17 @@ Details for this specific module:
  - Write an example showing how to use validator, including a simple
    example of a broken WSGI application.  (Choose your breakage so
    validator breaks, obviously.)
+
+Completion:
+
+Attach the results of a 'svn diff' (context diff) against the Python
+source tree to this task in a comment, and send an e-mail briefly
+describing the changes you made to the ghop-python mailing list.
+
+Relevant wiki pages:
+
+ - DocumentationAndExampleGuidelines
+ - WorkingOnDocumentation
 """
 
 owner = "titus@idyll.org"

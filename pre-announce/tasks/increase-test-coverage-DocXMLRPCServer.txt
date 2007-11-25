@@ -12,6 +12,19 @@ Python 2.6 for the 'DocXMLRPCServer' module, using figleaf or coverage
 coverage for this module to > 80%.  Submit a context diff (see
 SubmittingPatches) and text or HTML files containing both the old and
 new test coverage results.
+
+Completion:
+
+Attach the results of an 'svn diff' (context diff) against the Python
+source tree to this task. Also include text containing the old and new
+code coverage numbers and a brief description of the changes you've made.
+
+Relevant wiki pages:
+
+ - RecordingTestCoverage
+ - HowToTest
+ - RunningPythonTests
+ - GettingAndCompilingPython
 """
 
 owner = "titus@idyll.org"

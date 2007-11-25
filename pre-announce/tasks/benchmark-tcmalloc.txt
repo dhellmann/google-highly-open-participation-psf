@@ -23,8 +23,15 @@ configurations of Python:
 
  - with pymalloc enabled and with TCMalloc enabled.
 
-Do this for either Python 2.6 or Python 3.0; summarize the reports and
-send them to ghop-psf mailing list.
+Completion:
+
+Run the benchmarks for either Python 2.6 or Python 3.0; summarize the
+reports; and send them to ghop-python mailing list.
+
+Relevant Wiki pages:
+
+ - GettingAndCompilingPython
+ - BenchmarkingAndProfiling
 """
 
 owner = "titus@idyll.org"
