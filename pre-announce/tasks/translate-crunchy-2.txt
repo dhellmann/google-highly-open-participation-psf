@@ -24,8 +24,7 @@ this task with an evaluation as to the quality of your translation.
 
 Completion:
 
-Attach an 'svn diff' (context diff) against the latest Crunchy source to
-this task.
+Attach a '.po' file for your language to this task.
 
 Relevant wiki pages:
 
