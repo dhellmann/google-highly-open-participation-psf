@@ -21,3 +21,11 @@ if __name__ == '__main__':
     print '%d tasks:' % (len(tasks),)
     for task in tasks:
         print '\t', task
+
+    tags = set()
+    for task in tasks:
+        tags.update(task.tags)
+
+    print '%d tags:' % (len(tags),)
+    for tag in tags:
+        print "\t%s" % (tag,)

@@ -16,8 +16,12 @@ def submit_task(task):
     follow('New Issue')
     fv('3', 'summary', task.summary)
     fv('3', 'comment', task.descr)
-    fv('3', 'status', 'New')
+    fv('3', 'status', 'Open')
     fv('3', 'cc', task.owner)
+
+    for i, tag in enumerate(task.tags):
+        n = '%d' % (i + 10,)
+        fv('3', n, tag)
 
     submit('submit')
 

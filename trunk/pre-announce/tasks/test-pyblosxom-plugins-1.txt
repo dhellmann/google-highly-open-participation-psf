@@ -20,6 +20,11 @@ Add plain text 'README.txt'-style documentation where it does not exist.
 If you install the plugins and configure them, but a plugin does not
 work, please either fix it or write a short description of why it
 does not work.
+
+Completion:
+
+Write a short (text) report on which plugins worked (and which ones
+didn't, and why).  Upload or attach this report to this task.
 """
 
 owner = "titus@idyll.org"

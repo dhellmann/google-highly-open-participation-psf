@@ -17,6 +17,19 @@ Note that for BaseHTTPServer, the 'test()' function is run in a forked
 process, so code coverage may not be not accurately recorded.
 However, there is still quite a bit of code -- especially
 error-handling code -- that needs to be tested.
+
+Completion:
+
+Attach the results of an 'svn diff' (context diff) against the Python
+source tree to this task. Also include text containing the old and new
+code coverage numbers and a brief description of the changes you've made.
+
+Relevant wiki pages:
+
+ - RecordingTestCoverage
+ - HowToTest
+ - RunningPythonTests
+ - GettingAndCompilingPython
 """
 
 owner = "titus@idyll.org"

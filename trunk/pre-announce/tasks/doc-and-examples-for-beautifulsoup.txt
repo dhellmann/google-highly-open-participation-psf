@@ -18,10 +18,20 @@ to extract each type of information from the page, including:
  - div information
  - form information
 
-This could eaisly be done by extracting elements from the existing
+This could easily be done by extracting elements from the existing
 BeautifulSoup docs, here:
 
 http://www.crummy.com/software/BeautifulSoup/documentation.html
+
+Completion:
+
+Attach the completed document to this task in a comment, and send it
+to the ghop-python mailing list as well as the author of BeautifulSoup.
+
+Relevant wiki pages:
+
+ - DocumentationAndExampleGuidelines
+ - WorkingOnDocumentation
 """
 
 owner = "titus@idyll.org"

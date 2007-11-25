@@ -20,11 +20,15 @@ Collect this information (it is likely to be found at several sources
 on the Internet) and write it into a document similar to the existing
 Mac one.
 
-See the DocumentationAndExampleGuidelines and WorkingOnDocumentation wiki
-pages for helpful information, under
+Completion:
 
-   http://code.google.com/p/google-highly-open-participation-psf/w/list
+Attach the result file(s) to this task, and send a brief description of your
+document to the ghop-python mailing list.
 
+Relevant wiki pages:
+
+ - DocumentationAndExampleGuidelines
+ - WorkingOnDocumentation
 """
 
 owner = "georg@python.org"

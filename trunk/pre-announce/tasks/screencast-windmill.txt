@@ -12,7 +12,15 @@ Install Windmill,
 and record a screencast on recording and playing back Web actions
 on a simple Web site of your choosing.
 
-See RecordingScreencasts.
+Completion:
+
+Attach either a file containing the screencast, or the URL of the
+screencast, to this task.  The screencast must be in an acceptable
+format and should be under 100 mb in size; see RecordingScreencasts.
+
+Relevant wiki pages:
+
+  - RecordingScreencasts.
 """
 
 owner = "titus@idyll.org"

@@ -10,6 +10,16 @@ Write documentation and examples showing how to use the pydigg project,
     http://code.google.com/p/pydigg/
 
 to retrieve information from digg.
+
+Completion:
+
+Attach the documentation and examples to this task in an example, and
+send them to ghop-python and the author of the pydigg project.
+
+Relevant wiki pages:
+
+ - DocumentationAndExampleGuidelines
+ - WorkingOnDocumentation
 """
 
 owner = "titus@idyll.org"

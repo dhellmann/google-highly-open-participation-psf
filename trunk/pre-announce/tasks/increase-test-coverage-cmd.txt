@@ -15,6 +15,19 @@ new test coverage results.
 There appear to be no tests for 'cmd' currently in the Python source
 tree, so you will need to start from scratch.  Ask for help if you
 need a starting point.
+
+Completion:
+
+Attach the results of an 'svn diff' (context diff) against the Python
+source tree to this task. Also include a brief description of the
+changes you've made.
+
+Relevant wiki pages:
+
+ - RecordingTestCoverage
+ - HowToTest
+ - RunningPythonTests
+ - GettingAndCompilingPython
 """
 
 owner = "titus@idyll.org"

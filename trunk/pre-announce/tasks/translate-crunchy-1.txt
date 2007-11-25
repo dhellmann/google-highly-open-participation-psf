@@ -5,13 +5,31 @@ Add translation in a new language for Crunchy.
 """
 
 description = """
-Crunchy's messages are available in both French and English.  Provided that you have a high fluency in another language, translate Crunchy's messages into that language, using a UTF-8 encoding.  You may want to use poedit to help you accomplish this task. Ask for help if you need a starting point.  You can download Crunchy from
+Crunchy's messages are available in both French and English.  Provided
+that you have a high fluency in another language, translate Crunchy's
+messages into that language, using a UTF-8 encoding.  You may want to
+use poedit to help you accomplish this task. Ask for help if you need
+a starting point.  You can download Crunchy from
 
 http://code.google.com/p/crunchy
 
-When you claim this task, you must specify the language in which you are translating the messages and make sure no one is attempting a translation in the same language.
+When you claim this task, you must specify the language in which you
+are translating the messages and make sure no one is attempting a
+translation in the same language.
 
-Bonus points: Make a screenshot showing Crunchy in action with your language used as the default.  Ask one of your teacher (fluent in your chosen language) to go over the translation and write the owner of this task with an evaluation as to the quality of your translation.  
+Bonus points: Make a screenshot showing Crunchy in action with your
+language used as the default.  Ask one of your teacher (fluent in your
+chosen language) to go over the translation and write the owner of
+this task with an evaluation as to the quality of your translation.
+
+Completion:
+
+Attach an 'svn diff' (context diff) against the latest Crunchy source to
+this task.
+
+Relevant wiki pages:
+
+ - HowToMakeScreencasts
 """
 
 owner = "andre.roberge@gmail.com"

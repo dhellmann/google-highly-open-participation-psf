@@ -22,6 +22,17 @@ to it, fork()ing another process, and then reading from the preserved
 mmap object.
 
 (Also see http://en.wikipedia.org/wiki/Mmap for more information.)
+
+Completion:
+
+Attach the results of a 'svn diff' (context diff) against the Python
+source tree to this task in a comment, and send an e-mail briefly
+describing the changes you made to the ghop-python mailing list.
+
+Relevant wiki pages:
+
+ - DocumentationAndExampleGuidelines
+ - WorkingOnDocumentation
 """
 
 owner = "doug.hellmann@gmail.com"

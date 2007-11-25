@@ -12,6 +12,11 @@ Develop an API for MySpace similar to pyfacebook,
 as described here:
 
 http://www.jurecuhalev.com/blog/2007/03/03/python-myspace-api-proxy/
+
+Completion:
+
+Upload a package containing the code (and associated documentation and
+tests) as an attachment to this task.
 """
 
 owner = "titus@idyll.org"

@@ -11,6 +11,11 @@ pydigg,
       http://code.google.com/p/pydigg/
 
 for inspiration in style if not in details.
+
+Completion:
+
+Upload a package containing the code (and associated documentation and
+tests) as an attachment to this task.
 """
 
 owner = "titus@idyll.org"

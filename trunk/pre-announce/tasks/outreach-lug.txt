@@ -24,6 +24,9 @@ and blogs meet this requirement.
 Include a reference to GHOP, PSF, and the task number for this task in
 the write-up.
 
+Completion:
+
+Add a comment to this task that contains the URL to the completed writeup.
 """
 
 owner = "doug.hellmann@gmail.com"

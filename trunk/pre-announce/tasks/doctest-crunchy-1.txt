@@ -5,13 +5,26 @@ Add unit tests for Crunchy.
 """
 
 description = """
-Crunchy makes use of doctest to test some of its modules.  Add
-new doctest-based tests to increase the number of functions/methods
-that are currently unit tested in the module utilities.py.  Ask for help if you need a starting point.  You can download Crunchy from
+Crunchy makes use of doctest to test some of its modules.  Add new
+doctest-based tests to increase the number of functions/methods that
+are currently unit tested in the module utilities.py.  Ask for help if
+you need a starting point.  You can download Crunchy from
 
 http://code.google.com/p/crunchy
 
-Bonus points: Use the knowledge you've gained to write doctest-based for other modules after you check in your completed task.  
+Bonus points: Use the knowledge you've gained to write doctest-based
+for other modules after you check in your completed task.
+
+Completion:
+
+Attach your new doctests to this task in either a set of files or
+(better) as the results of an 'svn diff' against the latest crunchy
+source.  Send a brief description of your changes to the ghop-python
+list.
+
+Relevant wiki pages:
+
+ - HowToTest
 """
 
 owner = "andre.roberge@gmail.com"

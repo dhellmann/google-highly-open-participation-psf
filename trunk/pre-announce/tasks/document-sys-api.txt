@@ -15,11 +15,16 @@ Collect them (their names all begin with "PySys_"), find out what they
 do (which is quite trivial in most cases) and add an appropriate paragraph
 to the API documentation.
 
-See the DocumentationAndExampleGuidelines and WorkingOnDocumentation wiki
-pages for helpful information, under
+Completion:
 
-   http://code.google.com/p/google-highly-open-participation-psf/w/list
+Attach the results of an 'svn diff' (context diff) against the Python
+source tree to this task, and send a brief description of your changes
+to the ghop-python mailing list.
 
+Relevant wiki pages:
+
+ - DocumentationAndExampleGuidelines
+ - WorkingOnDocumentation
 """
 
 bugs = "1245"

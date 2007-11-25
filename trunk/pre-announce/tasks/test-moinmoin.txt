@@ -20,6 +20,14 @@ with twill,
 Your test script(s) should take the URL of an empty MoinMoin page,
 edit it with examples of each kind of link, and verify that the
 correct HTML link is produced.
+
+Completion:
+
+Attach a file containing the test script to this task.
+
+Relevant wiki pages:
+
+ - HowToTest
 """
 
 owner = "titus@idyll.org"

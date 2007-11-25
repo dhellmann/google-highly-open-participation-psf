@@ -9,7 +9,17 @@ Write automated tests using unittest, nose, or py.test, for pydigg:
 
       http://code.google.com/p/pydigg/
 
-Write the tests to achieve > 70% code coverage (see MeasuringCodeCoverage).
+Write the tests to achieve > 70% code coverage (see RecordingCodeCoverage).
+
+Completion:
+
+Attach an 'svn diff' (context diff) against the latest pydigg source to this
+task and send it to the author of pydigg.
+
+Relevant wiki pages:
+
+ - HowToTest
+ - RecordingTestCoverage
 """
 
 owner = "titus@idyll.org"

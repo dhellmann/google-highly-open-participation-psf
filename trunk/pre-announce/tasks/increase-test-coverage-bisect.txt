@@ -17,6 +17,19 @@ tested thouroughly; for example, see test/test_bisect.py in the Python
 2.6 subversion archive.  A good approach would be to modify the bisect
 and heapq modules so that you can import the Python code instead of
 the C code, and make sure that all of the tests work properly.
+
+Completion:
+
+Attach the results of an 'svn diff' (context diff) against the Python
+source tree to this task. Also include text containing the old and new
+code coverage numbers and a brief description of the changes you've made.
+
+Relevant wiki pages:
+
+ - RecordingTestCoverage
+ - HowToTest
+ - RunningPythonTests
+ - GettingAndCompilingPython
 """
 
 owner = "titus@idyll.org"

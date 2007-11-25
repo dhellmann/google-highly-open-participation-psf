@@ -21,11 +21,16 @@ Then, search through the rest of the documentation for the new terms
 and, where appropriate, add a ":term:" role to them in order to create
 a link to the glossary.
 
-See the DocumentationAndExampleGuidelines and WorkingOnDocumentation wiki
-pages for helpful information, under
+Completion:
 
-   http://code.google.com/p/google-highly-open-participation-psf/w/list
+Attach the results of an 'svn diff' (context diff) against the Python
+source tree to this task, and send a brief description of your changes
+to the ghop-python mailing list.
 
+Relevant wiki pages:
+
+ - DocumentationAndExampleGuidelines
+ - WorkingOnDocumentation
 """
 
 owner = "georg@python.org"

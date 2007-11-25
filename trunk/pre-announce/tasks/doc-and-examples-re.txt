@@ -29,6 +29,17 @@ Details for this specific module:
 
  - (optional) fold "regular expression objects" discussion into
    "module contents" discussion
+
+Completion:
+
+Attach the results of a 'svn diff' (context diff) against the Python
+source tree to this task in a comment, and send an e-mail briefly
+describing the changes you made to the ghop-python mailing list.
+
+Relevant wiki pages:
+
+ - DocumentationAndExampleGuidelines
+ - WorkingOnDocumentation
 """
 
 owner = "doug.hellmann@gmail.com"
