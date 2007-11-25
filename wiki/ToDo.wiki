@@ -8,7 +8,7 @@ go *somewhere*. Please remove a task when you've done it.
 
 = Outstanding Tasks =
 
-Create DocumentationAndExampleGuidelines page (we have WorkingOnDocumentation and WritingExamplesCode though).
+Create DocumentationAndExampleGuidelines page (we have WorkingOnDocumentation and WritingExampleCode though).
 
 Go through tasks and make sure that necessary Wiki pages are linked to
 
