@@ -43,7 +43,7 @@ Each task has a specific completion condition -- submitting patches to the docum
 If you are working on a third-party application or library, then we would also recommend
 sending your changes or results to the project owner of the third-party application.  For example, if you're working on Crunchy, getting Andre Roberge's approval of your results is a great way to demonstrate to us that you've done a good job. 
 
-Also see ExtraCreditAndBestStudent for information on how to win "best student".
+Also see ExtraCreditAndBestContributor for information on how to win "best contributor".
 
 == Disputes, arbitration, and general unfairness ==
 If you have any questions or comments about your dealings with a particular mentor or set of mentors, please simply discuss them on the mailing list.  Note that there are general rules of conduct expected of you, as well as everyone else on the mailing list; see [http://www.albion.com/netiquette/ Netiquette] for more information.
