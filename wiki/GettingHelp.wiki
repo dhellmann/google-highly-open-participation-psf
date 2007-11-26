@@ -1,4 +1,37 @@
-#summary Information about the Python community and online resources.
-#labels students,needs-work
+#summary Information about the GHOP mentors, Python community and online resources.
+#labels students
 
-Mention ghop-python mailing list, python-list, IRC channels, etc.
+= Getting Help =
+
+Running into problems?  Confused about the task details?  Need to talk to someone?
+
+There are a bunch of resources out there for you to use!
+
+== Contest specific helplins ==
+
+First, consider e-mailing the [http://groups.google.com/group/ghop-python ghop-python project mailing list] with your questions.  A group of friendly Pythonistas (see list of mentors, below) is standing by!
+
+You can also use [http://www.irchelp.org/irchelp/new2irc.html Internet Relay Chat, or IRC]; use an IRC client to connect to chat.freenode.net, channel #python-ghop.  We will try to hang out there.
+
+Finally, please feel free to e-mail the task owner or 'CC' person directly.
+
+== General Python community ==
+
+The Python community is very friendly and can be a great source of information.
+Check out the [http://www.python.org/community/ list of community resources]!
+
+In particular, you should consider posting questions to the [http://mail.python.org/mailman/listinfo/python-list general python mailing list].  If you post to this list, please do identify yourself as "participant in the Google Highly Open Participation contest" and be sure to identify the task you're working on -- that way people can give you more detailed information.
+
+== Highly Open Participation Contest Mentors ==
+
+While everyone listed here should be on the [http://groups.google.com/group/ghop-python ghop-python project mailing list], you might also consider contacting them directly.
+
+ - Georg Brandl
+
+ - Titus Brown - titus@idyll.org - [http://ivory.idyll.org/blog/ blog]
+
+ - Grig Gheorghiu
+
+ - Doug Hellmann
+
+ - Andre Roberge
