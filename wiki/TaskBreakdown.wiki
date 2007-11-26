@@ -21,7 +21,7 @@ incomplete, but an example --titus
 
  - Adding documentation and examples to datetime
 
- - Updating rosettacode pages for file and math operations
+ - Updating rosettacode.org pages for file and math operations
 
 = Making live or recorded presentations =
 
