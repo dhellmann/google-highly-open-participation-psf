@@ -107,3 +107,9 @@ Use pybench, 'python Tools/pybench/pybench.py'.
 to get rid of pymalloc. Three benchmarks:
 
 with pymalloc (default) with pymalloc and with TCmalloc without pymalloc and with TCmalloc
+
+== Add useful terms to the glossary ==
+
+Author: Georg Brandl
+
+In the new docs the glossary, previously in the tutorial, is meant to be a central location to explain Python- and probably computer science-specific terms that many newbie won't know yet.  The task is to collect more such terms, explain them in the glossary and cross-reference their occurrences in the rest of the docs.
