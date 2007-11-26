@@ -1,9 +1,0 @@
-#summary Try out Google's TCMalloc with Python
-
-= Try out Google's TCMalloc with Python =
-
-Author: Titus Brown
-
-Do performance tests on Python after replacing malloc with TCMalloc,
-
-        http://goog-perftools.sourceforge.net/doc/tcmalloc.html  
