@@ -1,8 +1,0 @@
-#summary Document PEP implementations
-#labels documentation
-
-= Document PEP implementations =
-
-Author: Georg Brandl
-
-Quite a few 31xx PEPs are implemented, but not yet documented.
