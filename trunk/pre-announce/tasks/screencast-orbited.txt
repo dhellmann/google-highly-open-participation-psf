@@ -14,17 +14,17 @@ and run through either the CherryChat or PylonsChat tutorial at
     http://www.orbited.org/tutorials.html
 
 Then record a screencast showing off the results (see
-RecordingScreencasts).  Upload the screencast to the GHOP-PSF site.
+HowToMakeScreencasts).  Upload the screencast to the GHOP-PSF site.
 
 Completion:
 
 Attach either a file containing the screencast, or the URL of the
 screencast, to this task.  The screencast must be in an acceptable
-format and should be under 100 mb in size; see RecordingScreencasts.
+format and should be under 100 mb in size; see HowToMakeScreencasts.
 
 Relevant wiki pages:
 
-  - RecordingScreencasts.
+  - HowToMakeScreencasts.
 """
 
 owner = "titus@idyll.org"
