@@ -1,4 +1,6 @@
 #summary How to record screencasts
-#labels students,needs-work
+#labels students
 
-Visit the ShowMeDo site, and in particular the wiki at [http://wiki.showmedo.com/index.php/Main_Page] for more information.
+Screencasts are videos recorded on your computer showing the computer screen, usually with voice-over narration describing the activities being recorded.
+
+Visit the !ShowMeDo site, and in particular the wiki at [http://wiki.showmedo.com/index.php/Main_Page] for more information about software, hardware, and tips for creating screencasts.
