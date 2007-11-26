@@ -17,7 +17,7 @@ See [http://code.google.com/p/google-highly-open-participation-psf/w/list?q=labe
   * TaskBreakdown needs to be checked against the current task list to ensure all are included
   * [GettingHelp] needs to be filled in.
 
-Do we want to create a list of mentors, languages, and time zones so contestants have an idea of where to turn for help?  Or do we want all communication to be conducted on the general mailing list? - dhellmann
+Do we want to create a list of mentors, languages, and time zones so contestants have an idea of where to turn for help?  Or do we want all communication to be conducted on the general mailing list? - dhellmann  _I think mailing list/IRC (GettingHelp).  But a list of mentors is a good idea.  Maybe put that in GettingHelp?  I'll start. --titus_
 
 Go through blog comments and e-mail and add tasks or update ProjectIdeaIndex.
 
