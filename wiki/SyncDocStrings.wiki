@@ -1,8 +1,0 @@
-#summary Sync docstrings with docs
-#labels documentation
-
-= Sync docstrings with docs =
-
-Author: Georg Brandl
-
-Sync up docstrings and written documentation (make sure the docstring contain all essential information from the docs, and the docs contain everything the docstring does) in library code
