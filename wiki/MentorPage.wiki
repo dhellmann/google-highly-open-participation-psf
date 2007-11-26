@@ -3,10 +3,15 @@
 
 = Introduction =
 
+We hope that the Python community will be actively involved in this contest!
+
 We can use community help in a number of ways.
 
 First, you can always lurk on the [http://groups.google.com/group/ghop-python general mailing list] and help students with problems.
 
-Second, you can join the [http://groups.google.com/group/ghop-python-mentors mentors list] and submit new tasks and decide whether or not existing task goals have been met.
+Second, you can *join the [http://groups.google.com/group/ghop-python-mentors mentors list]* and submit new tasks and decide whether or not existing task goals have been met.
 
-Whether or not you're on either of the lists, you're welcome to submit new task ideas.  Go check out our [NewTaskGuidelines new task guidelines].
+Whether or not you're on either of the lists, you're welcome to submit new task ideas.  Go check out our *[NewTaskGuidelines new task guidelines]*!
+
+Also, please welcome and encourage the student participants when you meet them in
+the forums and  elsewhere. Answer their questions and give them good advice.  Note that you can add comments to the tasks if you have additional information that you think would be helpful!
