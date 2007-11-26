@@ -1,2 +1,0 @@
-#summary Working on Python 3000, a.k.a. Python 3.0
-#labels students,needs-work
