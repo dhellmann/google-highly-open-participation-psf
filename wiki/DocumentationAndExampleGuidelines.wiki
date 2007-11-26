@@ -1,5 +1,5 @@
 #summary General guidelines on how to write documentation and example code.
-#labels students,needs-work
+#labels students
 
 = General guidelines on writing documentation =
 
