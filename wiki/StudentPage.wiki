@@ -7,7 +7,7 @@ Welcome to the [http://code.google.com/opensource/ghop/2007-8 Google Highly Open
 
 == Getting started ==
 
-You should probably start by reading the [http://groups.google.com/group/sockhoppers/web/ghop-faqs?hl=en Frequently Asked Questions].  If you meet the various requirements (you're 13 or over, in school, and have parental consent) and are still interested in participating in the contest, then you might want to check out Python before continuing.  There's a great [http://wiki.python.org/moin/BeginnersGuide Beginner's Guide]
+You should probably start by reading the [http://code.google.com/opensource/ghop/2007-8/rules.html contest rules] and [http://groups.google.com/group/sockhoppers/web/ghop-faqs?hl=en Frequently Asked Questions].  If you meet the various requirements (you're 13 or over, in school, and have parental consent) and are still interested in participating in the contest, then you might want to check out Python before continuing.  There's a great [http://wiki.python.org/moin/BeginnersGuide Beginner's Guide]
 that's the best place to start.
 
 == Choosing tasks ==
