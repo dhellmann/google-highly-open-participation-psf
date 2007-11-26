@@ -1,4 +1,5 @@
 #summary Notes from previously suggested tasks
+#labels mentors
 
 = Introduction =
 
@@ -59,3 +60,21 @@ http://rosettacode.org/rosettacode/w/index.php?title=XML_and_XPath
 
 
 }}}
+
+= Performance testing for WideFinder implementations =
+
+Author: Grig Gheorghiu
+
+By now I think everybody is familiar with Tim Bray's Wide Finder
+challenge: <http://www.tbray.org/ongoing/When/200x/2007/09/20/Wide-Finder>.
+For those who are not familiar, Tim Bray is running a language/implementation
+shoot-out for the fastest program that can parse a 1 million line log file.
+
+The effbot has a few solutions in Python here: <http://effbot.org/zone/wide-finder.htm> -- one of them is a single-threaded program, the other one is a multi-threaded program,
+and the third one is a simulation of a multi-processor program.
+
+I think we can isolate 3 different tasks for the students, with each task taking
+2 of effbot's 3 solutions, timing them over the course of a few runs, then
+graphing them for comparison purposes using the matplotlib Python library.
+
+For extra credit, the student would time and graph all 3 solutions.
