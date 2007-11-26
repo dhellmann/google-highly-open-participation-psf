@@ -1,4 +1,5 @@
 #summary Tasks Requiring Completion by Administrators
+#labels needs-work
 
 = Introduction =
 
@@ -17,8 +18,6 @@ See [http://code.google.com/p/google-highly-open-participation-psf/w/list?q=labe
   * TaskBreakdown needs to be checked against the current task list to ensure all are included
 
 Go through blog comments and e-mail and add tasks or update ProjectIdeaIndex.
-
-Discuss licenses somewhere!
 
 Update [Contributors].
 
