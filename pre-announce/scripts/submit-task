@@ -13,9 +13,12 @@ def login(account, password):
 def submit_task(task):
     go('http://code.google.com/p/google-highly-open-participation-psf/issues/list')
 
+    descr = task.descr
+    descr += "\n\nTask duration: please complete this task within 5 days (120 hours) of claiming it."
+
     follow('New Issue')
     fv('3', 'summary', task.summary)
-    fv('3', 'comment', task.descr)
+    fv('3', 'comment', descr)
     fv('3', 'status', 'Open')
     fv('3', 'cc', task.owner)
 
