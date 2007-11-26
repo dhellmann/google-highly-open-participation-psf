@@ -48,7 +48,19 @@ sending your changes or results to the project owner of the third-party applicat
 
 Also see ExtraCreditAndBestContributor for information on how to win "best contributor".
 
+== Licensing and Attribution ==
+The GHOP contest requires any code and other contributions you provide to be given under an open source license, to ensure your work is available for use by anyone in the world.
+
+The Python project is released under the open source Python license; other Python projects you may be working on in your tasks are licensed under BSD/MIT license, the GPL etc. Therefore you agree that the code, ideas and all other aspects of your contributions to those projects are released under the respective license, so that they may be included in the projects without further problems.
+  * More info: [http://code.google.com/opensource/ghop/2007-8/rules.html Contest Official Rules], [http://docs.python.org/lib/node952.html the Python License]
+
+We are very pleased to have your help and as a courtesy are happy to attribute your work in various places, including for example Python's ACKS file or blog entries. We will assume you want your name mentioned unless you suggest an alias, or the desire to remain anonymous.
+
 == Disputes, arbitration, and general unfairness ==
 If you have any questions or comments about your dealings with a particular mentor or set of mentors, please simply discuss them on the mailing list.  Note that there are general rules of conduct expected of you, as well as everyone else on the mailing list; see [http://www.albion.com/netiquette/ Netiquette] for more information.
 
 If you disagree with the decision of the mentoring organization (in this case, Python!) you can contact Google directly to resolve the dispute.  See the main [http://code.google.com/opensource/ghop/2007-8 Google Highly Open Participation page] for more information.
+
+== Other Questions ==
+
+If you have a question not answered here that is related to contest mechanics, your best bet is to check out Google's contest homepage (http://code.google.com/opensource/ghop/2007-8) for more details.
