@@ -14,6 +14,15 @@ Go through tasks and make sure that necessary Wiki pages are linked to
 
 See [http://code.google.com/p/google-highly-open-participation-psf/w/list?q=label:needs-work the list of pages that need work]
 
+ - BenchmarkingAndProfiling needs to be written
+ - DocumentationAndExampleGuidelines is empty, but may be redundant because the information it would seem to want to contain is present in other pages
+ - GettingAndCompilingPython needs instructions for Windows.
+ - HowToTest has a list of topics to be included, but no real text
+ - Python3K is empty, but is it needed?  We have instructions for checking out the 3.0 source tree, where necessary.  Are there other differences?
+ - RecordingTestCoverage needs to be written
+ - SearchingTheDocumentation is empty, but the description sounds vague.  We have tasks with instructions for updating specific sections of the docs.  Do we still need this page?
+ - TaskBreakdown needs to be checked against the current task list to ensure all are included
+
 Write TaskBreakdown page
 
 Go through blog comments and e-mail and add tasks or update ProjectIdeaIndex.
