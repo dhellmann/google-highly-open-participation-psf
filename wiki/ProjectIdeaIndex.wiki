@@ -1,5 +1,5 @@
-#summary Point-form summary of project ideas with links to details as appropriate.
-#labels Featured
+#summary Point-form summary of project ideas.
+#labels mentors
 
 Tasks by category.
 
