@@ -10,7 +10,9 @@ The primary requirement for a new task is that it be *specific*.
 It helps if it's *relatively small*, but there's nothing wrong with challenging students with bigger tasks ;).  The idea is to have tasks take students *at most* 2-4 days with 2-3 hrs
 of work a day, but obviously that will vary with student skills.
 
-Don't feel like you need to write down every detail.  Students with good google fu (hah!) should be given enough info to figure stuff out, but we should be encouraging student communication.
+Don't feel like you need to write down every detail needed to accomplish the task, but do not be vague.  Students with good google fu (hah!) should be given enough info to figure stuff out, but we should be encouraging student communication.
+
+Provide specific completion criteria for the task, so the completeness of a submission can be judged accurately.  Code and documentation contributions can be sent to individual project sites, but should also be added to the task as comments or file attachments.
 
 Ultimately your task must be approved by someone.  For the moment the process is relatively informal: simply type up the description and send it to [http://groups.google.com/group/ghop-python-mentors the mentors list], where we will try to come to a consensus decision about whether the task is suitable for students.
   
