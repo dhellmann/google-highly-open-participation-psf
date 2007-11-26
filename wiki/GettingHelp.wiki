@@ -26,8 +26,9 @@ In particular, you should consider posting questions to the [http://mail.python.
 
 Everyone listed here should be on the [http://groups.google.com/group/ghop-python ghop-python project mailing list]:
 
- * Georg Brandl - georg@python.org - "birkenfeld" in #python-ghop - timezone UTC+1
- * Titus Brown - titus@idyll.org - [http://ivory.idyll.org/blog/ blog]
- * Grig Gheorghiu
- * Doug Hellmann - doug.hellmann@gmail.com - [http://blog.doughellmann.com/ blog] - timezone UTC-5 (US/Eastern)
- * Andre Roberge
+|| Name           || email || #python-ghop || Time Zone || Web site ||
+|| Georg Brandl   || georg@python.org || birkenfeld || UTC+1 || ||
+|| Titus Brown    || titus@idyll.org || || || [http://ivory.idyll.org/blog/ blog] ||
+|| Grig Gheorghiu || || || || ||
+|| Doug Hellmann  || doug.hellmann@gmail.com || dhellmann || UTC-5 (US/Eastern) || [http://blog.doughellmann.com/ blog] ||
+|| Andre Roberge  || || || || ||
