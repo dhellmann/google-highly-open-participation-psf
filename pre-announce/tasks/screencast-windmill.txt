@@ -16,11 +16,11 @@ Completion:
 
 Attach either a file containing the screencast, or the URL of the
 screencast, to this task.  The screencast must be in an acceptable
-format and should be under 100 mb in size; see RecordingScreencasts.
+format and should be under 100 mb in size; see HowToMakeScreencasts.
 
 Relevant wiki pages:
 
-  - RecordingScreencasts.
+  - HowToMakeScreencasts.
 """
 
 owner = "titus@idyll.org"

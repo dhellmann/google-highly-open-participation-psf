@@ -19,7 +19,7 @@ format and should be under 100 mb in size; see RecordingScreencasts.
 
 Relevant wiki pages:
 
-  - RecordingScreencasts.
+  - HowToMakeScreencasts.
 """
 
 owner = "titus@idyll.org"
