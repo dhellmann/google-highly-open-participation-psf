@@ -1,8 +1,0 @@
-#summary Update the refcount.dat file
-#labels documentation
-
-= Update the refcount.dat file =
-
-Author: Georg Brandl
-
-Reference count annotation is stored in a refcount.dat file. Many functions aren't included there yet. However, this may need quite some knowledge of API and refcounting.
