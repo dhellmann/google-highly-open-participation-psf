@@ -131,3 +131,8 @@ Comment by ti...@idyll.org, Nov 17, 2007
 
 We should identify a few specific sections. I don't have a good sense for where the code examples are wrong, and the entire library docs seems like a big job!
 
+== Remove all mentions of long integers from the docs ==
+
+Author: Georg Brandl
+
+In 3.0, there is no distinction between long and "plain" integers anymore.
