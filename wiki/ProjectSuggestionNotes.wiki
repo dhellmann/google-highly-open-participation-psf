@@ -119,3 +119,15 @@ In the new docs the glossary, previously in the tutorial, is meant to be a centr
 Author: Georg Brandl
 
 Look through library docs and find where "unicode" is mentioned and should be changed to "str", and where "str" should be "bytes".
+
+== Update code examples in docs ==
+
+Author: Georg Brandl
+
+Review the code examples in the library documentation, updating to 3.0 syntax where needed.
+
+
+Comment by ti...@idyll.org, Nov 17, 2007
+
+We should identify a few specific sections. I don't have a good sense for where the code examples are wrong, and the entire library docs seems like a big job!
+
