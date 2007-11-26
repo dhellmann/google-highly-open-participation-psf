@@ -7,4 +7,4 @@ If you are that "ideal" student, you will no doubt do more than simply meeting t
 
 As a start, some projects have suggestions for "extra credit".  You could look at these suggestions and either implement them or do some extra work of your own design...
 
-Impress us with your efforts and we might nominate you as the "best student" chosen to represent the Python community at the [http://code.google.com/opensource/ghop/2007-8 Google Highly Open Participation Contest] awards!
+Impress us with your efforts and we might nominate you as the "best contributor" chosen to represent the Python community at the [http://code.google.com/opensource/ghop/2007-8 Google Highly Open Participation Contest] awards!
