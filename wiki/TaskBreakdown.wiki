@@ -21,6 +21,8 @@ incomplete, but an example --titus
 
  - Adding documentation and examples to datetime
 
+ - Updating rosettacode pages for file and math operations
+
 = Making live or recorded presentations =
 
  - User-group outreach
@@ -46,6 +48,8 @@ incomplete, but an example --titus
  - Test pydigg
 
  - Test pyfacebook
+
+ - Updating rosettacode.org pages for XML, object serialization, and data structures
 
 = Difficult tasks involving lots of coding =
 
