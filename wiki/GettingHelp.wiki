@@ -26,7 +26,7 @@ In particular, you should consider posting questions to the [http://mail.python.
 
 Everyone listed here should be on the [http://groups.google.com/group/ghop-python ghop-python project mailing list]:
 
- * Georg Brandl - georg@python.org - also on freenode in #python-ghop - timezone UTC+1
+ * Georg Brandl - georg@python.org - "birkenfeld" in #python-ghop - timezone UTC+1
  * Titus Brown - titus@idyll.org - [http://ivory.idyll.org/blog/ blog]
  * Grig Gheorghiu
  * Doug Hellmann
