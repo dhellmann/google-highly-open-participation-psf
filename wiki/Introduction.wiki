@@ -1,4 +1,5 @@
 #summary Introducing Python's project for the Google Highly Open Participation competition.
+#labels Deprecated
 
 = Introducing GHOP =
 
