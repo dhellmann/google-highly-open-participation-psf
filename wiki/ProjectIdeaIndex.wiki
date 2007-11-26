@@ -9,7 +9,7 @@ Tasks by category.
   * [PortPackagesToPy3K]: Try out and/or port small/useful 3rd party packages to Py3K.
   * [BenchmarkTCMalloc]: Try out Google's TCMalloc with Python -- *done*
   * [RealTimeLogFileVisualization]: Several tasks for visualizing system log files in real time
-  * [RosettaCodeTasks]: write up Python solutions to Rosetta Code problems.
+  * [RosettaCodeTasks]: write up Python solutions to Rosetta Code problems. -- *done*
 
 = Testing =
 
