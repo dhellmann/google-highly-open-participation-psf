@@ -61,7 +61,7 @@ http://rosettacode.org/rosettacode/w/index.php?title=XML_and_XPath
 
 }}}
 
-= Performance testing for WideFinder implementations =
+== Performance testing for WideFinder implementations ==
 
 Author: Grig Gheorghiu
 
@@ -78,3 +78,32 @@ I think we can isolate 3 different tasks for the students, with each task taking
 graphing them for comparison purposes using the matplotlib Python library.
 
 For extra credit, the student would time and graph all 3 solutions.
+
+== Increase unit test code coverage in the Python std lib ==
+
+Author: Titus Brown
+
+There are a number of modules with very poor/low test coverage.  I will assemble a list
+of the most egregious ones.
+
+This task would need some good documentation describing how to *measure* this kind of code coverage.  Easy enough for me to write, I think...
+
+== Try out Google's TCMalloc with Python ==
+
+Author: Titus Brown
+
+Do performance tests on Python after replacing malloc with TCMalloc,
+
+        http://goog-perftools.sourceforge.net/doc/tcmalloc.html  
+
+See http://www.python.org/doc/2.3.5/whatsnew/section-pymalloc.html
+
+and use
+
+Use pybench, 'python Tools/pybench/pybench.py'.
+
+./configure --without-pymalloc
+
+to get rid of pymalloc. Three benchmarks:
+
+with pymalloc (default) with pymalloc and with TCmalloc without pymalloc and with TCmalloc
