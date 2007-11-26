@@ -1,0 +1,4 @@
+#summary Information about the Python community and online resources.
+#labels students,needs-work
+
+Mention ghop-python mailing list, python-list, IRC channels, etc.
