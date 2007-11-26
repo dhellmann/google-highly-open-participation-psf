@@ -31,4 +31,4 @@ Everyone listed here should be on the [http://groups.google.com/group/ghop-pytho
 || Titus Brown    || titus@idyll.org || || || [http://ivory.idyll.org/blog/ blog] ||
 || Grig Gheorghiu || || || || ||
 || Doug Hellmann  || doug.hellmann@gmail.com || dhellmann || UTC-5 (US/Eastern) || [http://blog.doughellmann.com/ blog] ||
-|| Andre Roberge  || || || || ||
+|| Andre Roberge  || andre.roberge@gmail.com || || UTC-4 || [http://aroberge.blogspot.com/ blog] ||
