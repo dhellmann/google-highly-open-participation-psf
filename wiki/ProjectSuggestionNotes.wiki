@@ -208,3 +208,44 @@ http://www.python.org/dev/peps/pep-3132/ - extended iterable unpacking; update i
 
 http://www.python.org/dev/peps/pep-3100/ - general plans PEP; check over documentation to be sure it's consistent
 
+
+== Sync docstrings with docs ==
+
+Author: Georg Brandl
+
+Sync up docstrings and written documentation (make sure the docstring contain all essential information from the docs, and the docs contain everything the docstring does) in library code
+
+
+==Add code examples to the docs==
+
+Author: Georg Brandl
+
+Add code examples to library documentation that's missing them. Should we select specific ones, or just say "pick $NUMBER"?
+
+Comment by ti...@idyll.org, Nov 16, 2007
+
+Some notes from comments on my blog solicitation, ivory.idyll.org/blog/nov-07/hidden-gems-in-stdlib.html
+
+re (examples, esp groups & subs) xmrpclib (server/client example) datetime (examples?) ConfigParser? (exhaustive examples!) wsgiref (examples, more discussion)
+
+unittest (examples) UserDict? (examples) logging (examples, docs rewrite) csv (examples pprint (indent, depth, width) SocketServer? itertools (doctests)
+
+DB API examples for mysql, postgres, sqlite
+
+struct urllib2 transfer from hidden guide??
+
+glob?
+
+traceback examples
+
+bisect examples
+
+operator (docs) mmap (docs)
+
+xml.etree.ElementTree? - transfer docs from effbot
+
+compiler docs (kumar) AST => Abstract Syntax Tree
+
+http://docs.python.org/dev/library/undoc.html
+
+    - multimedia stuff; videoreader - applesingle? 
