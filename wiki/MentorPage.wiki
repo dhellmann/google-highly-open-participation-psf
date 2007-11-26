@@ -7,7 +7,7 @@ We hope that the Python community will be actively involved in this contest!
 
 We can use community help in a number of ways.
 
-First, you can always lurk on the [http://groups.google.com/group/ghop-python general mailing list] and help students with problems.
+First, you can always subscribe to the [http://groups.google.com/group/ghop-python general mailing list] and help students with problems.
 
 Second, you can *join the [http://groups.google.com/group/ghop-python-mentors mentors list]* and submit new tasks and decide whether or not existing task goals have been met.
 
