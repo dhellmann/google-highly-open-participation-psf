@@ -29,6 +29,6 @@ Everyone listed here should be on the [http://groups.google.com/group/ghop-pytho
 || Name           || email || #python-ghop || Time Zone || Web site ||
 || Georg Brandl   || georg@python.org || birkenfeld || UTC+1 || ||
 || Titus Brown    || titus@idyll.org || || || [http://ivory.idyll.org/blog/ blog] ||
-|| Grig Gheorghiu || || || || ||
+|| Grig Gheorghiu || grig@gheorghiu.net || || UTC-8 (US/Pacific) || [http://agiletesting.blogspot.com blog] ||
 || Doug Hellmann  || doug.hellmann@gmail.com || dhellmann || UTC-5 (US/Eastern) || [http://blog.doughellmann.com/ blog] ||
 || Andre Roberge  || andre.roberge@gmail.com || || UTC-4 || [http://aroberge.blogspot.com/ blog] ||
