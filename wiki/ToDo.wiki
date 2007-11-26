@@ -18,9 +18,6 @@ Write TaskBreakdown page
 
 Go through blog comments and e-mail and add tasks or update ProjectIdeaIndex.
 
-Note: add to Deleted tasks, "this task was entered incorrectly and work on
-it is not eligible for the Google Highly Open Participation Contest"
-
 Discuss licenses somewhere!
 
 Update [Contributors].
