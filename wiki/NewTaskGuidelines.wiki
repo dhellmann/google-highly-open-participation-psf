@@ -3,8 +3,6 @@
 
 = Task outline =
 
-_Note: I tend to be fairly informal about these things.  Someone else could maybe write up some guidelines if they think it's too chaotic! --titus_
-
 The primary requirement for a new task is that it be *specific*.
 
 It helps if it's *relatively small*, but there's nothing wrong with challenging students with bigger tasks ;).  The idea is to have tasks take students *at most* 2-4 days with 2-3 hrs
