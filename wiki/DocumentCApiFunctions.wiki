@@ -1,8 +1,0 @@
-#summary Document undocumented C API functions
-#labels documentation
-
-= Document undocumented C API functions =
-
-Author: Georg Brandl
-
-There are quite a few C APIs undocumented, e.g. the PySys_* set of functions. Documenting them isn't too hard, you should understand C and a bit of the Python C API.
