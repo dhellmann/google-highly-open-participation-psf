@@ -1,5 +1,5 @@
 #summary Running the tests included with Python
-#labels students,needs-work
+#labels students
 
 Every time you change the code of some Python standard library module,
 before you submit the change you have to run the test suite to make
