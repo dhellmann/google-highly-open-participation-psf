@@ -249,3 +249,51 @@ compiler docs (kumar) AST => Abstract Syntax Tree
 http://docs.python.org/dev/library/undoc.html
 
     - multimedia stuff; videoreader - applesingle? 
+
+== Document undocumented C API functions ==
+
+Author: Georg Brandl
+
+There are quite a few C APIs undocumented, e.g. the `PySys_*` set of functions. Documenting them isn't too hard, you should understand C and a bit of the Python C API.
+
+
+==Update the refcount.dat file==
+
+Author: Georg Brandl
+
+Reference count annotation is stored in a refcount.dat file. Many functions aren't included there yet. However, this may need quite some knowledge of API and refcounting.
+
+Comment by ti...@idyll.org, Nov 17, 2007
+
+I cannot find refcount.dat anywhere; what is it?
+Comment by georg.brandl, Nov 24 (2 days ago)
+
+It's Doc/data/refcounts.dat. However, I think I retract this task since it's a bit too hard for the amount of time...
+
+==have students prepare short tutorials like those at ShowMeDo.com==
+
+=== Pros ===
+
+  * The [http://www.youtube.com YouTube] generation thinks user-generated video is cool.
+  * People at all skills levels could take part (i.e., lower cost of entry than hacking the core library).
+  * This project would attract people with skills in areas other than pure hacking (i.e., we wouldn't be preaching to the converted).
+  * Students would be able to understand/appreciate/review other students' work.
+  * People could contribute by doing an ABC-language version of someone else's XYZ-language contribution.
+  * A "best of" show would make a great [http://www.pycon.org/ PyCon] event.
+
+=== Cons ===
+
+  * Doesn't add new capabilities to Python, the standard library, or related tools.
+
+
+Comment by ti...@idyll.org, Nov 19, 2007
+
+    - checking out, configuring, and compiling Python26/30 on linux, win,
+
+        or mac os x; 
+
+    - running the regression tests with code coverage - running pystone benchmarks 
+
+    - building a simple calculator module and writing unit tests for
+
+        it 
