@@ -13,7 +13,7 @@ See [http://code.google.com/p/google-highly-open-participation-psf/w/list?q=labe
   * BenchmarkingAndProfiling needs to be written
   * GettingAndCompilingPython needs instructions for Windows.
   * HowToTest has a list of topics to be included, but no real text
-  * Python3K is empty, but is it needed?  We have instructions for checking out the 3.0 source tree, where necessary.  Are there other differences?
+  * Python3K is empty; it should contain a brief description of Python3K, so that people that aren't familiar with Python can understand what's going on.  Maybe it isn't needed...
   * RecordingTestCoverage needs to be written
   * TaskBreakdown needs to be checked against the current task list to ensure all are included
 
