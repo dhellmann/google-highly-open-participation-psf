@@ -29,5 +29,5 @@ Everyone listed here should be on the [http://groups.google.com/group/ghop-pytho
  * Georg Brandl - georg@python.org - "birkenfeld" in #python-ghop - timezone UTC+1
  * Titus Brown - titus@idyll.org - [http://ivory.idyll.org/blog/ blog]
  * Grig Gheorghiu
- * Doug Hellmann
+ * Doug Hellmann - doug.hellmann@gmail.com - [http://blog.doughellmann.com/ blog] - timezone UTC-5 (US/Eastern)
  * Andre Roberge
