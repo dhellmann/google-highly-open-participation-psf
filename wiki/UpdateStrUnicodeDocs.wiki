@@ -1,8 +1,0 @@
-#summary Update library docs w.r.t. str/unicode changes
-#labels documentation
-
-= Update library docs w.r.t. str/unicode changes =
-
-Author: Georg Brandl
-
-Look through library docs and find where "unicode" is mentioned and should be changed to "str", and where "str" should be "bytes".
