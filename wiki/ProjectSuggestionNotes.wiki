@@ -1,0 +1,61 @@
+#summary Notes from previously suggested tasks
+
+= Introduction =
+
+These are notes from task suggestions which came in while we were planning the contest.  This information is here for historical context only.  The authoritative source of tasks for contestants is the Open issues list.  These notes may diverge from the final tasks as they were written up.  When in doubt, follow the instructions in the task and ask questions on the mailing list.
+
+
+== rosettacode.org ==
+
+"Simple programming problems" solved in multiple prog languages
+
+Michael Mol suggests:
+
+{{{
+> -> Rosetta Code, where simple programming problems
+> -> are solved in as many as 79 programming languages.  While most of the
+> -> tasks (a shade under 80%) already have Python solutions, there are a
+> -> few that don't.  Even so, the tasks that already have Python solutions
+> -> could be instructional.
+Here's a list of all the pages that (as I write this) don't have
+Python examples.  Currently, there are 25.  I don't know Python, but
+here are my best guesses regarding difficulty:
+
+Trivial
+http://rosettacode.org/rosettacode/w/index.php?title=Bitwise_operations
+http://rosettacode.org/rosettacode/w/index.php?title=Data_Representation_-_Controlling_Fields_in_a_Structure
+http://rosettacode.org/rosettacode/w/index.php?title=File_Modification_Time
+http://rosettacode.org/rosettacode/w/index.php?title=File_Rename
+http://rosettacode.org/rosettacode/w/index.php?title=File_Size
+http://rosettacode.org/rosettacode/w/index.php?title=Logical_operations
+
+Easy
+http://rosettacode.org/rosettacode/w/index.php?title=Binary_search
+http://rosettacode.org/rosettacode/w/index.php?title=Doubly-Linked_List_%28element_insertion%29
+http://rosettacode.org/rosettacode/w/index.php?title=Doubly-Linked_List_%28element%29
+http://rosettacode.org/rosettacode/w/index.php?title=Flow_Control_Structures
+http://rosettacode.org/rosettacode/w/index.php?title=MD5
+http://rosettacode.org/rosettacode/w/index.php?title=Prime_numbers
+
+Moderate
+http://rosettacode.org/rosettacode/w/index.php?title=Object_Serialization
+http://rosettacode.org/rosettacode/w/index.php?title=OpenGL
+http://rosettacode.org/rosettacode/w/index.php?title=Parametric_Polymorphism
+http://rosettacode.org/rosettacode/w/index.php?title=SQL-Based_Authentication
+
+Hard
+http://rosettacode.org/rosettacode/w/index.php?title=Distributed_program
+http://rosettacode.org/rosettacode/w/index.php?title=Determine_if_Only_One_Instance_is_Running
+http://rosettacode.org/rosettacode/w/index.php?title=Quine
+
+Unknown
+http://rosettacode.org/rosettacode/w/index.php?title=Data_Representation_-_Getting_the_Size
+http://rosettacode.org/rosettacode/w/index.php?title=Data_Representation_-_Specifying_Minimum_Size
+http://rosettacode.org/rosettacode/w/index.php?title=Defining_Primitive_Data_Types
+http://rosettacode.org/rosettacode/w/index.php?title=HTTPS_request_with_authentication
+http://rosettacode.org/rosettacode/w/index.php?title=Insertion_sort
+http://rosettacode.org/rosettacode/w/index.php?title=Pattern_Matching
+http://rosettacode.org/rosettacode/w/index.php?title=XML_and_XPath
+
+
+}}}
