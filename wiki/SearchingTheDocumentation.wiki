@@ -1,2 +1,0 @@
-#summary How to search the documentation for things to update.
-#labels students,needs-work
