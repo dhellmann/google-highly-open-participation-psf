@@ -1,6 +1,0 @@
-#summary Write new tutorial for Crunchy
-#labels training
-
-= Write new tutorial for Crunchy =
-
-A [http://crunchy.sourceforge.net Crunchy project] can probably could use some help in making new tutorials and tweaking existing ones. It gives the learner interactive environment (requires only Python and Firefox) making this a great opportunity for a student to learn Python and contribute something at the same time.
