@@ -61,113 +61,11 @@ http://rosettacode.org/rosettacode/w/index.php?title=XML_and_XPath
 
 }}}
 
-== Performance testing for WideFinder implementations ==
-
-Author: Grig Gheorghiu
-
-By now I think everybody is familiar with Tim Bray's Wide Finder
-challenge: <http://www.tbray.org/ongoing/When/200x/2007/09/20/Wide-Finder>.
-For those who are not familiar, Tim Bray is running a language/implementation
-shoot-out for the fastest program that can parse a 1 million line log file.
-
-The effbot has a few solutions in Python here: <http://effbot.org/zone/wide-finder.htm> -- one of them is a single-threaded program, the other one is a multi-threaded program,
-and the third one is a simulation of a multi-processor program.
-
-I think we can isolate 3 different tasks for the students, with each task taking
-2 of effbot's 3 solutions, timing them over the course of a few runs, then
-graphing them for comparison purposes using the matplotlib Python library.
-
-For extra credit, the student would time and graph all 3 solutions.
-
-== Increase unit test code coverage in the Python std lib ==
-
-Author: Titus Brown
-
-There are a number of modules with very poor/low test coverage.  I will assemble a list
-of the most egregious ones.
-
-This task would need some good documentation describing how to *measure* this kind of code coverage.  Easy enough for me to write, I think...
-
-== Try out Google's TCMalloc with Python ==
-
-Author: Titus Brown
-
-Do performance tests on Python after replacing malloc with TCMalloc,
-
-        http://goog-perftools.sourceforge.net/doc/tcmalloc.html  
-
-See http://www.python.org/doc/2.3.5/whatsnew/section-pymalloc.html
-
-and use
-
-Use pybench, 'python Tools/pybench/pybench.py'.
-
-./configure --without-pymalloc
-
-to get rid of pymalloc. Three benchmarks:
-
-with pymalloc (default) with pymalloc and with TCmalloc without pymalloc and with TCmalloc
-
-== Add useful terms to the glossary ==
-
-Author: Georg Brandl
-
-In the new docs the glossary, previously in the tutorial, is meant to be a central location to explain Python- and probably computer science-specific terms that many newbie won't know yet.  The task is to collect more such terms, explain them in the glossary and cross-reference their occurrences in the rest of the docs.
-
-== Update library docs w.r.t. str/unicode changes ==
-
-Author: Georg Brandl
-
-Look through library docs and find where "unicode" is mentioned and should be changed to "str", and where "str" should be "bytes".
-
-== Update code examples in docs ==
-
-Author: Georg Brandl
-
-Review the code examples in the library documentation, updating to 3.0 syntax where needed.
-
-
-Comment by ti...@idyll.org, Nov 17, 2007
-
-We should identify a few specific sections. I don't have a good sense for where the code examples are wrong, and the entire library docs seems like a big job!
-
-== Remove all mentions of long integers from the docs ==
-
-Author: Georg Brandl
-
-In 3.0, there is no distinction between long and "plain" integers anymore.
-
-== Document differences between Python 2 and 3 ==
-
-Author: Georg Brandl
-
-One easy and (not too tedious) task is to get to know the most important
-differences between Python 2 and Python 3 and write a basic document that
-explains them to users, with code examples.
-
 == Port small and useful 3rd party packages to Py3K ==
 
 Author: Titus Brown
 
 We would need to pick a few packages that are simple, have good unit tests, and yet are useful.  simplejson is one nominee... we could solicit input from the community pretty easily on this, without saying why we're looking for such packages.
-
-== Write new tutorial for Crunchy ==
-
-Author: constant.beta
-
-A [http://crunchy.sourceforge.net Crunchy project] can probably could use some help in making new tutorials and tweaking existing ones. It gives the learner interactive environment (requires only Python and Firefox) making this a great opportunity for a student to learn Python and contribute something at the same time.
-
-== Setup Try Python ==
-
-Author: Georg Brandl
-
-Get a "try python" page working (a sandbox where you can try Python over the web). Could also include a few "exercises".
-
-Ruby equivalent: http://tryruby.hobix.com/
-
-_This is hard, and would probably make a non-trivial Summer of Code project. First of all Python doesn't have restricted execution built-in right now (since 2.3). Making this right would involve hacking on CPython sources - building a custom Python version with dangerous bits from os, sys and similar modules stripped out. There's also quite a bit of JavaScript involved to make it as nice and interactive as the Ruby version. Making good tutorials is also a complex task and requires a good knowledge of Python features._ -- mk
-
-_On the bright side this proposal lead me to the CrunchyTutorials idea. :)_ -- mk
 
 == Rewrite tests for the standard library that do not use unittest or doctest. ==
 
@@ -184,37 +82,11 @@ This list is in no way exhaustive!
   * test_struct
 
 
-==Document PEP implementations==
-
-Author: Georg Brandl
-
-Quite a few 31xx PEPs are implemented, but not yet documented.
-
-Comment by ti...@idyll.org, Nov 17, 2007
-
-http://www.python.org/dev/peps/pep-3102/ - keyword-only arguments; update docs
-
-http://www.python.org/dev/peps/pep-3104/ - 'nonlocal' intro; update docs
-
-http://www.python.org/dev/peps/pep-3105/ - make 'print' a function: update docs (global change!)
-
-http://www.python.org/dev/peps/pep-3110/ - catching exceptions changes; update docs (esp traceback, raise)
-
-http://www.python.org/dev/peps/pep-3111/ - input() stuff; update docs.
-
-http://www.python.org/dev/peps/pep-3114/ - iter.next() => iter.next(): update docs, examples in iterator section
-
-http://www.python.org/dev/peps/pep-3132/ - extended iterable unpacking; update iterator docs.
-
-http://www.python.org/dev/peps/pep-3100/ - general plans PEP; check over documentation to be sure it's consistent
-
-
 == Sync docstrings with docs ==
 
 Author: Georg Brandl
 
 Sync up docstrings and written documentation (make sure the docstring contain all essential information from the docs, and the docs contain everything the docstring does) in library code
-
 
 ==Add code examples to the docs==
 
@@ -256,20 +128,6 @@ Author: Georg Brandl
 
 There are quite a few C APIs undocumented, e.g. the `PySys_*` set of functions. Documenting them isn't too hard, you should understand C and a bit of the Python C API.
 
-
-==Update the refcount.dat file==
-
-Author: Georg Brandl
-
-Reference count annotation is stored in a refcount.dat file. Many functions aren't included there yet. However, this may need quite some knowledge of API and refcounting.
-
-Comment by ti...@idyll.org, Nov 17, 2007
-
-I cannot find refcount.dat anywhere; what is it?
-Comment by georg.brandl, Nov 24 (2 days ago)
-
-It's Doc/data/refcounts.dat. However, I think I retract this task since it's a bit too hard for the amount of time...
-
 ==have students prepare short tutorials like those at ShowMeDo.com==
 
 === Pros ===
@@ -295,43 +153,6 @@ Comment by ti...@idyll.org, Nov 19, 2007
     - running the regression tests with code coverage - running pystone benchmarks 
 
     - building a simple calculator module and writing unit tests for it 
-
-== Giving a Python course ==
-
-Author: Georg Brandl
-
-I can also imagine a student learning enough basic Python to give his/her
-class a small "course" (perhaps over two or three days), documenting this
-effort via photos and perhaps a report from the relevant teacher. This
-will spread knowledge of Python (most interested students will still start
-out with PHP because most web hosters offer it exclusively and "everyone
-does it", at least here...)
-
-Comment by doug.hellmann,  Nov 24
-
-The tutorial (http://docs.python.org/tut/) might be a good source of material for such a course.
-
-== Write python interfaces to popular social networking sites ==
-
-Author: Grig Gheorghiu
-
-Many such modules already exist, so this would mean either enhancing
-them, or writing alternative implementations from scratch.
-
-Examples:
-
-python-twitter: http://code.google.com/p/python-twitter/
-
-python-facebook: http://groups.google.com/group/pyfacebook
-
-python-digg:
-http://neothoughts.com/2007/04/30/pydigg-a-python-toolkit-for-the-digg-api/
-
-python-myspace: doesn't exist yet, but see
-http://www.kiberpipa.org/~gandalf/blog/?p=73
-
-...and I'm sure the list can go on. This type of tasklet might look
-interesting especially to a highschooler.
 
 == Log file reporting and visualization ==
 
