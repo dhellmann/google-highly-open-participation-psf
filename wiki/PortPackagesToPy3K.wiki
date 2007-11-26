@@ -1,8 +1,0 @@
-#summary Port small and useful 3rd party packages to Py3K
-
-= Port small and useful 3rd party packages to Py3K =
-
-Author: Titus Brown
-
-We would need to pick a few packages that are simple, have good unit tests, and yet are useful.  simplejson is one nominee... we could solicit input from the community pretty easily on this, without saying why we're looking for such packages.
-
