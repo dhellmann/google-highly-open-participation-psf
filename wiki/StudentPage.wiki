@@ -1,13 +1,13 @@
-#summary Information for GHOP students
+#summary Information for participants in the Google Highly Open Participation contest
 #labels students
 
 = Introduction =
 
-Welcome to the GHOP contest, and welcome to Python!  We're thrilled to have you!
+Welcome to the [http://code.google.com/opensource/ghop/2007-8 Google Highly Open Participation contest], and welcome to Python!  We're thrilled to have you!
 
 == Getting started ==
 
-You should probably start by reading the [http://groups.google.com/group/sockhoppers/web/ghop-faqs?hl=en GHOP FAQ].  If you meet the various requirements (you're 13 or over, in school, and have parental consent) and are still interested in participating in the contest, then you might want to check out Python before continuing.  There's a great [http://wiki.python.org/moin/BeginnersGuide Beginner's Guide]
+You should probably start by reading the [http://groups.google.com/group/sockhoppers/web/ghop-faqs?hl=en Frequently Asked Questions].  If you meet the various requirements (you're 13 or over, in school, and have parental consent) and are still interested in participating in the contest, then you might want to check out Python before continuing.  There's a great [http://wiki.python.org/moin/BeginnersGuide Beginner's Guide]
 that's the best place to start.
 
 == Choosing tasks ==
@@ -48,4 +48,4 @@ Also see ExtraCreditAndBestContributor for information on how to win "best contr
 == Disputes, arbitration, and general unfairness ==
 If you have any questions or comments about your dealings with a particular mentor or set of mentors, please simply discuss them on the mailing list.  Note that there are general rules of conduct expected of you, as well as everyone else on the mailing list; see [http://www.albion.com/netiquette/ Netiquette] for more information.
 
-If you disagree with the decision of the mentoring organization (in this case, Python!) you can contact Google directly to resolve the dispute.  See the main Google/GHOP page for more information.
+If you disagree with the decision of the mentoring organization (in this case, Python!) you can contact Google directly to resolve the dispute.  See the main [http://code.google.com/opensource/ghop/2007-8 Google Highly Open Participation page] for more information.
