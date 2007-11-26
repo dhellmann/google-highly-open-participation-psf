@@ -182,3 +182,29 @@ Some tests still exist that do not use the unittest or doctest modules.  Those t
 This list is in no way exhaustive!
 
   * test_struct
+
+
+==Document PEP implementations==
+
+Author: Georg Brandl
+
+Quite a few 31xx PEPs are implemented, but not yet documented.
+
+Comment by ti...@idyll.org, Nov 17, 2007
+
+http://www.python.org/dev/peps/pep-3102/ - keyword-only arguments; update docs
+
+http://www.python.org/dev/peps/pep-3104/ - 'nonlocal' intro; update docs
+
+http://www.python.org/dev/peps/pep-3105/ - make 'print' a function: update docs (global change!)
+
+http://www.python.org/dev/peps/pep-3110/ - catching exceptions changes; update docs (esp traceback, raise)
+
+http://www.python.org/dev/peps/pep-3111/ - input() stuff; update docs.
+
+http://www.python.org/dev/peps/pep-3114/ - iter.next() => iter.next(): update docs, examples in iterator section
+
+http://www.python.org/dev/peps/pep-3132/ - extended iterable unpacking; update iterator docs.
+
+http://www.python.org/dev/peps/pep-3100/ - general plans PEP; check over documentation to be sure it's consistent
+
