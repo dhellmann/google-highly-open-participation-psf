@@ -294,6 +294,41 @@ Comment by ti...@idyll.org, Nov 19, 2007
 
     - running the regression tests with code coverage - running pystone benchmarks 
 
-    - building a simple calculator module and writing unit tests for
+    - building a simple calculator module and writing unit tests for it 
 
-        it 
+== Giving a Python course ==
+
+Author: Georg Brandl
+
+I can also imagine a student learning enough basic Python to give his/her
+class a small "course" (perhaps over two or three days), documenting this
+effort via photos and perhaps a report from the relevant teacher. This
+will spread knowledge of Python (most interested students will still start
+out with PHP because most web hosters offer it exclusively and "everyone
+does it", at least here...)
+
+Comment by doug.hellmann,  Nov 24
+
+The tutorial (http://docs.python.org/tut/) might be a good source of material for such a course.
+
+== Write python interfaces to popular social networking sites ==
+
+Author: Grig Gheorghiu
+
+Many such modules already exist, so this would mean either enhancing
+them, or writing alternative implementations from scratch.
+
+Examples:
+
+python-twitter: http://code.google.com/p/python-twitter/
+
+python-facebook: http://groups.google.com/group/pyfacebook
+
+python-digg:
+http://neothoughts.com/2007/04/30/pydigg-a-python-toolkit-for-the-digg-api/
+
+python-myspace: doesn't exist yet, but see
+http://www.kiberpipa.org/~gandalf/blog/?p=73
+
+...and I'm sure the list can go on. This type of tasklet might look
+interesting especially to a highschooler.
