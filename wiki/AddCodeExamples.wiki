@@ -1,9 +1,0 @@
-#summary Add code examples to the docs
-#labels documentation
-
-= Add code examples to the docs =
-
-Author: Georg Brandl
-
-Add code examples to library documentation that's missing them.
-Should we select specific ones, or just say "pick $NUMBER"?
