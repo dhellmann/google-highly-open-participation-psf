@@ -1,5 +1,5 @@
 #summary Breakdown of the various types of tasks
-#labels students,needs-work
+#labels students
 
 Whether or not you're new to programming or even to programming in
 Python, there are a variety of tasks for you to tackle.
@@ -22,4 +22,3 @@ We have a few [http://code.google.com/p/google-highly-open-participation-psf/iss
 Know how to program in C or C++?  We have a [http://code.google.com/p/google-highly-open-participation-psf/issues/list?q=label:C few tasks especially for you]!
 
 Interested in speed and performance issues?  Check out the [http://code.google.com/p/google-highly-open-participation-psf/issues/list?q=label:performance performance tasks].
-
