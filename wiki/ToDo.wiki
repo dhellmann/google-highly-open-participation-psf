@@ -9,7 +9,4 @@ go *somewhere*. Please remove a task when you've done it.
 
 = Outstanding Tasks =
 
-See [http://code.google.com/p/google-highly-open-participation-psf/w/list?q=label:needs-work the list of pages that need work]
-
-  * BenchmarkingAndProfiling needs to be written
-  * RecordingTestCoverage needs to be written
+There aren't any pages that [http://code.google.com/p/google-highly-open-participation-psf/w/list?q=label:needs-work need work]
