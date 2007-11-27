@@ -28,4 +28,4 @@ Relevant wiki pages:
 
 bugs = "1719933"
 
-owner = "georg@python.org"
+owner = "georg.brandl"
