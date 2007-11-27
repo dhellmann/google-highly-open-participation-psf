@@ -1,8 +1,18 @@
 #summary How to write tests for source code
-#labels students,needs-work
+#labels students
 
-Basic testing concepts
+= Basic Testing Concepts =
 
-Introduce unittest, py.test
+The basic idea behind all of the testing you'll have to do for this contest is to *automate* code tests.  This boils down to two things: understanding what the code is _supposed_ to do, and then making sure that _it does that_ by writing code to exercise specific functionality.
 
-Thinking about code coverage
+There are several testing frameworks in Python to help you manage tests: [http://docs.python.org/lib/module-unittest.html unittest] and [http://docs.python.org/lib/module-doctest.html doctest] are included with Python, and you'll need to use them if you're doing any work on core Python.  Most thirdparty packages use these tools, too, although some may use py.test or nose.  The documentation should say.
+
+doctest is pretty self-explanatory and the documentation is good.  unittest is quite a bit more complicated and you'll probably have to look at existing unit tests in order to figure out how to write your own.  Ask for help if you need it.
+
+See RunningPythonTests to run the tests that are included with the Python distribution.
+
+== Targetting new tests with code coverage ==
+
+You may notice that many of the tasks ask you to "increase code coverage".  Code coverage measures which lines of code are executed by a particular test; see RecordingTestCoverage for technical details.  Now, 100% code coverage doesn't _guarantee_ that code is good, but any code that isn't run by a test is definitely not being tested.  So your minimum goal for these tasks should be to increase code coverage, but the *real* goal is to do a more thorough job of testing the code's functionality.  Keep that in mind when you're writing the tests and you'll do a better job.
+
+Note that if you discover a bug in the course of testing, that counts heavily towards extra credit!
