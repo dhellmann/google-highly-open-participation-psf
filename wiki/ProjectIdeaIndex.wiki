@@ -1,7 +1,7 @@
 #summary Point-form summary of project ideas.
 #labels mentors
 
-Tasks by category.
+Tasks by category.  See ProjectSuggestionNotes for specific ideas, modules, etc.
 
 = Code =
 
