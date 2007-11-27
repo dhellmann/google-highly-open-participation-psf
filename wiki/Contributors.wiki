@@ -11,4 +11,4 @@ The py-skunkworks gang came up with the basic list of task ideas: Brett Cannon, 
 Several people answered our sporadic cries for help and new ideas, including 
 Terry Peppers, Shannon Behrens, Michael Carter, Phil Hassey, and Michael Mol.
 
-The wonderful commenters over at Titus Brown's blog (see [http://ivory.idyll.org/blog/nov-07/new-to-python-projects.html Projects for People New to Python] and [http://ivory.idyll.org/blog/nov-07/hidden-gems-in-stdlib.html) Hidden Gems in stdlib]) suggested a number of projects and modules in need of love.
+The wonderful commenters over at Titus Brown's blog (see [http://ivory.idyll.org/blog/nov-07/new-to-python-projects.html Projects for People New to Python] and [http://ivory.idyll.org/blog/nov-07/hidden-gems-in-stdlib.html Hidden Gems in stdlib]) suggested a number of projects and modules in need of love.
