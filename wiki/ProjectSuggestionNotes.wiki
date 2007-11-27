@@ -165,3 +165,20 @@ The goal of this mini-project is to replicate and possibly enhance the software 
   * Assuming you have all the relevant log data in a database, write a tool that shows reports/stats on that data
   * Assuming you have all the relevant log data in a database, write a tool that uses a graphics library to show the data in various ways
   * Write a visualization program using OpenGL that operates on a live log by parsing out its relevant data, then showing it in real time (no database)
+
+== Miscellaneous notes from Titus ==
+
+poorly organized ;)
+
+[http://blog.fishsoup.net/2007/11/10/reinteract-better-interactive-python/ Reinteract] seems ripe for contribution/screencast.
+
+Modules to focus on: [http://www.algorithm.co.il/blogs/index.php/programming/python/python-module-usage-statistics/
+ Python module usage stats]
+
+[http://nltk.sf.net NLTK] has a great list of TODOs; might be a bit much for high school and younger, though.
+
+pygame, pgu, and [svn://www.imitationpickles.org/pug/trunk pug] could all use help & they're pretty sexy.
+
+Comments on these two posts can be mined for specific target modules for better docs, examples, tests:
+http://ivory.idyll.org/blog/nov-07/hidden-gems-in-stdlib.html and
+http://ivory.idyll.org/blog/nov-07/new-to-python-projects.html
