@@ -16,25 +16,3 @@ See [http://code.google.com/p/google-highly-open-participation-psf/w/list?q=labe
   * HowToTest has a list of topics to be included, but no real text
   * RecordingTestCoverage needs to be written
   * TaskBreakdown needs to be checked against the current task list to ensure all are included
-
-Go through blog comments and e-mail and add tasks or update ProjectIdeaIndex.
-
-Update [Contributors].
-
-Leslie says:
-{{{
-
-These URLs are to be created and for now will yield 404 errors.  But
-they'll be live at launch time:
-
-Main Page: http://code.google.com/opensource/ghop/2007-8
-
-FAQs: http://code.google.com/opensource/ghop/2007-8/faqs.html
-
-Contest Official Rules: http://code.google.com/opensource/ghop/2007-8/rules.html
-
-And I just put the contest logo in the files section:
-
-http://groups.google.com/group/sockhoppers/web/ghoplogo.jpg
-
-}}}
