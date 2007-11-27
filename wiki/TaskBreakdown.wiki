@@ -22,3 +22,5 @@ We have a few [http://code.google.com/p/google-highly-open-participation-psf/iss
 Know how to program in C or C++?  We have a [http://code.google.com/p/google-highly-open-participation-psf/issues/list?q=label:C few tasks especially for you]!
 
 Interested in speed and performance issues?  Check out the [http://code.google.com/p/google-highly-open-participation-psf/issues/list?q=label:performance performance tasks].
+
+The next big version of Python is "Python 3000", a.k.a. "Python 3K" or "Python 3.0".  We have a [http://code.google.com/p/google-highly-open-participation-psf/issues/list?q=label:py3k few tasks] related to making Python 3K a success!
