@@ -1,5 +1,5 @@
 #summary How to get and compile the latest versions of Python
-#labels needs-work,students
+#labels students
 
 == Checking Out the Source ==
 
@@ -22,7 +22,7 @@ very quick tour of frequently-used commands:
  * use `svn diff` to see in detail what changes you made locally, and to create patch files
 
 Of course, for Windows there exist sophisticated graphical tools using which you don't
-have to use the command line interface of Subversion.
+have to use the command line interface of Subversion.  Check out [http://tortoisesvn.tigris.org/ TortoiseSVN] for one free tool.
 
 == Compiling Python from Source ==
 
@@ -45,4 +45,4 @@ from the `Lib/` directory.
 
 === Windows ===
 
-TBD.
+[http://ramblings.timgolden.me.uk/2007/11/22/building-the-python-trunk-with-visual-studio-2008-express/ Here are some instructions] for building Python on Windows with Visual Studio 2008 Express.
