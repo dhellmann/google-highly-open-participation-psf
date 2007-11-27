@@ -1,64 +1,25 @@
-#summary Breakdown of the various tasks, by type and level of difficulty.
+#summary Breakdown of the various types of tasks
 #labels students,needs-work
 
-incomplete, but an example --titus
+Whether or not you're new to programming or even to programming in
+Python, there are a variety of tasks for you to tackle.
 
-= Getting started =
+One good place to start is with the [http://code.google.com/p/google-highly-open-participation-psf/issues/list?q=label:demo demo and advocacy tasks], where you can run through an existing tutorial and then give a presentation on it.  You could also try [http://code.google.com/p/google-highly-open-participation-psf/issues/list?q=label:screencast making a screencast], where you record a video from your screen.
 
- - Demo Genshi
+You can also work on [http://code.google.com/p/google-highly-open-participation-psf/issues/list?q=label:core the Python core distribution] or on a variety of [http://code.google.com/p/google-highly-open-participation-psf/issues/list?q=label:thirdparty applications and libraries written by others].
 
- - Demo Pylons
+Testing code is a great way to get to know the code.  We have lots of
+[http://code.google.com/p/google-highly-open-participation-psf/issues/list?q=label:test testing tasks]; ask for guidance if you need a place to start.  Some of the [http://code.google.com/p/google-highly-open-participation-psf/issues/list?q=label:coverage coverage tasks] might be especially good.
 
- - Demo Django
+The Python standard library ("stdlib" for short) is full of great functionality, and we have a bunch of [http://code.google.com/p/google-highly-open-participation-psf/issues/list?q=label:stdlib stdlib tasks] like writing new examples and updating documentation.
 
- - Demo Python
+Speaking of documentation and examples, there are plenty of places that need work -- see the [http://code.google.com/p/google-highly-open-participation-psf/issues/list?q=label:docs documentation tasks] or the [http://code.google.com/p/google-highly-open-participation-psf/issues/list?q=label:examples examples tasks].
 
- - Demo Crunchy
+Do you know a language other than English?  Take a look at [http://code.google.com/p/google-highly-open-participation-psf/issues/list?q=label:translation the translation tasks].
 
- - Adding documentation and examples to ConfigParser
+We have a few [http://code.google.com/p/google-highly-open-participation-psf/issues/list?q=label:unix UNIX] and [http://code.google.com/p/google-highly-open-participation-psf/issues/list?q=label:windows Windows] tasks.
 
- - Adding documentation and examples to csv, pprint, and traceback
+Know how to program in C or C++?  We have a [http://code.google.com/p/google-highly-open-participation-psf/issues/list?q=label:C few tasks especially for you]!
 
- - Adding documentation and examples to datetime
+Interested in speed and performance issues?  Check out the [http://code.google.com/p/google-highly-open-participation-psf/issues/list?q=label:performance performance tasks].
 
- - Updating rosettacode.org pages for file and math operations
-
-= Making live or recorded presentations =
-
- - User-group outreach
-
- - Screencast Grok
-
- - Screencast Orbited
-
- - Screencast Windmill
-
-= Installing and testing software and documentation =
-
- - Test pyblosxom plugins
-
-= Moderately difficult tasks involving coding =
-
- - Demo pygame
-
- - Write DB-API examples for PostgreSQL
-
- - Write DB-API examples for MySQL
-
- - Test pydigg
-
- - Test pyfacebook
-
- - Updating rosettacode.org pages for XML, object serialization, and data structures
-
-= Difficult tasks involving lots of coding =
-
- - Write myspace API
-
-= Unstructured and very difficult tasks =
-
- - Write Windows HOWTO
-
- - Write UNIX HOWTO
-
- - Write reddit API
