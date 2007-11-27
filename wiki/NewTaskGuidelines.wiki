@@ -16,7 +16,7 @@ Ultimately your task must be approved by someone.  For the moment the process is
   
 Note that tasks cannot *build on other tasks*.
 
-If you don't already have a project in mind but want to contribute by writing up a new project, go check out ProjectIdeaIndex.
+If you don't already have a project in mind but want to contribute by writing up a new project, go check out ProjectIdeaIndex and ProjectSuggestionNotes.
 
 = Submitting a task =
 
