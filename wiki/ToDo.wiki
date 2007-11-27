@@ -12,5 +12,4 @@ go *somewhere*. Please remove a task when you've done it.
 See [http://code.google.com/p/google-highly-open-participation-psf/w/list?q=label:needs-work the list of pages that need work]
 
   * BenchmarkingAndProfiling needs to be written
-  * HowToTest has a list of topics to be included, but no real text
   * RecordingTestCoverage needs to be written
