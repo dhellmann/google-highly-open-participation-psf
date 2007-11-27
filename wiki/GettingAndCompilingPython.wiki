@@ -30,14 +30,16 @@ If you are working on the Python core and want to test your changes, or you want
 test software with a fresh Python 3.0 (many things have happened since Alpha 1),
 you need to compile it yourself.
 
-=== Linux ===
+=== Linux and UNIX (Mac OS X)===
 
 In order to compile Python yourself, make sure you have installed GCC and related
-build tools (e.g. the "build-essential" package on Ubuntu). Then, in the root directory
+build tools (e.g. the "build-essential" package on Ubuntu, or the Development Tools on Mac OS X). Then, in the root directory
 of the Python checkout, execute the usual build steps:
 
-`./configure`
-`make`
+{{{
+./configure
+make
+}}}
 
 Now you should have a `python` executable in the same directory, that when started,
 runs the freshly compiled version of Python. It uses the standard library modules
