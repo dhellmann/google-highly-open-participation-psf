@@ -29,4 +29,4 @@ Relevant wiki pages:
  - Python3K
 """
 
-owner = "georg@python.org"
+owner = "georg.brandl"

@@ -33,4 +33,4 @@ Relevant wiki pages:
  - WorkingOnDocumentation
 """
 
-owner = "georg@python.org"
+owner = "georg.brandl"
