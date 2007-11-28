@@ -1,5 +1,5 @@
 #summary Guidelines for coming up with new tasks.
-#labels mentors
+#labels mentors,Featured
 
 = Task outline =
 
