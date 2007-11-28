@@ -34,6 +34,10 @@ So, if you are interested in working on a particular task, be sure you understan
 
 If you don't complete the task on time, or try to claim multiple tasks, or don't communicate with us, we *will* re-open the task for other students to claim and you won't get credit for it!
 
+=== Claiming a task ===
+
+Please enter a comment, "I claim this task", and please be sure to *change the Status from Open to Claimed*.  Thanks!
+
 === Communicating with us ===
 
 This is so important that we want to really emphasize it: you need to talk to us!
