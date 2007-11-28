@@ -1,5 +1,5 @@
 #summary Information for participants in the Google Highly Open Participation contest
-#labels students
+#labels students,Featured
 
 = Introduction =
 
