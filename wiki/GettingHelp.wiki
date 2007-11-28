@@ -11,7 +11,7 @@ There are a bunch of resources out there for you to use!
 
 First, consider e-mailing the [http://groups.google.com/group/ghop-python ghop-python project mailing list] with your questions.  A group of friendly Pythonistas (see list of mentors, below) is standing by!
 
-You can also use [http://www.irchelp.org/irchelp/new2irc.html Internet Relay Chat, or IRC]; use an IRC client to connect to chat.freenode.net, channel #python-ghop, password 'guido'.  We will try to hang out there.
+You can also use [http://www.irchelp.org/irchelp/new2irc.html Internet Relay Chat, or IRC]; use an IRC client to connect to chat.freenode.net, channel #python-ghop.  We will try to hang out there.
 
 Finally, please feel free to e-mail the task owner or 'CC' person directly.
 
