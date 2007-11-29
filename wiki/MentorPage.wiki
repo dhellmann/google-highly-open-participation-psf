@@ -1,5 +1,5 @@
+#summary Information for mentors
 #labels mentors
-get#summary Information for mentors
 
 = Introduction =
 
