@@ -26,10 +26,10 @@ In particular, you should consider posting questions to the [http://mail.python.
 
 Everyone listed here should be on the [http://groups.google.com/group/ghop-python ghop-python project mailing list]:
 
-|| Name           || email || #python-ghop || Time Zone || Web site ||
-|| Georg Brandl   || georg@python.org || birkenfeld || UTC+1 || ||
-|| Titus Brown    || titus@idyll.org || || || [http://ivory.idyll.org/blog/ blog] ||
-|| Grig Gheorghiu || grig@gheorghiu.net || || UTC-8 (US/Pacific) || [http://agiletesting.blogspot.com blog] ||
-|| Doug Hellmann  || doug.hellmann@gmail.com || dhellmann || UTC-5 (US/Eastern) || [http://blog.doughellmann.com/ blog] ||
-|| Andre Roberge  || andre.roberge@gmail.com || || UTC-4 || [http://aroberge.blogspot.com/ blog] ||
-|| Christian Heimes  || christian@cheimes.de || Crys_ || UTC+1 || ||
+|| Name           || email || #python-ghop || Time Zone || Languages || Web site ||
+|| Georg Brandl   || georg@python.org || birkenfeld || UTC+1 || German || [http://pyside.blogspot.com blog] ||
+|| Titus Brown    || titus@idyll.org || || || || [http://ivory.idyll.org/blog/ blog] ||
+|| Grig Gheorghiu || grig@gheorghiu.net || || UTC-8 (US/Pacific) || || [http://agiletesting.blogspot.com blog] ||
+|| Doug Hellmann  || doug.hellmann@gmail.com || dhellmann || UTC-5 (US/Eastern) || || [http://blog.doughellmann.com/ blog] ||
+|| Andre Roberge  || andre.roberge@gmail.com || || UTC-4 || || [http://aroberge.blogspot.com/ blog] ||
+|| Christian Heimes  || christian@cheimes.de || Crys_ || UTC+1 || || ||
