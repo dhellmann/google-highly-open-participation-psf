@@ -20,7 +20,7 @@ just looking into some documentation source is usually enough to get the
 hang of it.
 
 You can find daily builds of the 2.6 and 3.0 documentation at
-http://docs.python.org/dev/ and http://docs.python.org/dev/, respectively.
+http://docs.python.org/dev/ and http://docs.python.org/dev/3.0/, respectively.
 
 === Getting the source ===
 
