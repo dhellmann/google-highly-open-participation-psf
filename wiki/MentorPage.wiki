@@ -15,3 +15,7 @@ Whether or not you're on either of the lists, you're welcome to submit new task 
 
 Also, please welcome and encourage the student participants when you meet them in
 the forums and  elsewhere. Answer their questions and give them good advice.  Note that you can add comments to the tasks if you have additional information that you think would be helpful!
+
+== Keeping track of tasks ==
+
+You can either add yourself to the Cc: field of a task, OR click on the `*` to monitor it.
