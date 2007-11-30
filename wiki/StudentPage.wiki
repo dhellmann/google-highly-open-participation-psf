@@ -36,7 +36,7 @@ If you don't complete the task on time, or try to claim multiple tasks, or don't
 
 === Claiming a task ===
 
-Please enter a comment, "I claim this task".
+Please enter a comment for the issue, "I claim this task".
 
 It would also be nice to send a short email introducing yourself to the ghop-python discussion list so that we get to know you.
 
