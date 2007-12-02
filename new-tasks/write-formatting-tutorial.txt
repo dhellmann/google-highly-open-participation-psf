@@ -1,0 +1,29 @@
+tags = "docs,py3k"
+
+summary = """
+Write a tutorial about the new string formatting method, as described
+by PEP-3101, of Python 3000
+"""
+
+description = """
+Python 3000 provides a new and more flexible string formatting
+interface. This interface will replace sooner or later the current '%'
+string operator. To help users to make the transition, describe, in a
+tutorial style, the new advanced string formatting of Python 3000.
+
+Write a text or (preferably) a ReStructuredText document that
+describes with specific examples the basic usage and feature of the
+new advanced string formatting. The document should also describe how
+to convert the old '%' string formatting to the new formatting
+interface.
+
+Completion:
+
+Send the completed document to the ghop-python list.
+
+Relevant pages:
+
+  - http://www.python.org/dev/peps/pep-3101/
+  - http://docs.python.org/dev/3.0/library/string.html#format-string-syntax
+"""
+
