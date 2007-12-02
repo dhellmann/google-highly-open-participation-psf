@@ -1,0 +1,35 @@
+tags = "coding,thirdparty"
+
+summary = """
+Write a new entry cache plugin using pickle for PyBlosxom 2.0
+"""
+
+description = """
+PyBlosxom 1.4.x and previous versions had entry caching infrastructure.  
+This code has been removed for PyBlosxom 2.0 and replaced with a couple of 
+callbacks.
+
+The entrypickle functionality needs to be written as a PyBlosxom plugin using 
+the new PyBlosxom 2.0 callbacks.
+
+The code for PyBlosxom 2.0 is in the trunk--it hasn't been released yet.
+
+It's very likely you can reuse the code from PyBlosxom 1.4.x--check the 
+PYBLOSXOM_1_4 branch for code.  Also, the Entry level caching specification 
+documents the new interface for entry-level caching.
+
+The documentation on writing plugins will be helpful:
+
+http://pyblosxom.sourceforge.net/1.4/manual/dev_writing_plugins.html
+
+Write a new entrypickle plugin that works with the code in trunk in 
+PyBlosxom's SVN repository with documentation and tests.
+
+
+Completion:
+
+Upload the file containing your entry cache pickle plugin as an 
+attachment to this task.
+"""
+
+owner = "titus@idyll.org"
