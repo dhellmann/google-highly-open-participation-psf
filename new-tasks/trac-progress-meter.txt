@@ -5,10 +5,10 @@ Write a trac wiki macro plugin to embed a "progress meter" in a wiki page.
 """
 
 description = """
-Create a trac (http://trac.edgewall.org/roadmap) wiki macro plugin to
-display a "progress" meter similar to the one visible in the Roadmap
-view.  The tickets included in the meter should be selected using the
-same syntax as the TicketQuery macro.
+Create a trac (http://trac.edgewall.org) wiki macro plugin to display
+a "progress" meter similar to the one visible in the Roadmap view
+(http://trac.edgewall.org/roadmap).  The tickets included in the meter
+should be selected using the same syntax as the TicketQuery macro.
 
 The macro user should be able to use the TicketQuery and new macro
 together on a wiki page to, for example, build a report of the
