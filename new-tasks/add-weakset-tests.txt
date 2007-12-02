@@ -1,0 +1,31 @@
+tags = "coverage,test,stdlib"
+
+summary = """
+Add tests for the weakref.WeakSet class in Python 3.0
+"""
+
+description = """
+Python 3.0 has a new 'weakref.WeakSet' class, a set which only weakly
+references its members.  There is a unit test for set types, in
+'Lib/test/test_set.py', but it can't be applied to WeakSet because
+it uses string elements, which in turn can't be weakly referenced.
+
+Factor out new a set test base class that can be used for set, frozenset
+and WeakSet, and appropriate subclasses that test the peculiarities of
+set, frozenset and WeakSet. The existing classes should give you an idea
+of how to generalize them.
+
+Completion:
+
+Attach the results of an 'svn diff' (context diff) against the Python
+source tree to this task. Also include text containing the old and new
+code coverage numbers and a brief description of the changes you've made.
+
+Relevant wiki pages:
+
+ - HowToTest
+ - RunningPythonTests
+ - GettingAndCompilingPython
+"""
+
+owner = "titus@idyll.org"
