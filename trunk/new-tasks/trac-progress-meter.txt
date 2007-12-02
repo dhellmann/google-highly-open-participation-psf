@@ -1,0 +1,38 @@
+tags = "coding,trac,thirdparty"
+
+summary = """
+Write a trac wiki macro plugin to embed a "progress meter" in a wiki page.
+"""
+
+description = """
+Create a trac (http://trac.edgewall.org/roadmap) wiki macro plugin to
+display a "progress" meter similar to the one visible in the Roadmap
+view.  The tickets included in the meter should be selected using the
+same syntax as the TicketQuery macro.
+
+The macro user should be able to use the TicketQuery and new macro
+together on a wiki page to, for example, build a report of the
+progress on tickets with a certain keyword (say, a customer name or
+feature code-name) or all tickets owned by a particular person within
+a milestone.
+
+By default, the progress should be based on the number of tickets
+completed.  For extra credit, support using a user-specified numeric
+field (integer or float) of the ticket as a "point" value instead of
+just counting the tickets.  For example to display the estimated
+number of hours completed for a set of tasks owned by dhellmann, the
+user would write something like:
+
+  [[ProgressMeter(owner=dhellmann, ticket_value=hours)]]
+
+Feel free to select your own name for the plugin and the
+"ticket_value" argument.
+
+Completion:
+
+Attach an archive file (zip, tar.gz, egg, etc.) with the source code  
+for the plugin as a comment on this task.  Make sure to include  
+installation and usage instructions.
+"""
+
+owner = "doug.hellmann@gmail.com"
