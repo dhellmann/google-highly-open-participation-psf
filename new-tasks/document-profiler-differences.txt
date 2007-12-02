@@ -1,0 +1,33 @@
+tags = "core,docs,py3k"
+
+summary = """
+Document the differences between the profilers available in the
+standard library.
+"""
+
+description = """
+Python's standard library currently provide three similar profilers --
+i.e., cProfile, profile and hotshot. While each profiler has its own
+strengths (and weaknesses), keeping them all increases the
+maintenance burden of Python core developers. Therefore, the future
+version of Python, Python 3000, will provide a single and universal
+profiler to its users.
+
+Write a document that describes as many as possible differences that
+exists between the three profilers. Types of difference includes (but
+not restricted to) features, interface (API), performance, and bugs.
+Searching the mailing list archives and issue tracker for differences
+discovered by other users is recommended.
+
+Bonus marks if you comes up with specific examples of the differences.
+
+Completion:
+
+Send the completed document to the ghop-python list.
+
+Relevant pages:
+
+  - http://docs.python.org/dev/library/profile.html
+  - http://docs.python.org/dev/library/hotshot.html
+"""
+
