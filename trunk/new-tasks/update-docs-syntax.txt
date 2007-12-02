@@ -1,0 +1,41 @@
+tags = "docs,py3k"
+
+summary = """
+Update references to old Python syntax in the docs.
+"""
+
+description = """
+In Python 3.0, many old syntax elements have been removed and will not
+work anymore.  While the library code is kept up-to-date with respect
+to these removals, the documentation is not always updated accordingly.
+Therefore, examples in the docs might still use old syntax and not work
+in 3.0 anymore.
+
+Update the documentation for Py3K appropriately. This means grepping
+(= searching) through the reST source files for occurrences of old
+constructs and replacing them with their 3.0 equivalents. A list of
+these constructs has been written as an earlier GHOP task, and is
+available under
+
+   http://code.google.com/p/google-highly-open-participation-psf/downloads/list
+
+as "26-30.txt".
+
+See the DocumentationAndExampleGuidelines and WorkingOnDocumentation wiki
+pages for helpful information, under
+
+   http://code.google.com/p/google-highly-open-participation-psf/w/list
+
+Completion:
+
+Attach the results of an 'svn diff' (context diff) against the Python
+source tree to this task, and send a brief description of your changes
+to the ghop-python mailing list.
+
+Relevant wiki pages:
+
+ - DocumentationAndExampleGuidelines
+ - WorkingOnDocumentation
+"""
+
+owner = "georg.brandl"
