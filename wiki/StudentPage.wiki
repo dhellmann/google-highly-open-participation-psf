@@ -38,7 +38,7 @@ If you don't complete the task on time, or try to claim multiple tasks, or don't
 
 Please enter a comment for the issue, "I claim this task".
 
-It would also be nice to send a short email introducing yourself to the ghop-python discussion list so that we get to know you.
+It would also be nice to send a short email introducing yourself to the ghop-python discussion list so that we get to know you. *You might get a faster approval* if you do this as more of us are monitoring the discussion list than the site itself.
 
 === Communicating with us ===
 
