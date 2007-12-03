@@ -1,0 +1,22 @@
+#@CTB wiki pages
+tags = "docs,core"
+
+summary = """
+Integrate Michael Foord's "missing urllib2 manual" into core urllib2 docs.
+"""
+
+description = """
+The core urllib2 documentation is rather poor, and Michael Foord has
+provided a "Missing Manual" for this library module; see
+
+   http://www.voidspace.org.uk/python/articles/urllib2.shtml
+
+Incorporate this manual into the existing urllib2 documentation.  Be sure
+to credit Michael with the documentation
+
+Completion:
+
+Attach an 'svn diff' against the existing Python trunk docs to this task.
+"""
+
+owner = "titus@idyll.org"
