@@ -12,18 +12,16 @@ Don't feel like you need to write down every detail needed to accomplish the tas
 
 Provide specific completion criteria for the task, so the completeness of a submission can be judged accurately.  Code and documentation contributions can be sent to individual project sites, but should also be added to the task as comments or file attachments.
 
-Ultimately your task must be approved by someone.  For the moment the process is relatively informal: simply type up the description and send it to [mailto:titus@idyll.org Titus Brown] or one of the other admins; you can also subscribe to
-[http://groups.google.com/group/ghop-python-mentors the mentors list] (note: the list is closed, so you have to apply to join; just give your name).
-  
+Ultimately your task must be approved by someone.  For the moment the process is relatively informal: simply type up the description and send it to [http://groups.google.com/group/ghop-python ghop-python]; you can also send it to [mailto:titus@idyll.org Titus Brown] or one of the other admins.
+
 Note that tasks cannot *build on other tasks that aren't complete yet*.  We have to wait to create dependent tasks until the dependencies are resolved.
 
 If you don't already have a project in mind but want to contribute by writing up a new project, go check out ProjectIdeaIndex and ProjectSuggestionNotes!
 
 = Submitting a task =
 
-Once you have the OK from the mentors list, just add an issue with a status of New.  Note that we cannot actually delete or edit task descriptions, so proof your descriptions,
-please!  Also note that Wiki markup (and live links) don't show up in task descriptions.  (This is a known "feature".)
+We're gathering tasks in the subversion repository for this project; look at 'em there.  You don't really need to do that, though; just send them to the list and we'll write them up in the appropriate format.
 
-To make the task available to students, it must be changed to Open. We are not supposed to withdraw tasks once they are Opened, so *please wait for a project administrator to change it to Open.*
+Note that Wiki markup (and live links) don't show up in task descriptions.  (This is a known "feature".)
 
 Tasks that we withdraw or do not make available will be marked as Deleted.
