@@ -1,0 +1,53 @@
+tags = "coding,thirdparty"
+
+summary = """
+Write a simple turtle graphics module for Crunchy.
+"""
+
+description = """
+Crunchy can make use of the <canvas> tag to create graphics interactively
+on a page inside Firefox.  There are two modules that can be used
+for this: graphics.py and math_graphics.py; the difference between
+these two modules is the orientation of the positive y axis.
+
+Using math_graphics.py as your inspiration, write a simple turtle
+module for Crunchy.  The minimum functions you should include are: 
+forward(), backward(), goto(), left(), right(), pen_up(), pen_down(), 
+set_color() == set_colour(), circle(), init_graphics().  
+In addition, you must write an html page that includes these 
+functions inside a <pre> element that could be used as a sample page for Crunchy.
+
+You can download Crunchy from
+
+http://code.google.com/p/crunchy
+
+To complete this task, in addition to being familiar with Python,
+you will need to know some basic javascript.  You will also
+need to know some basic trigonometry (sine and cosine).
+
+You may find it useful to have a look at the canvas tutorial at
+http://developer.mozilla.org/en/docs/Canvas_tutorial
+
+Time to complete: you must complete this task within 5 days (120 hours) of
+having claimed it.  An extension of a few days is possible if you show
+that you have made some significant progress.
+
+Bonus points: Implement other useful turtle functions than those listed above.
+
+Bonus points: While your "turtle" only needs to draw lines on the screen,
+you will get bonus points if you load a turtle image that moves on the
+screen with the pen.  This image need not change orientation.
+
+Big bonus points: Have it set up so that the image of the turtle
+rotates so that it always points in the direction where it is moving.
+(I do not know if this is possible with a single image using the javascript canvas
+inside Firefox.)
+
+Completion:
+
+Attach your module (turtle.py) and the html sample page (turtle.html),
+and possibly an image (turtle.png).
+
+"""
+
+owner = "andre.roberge@gmail.com"
