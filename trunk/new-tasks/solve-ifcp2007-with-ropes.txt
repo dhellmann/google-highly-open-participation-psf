@@ -1,0 +1,30 @@
+# @CTB change time estimate
+tags = "hard"
+
+summary = """
+Solve the first section (through section 3) of the ICFP '07 contest.
+"""
+
+description = """
+See
+
+  http://www.icfpcontest.org/
+
+and 
+
+  http://morepypy.blogspot.com/2007/11/ropes-branch-merged.html
+
+Solve through section 3 of the ICFP '07 contest.
+
+Using either the CPython ropes implementation (see other task, if
+completed) or the PyPy ropes implementation (see morepypy blog post,
+above) compare performance of 'execute' on the entire genome with
+normal strings vs ropes data types.
+
+Completion:
+
+Upload Python code and benchmark results, and write a short post (blog size)
+on the results.
+"""
+
+owner = "titus@idyl.org"

@@ -1,0 +1,31 @@
+# @CTB
+tags = "hard,C"
+
+summary = """
+Implement a 'ropes' datatype for CPython in C.
+"""
+
+description = """
+'ropes' represent strings using concatenation trees; see
+
+   http://www.cs.ubc.ca/local/reading/proceedings/spe91-95/spe/vol25/issue12/spe986.pdf
+
+and
+
+  http://morepypy.blogspot.com/2007/11/ropes-branch-merged.html
+
+At a minimum implement string concatenation, slicing, repetition, and
+search/replace.  Build this either as a straight C/C++ extension type,
+or as a Python wrapper around a C module.  Provide automated tests and
+a setup.py/distutils file.
+
+For extra extra credit, implement a unicode version too (py 2.6;
+'bytes' and 'str' for py 3k).
+
+Completion:
+
+Attach a .tar.gz or zip file to this issue and send an e-mail to the
+mailing list.
+"""
+
+owner = "titus@idyl.org"
