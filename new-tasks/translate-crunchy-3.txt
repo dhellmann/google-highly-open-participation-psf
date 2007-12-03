@@ -6,7 +6,8 @@ Add translation in a new language for Crunchy.
 
 description = """
 Crunchy's messages are currently available in English, French, Italian,
-Macedonian, Estonian and Polish.  Provided
+Macedonian, Estonian and Polish (and currently being translated in Spanish).  
+Provided
 that you have a high fluency in another language, translate Crunchy's
 messages into that language, using a UTF-8 encoding.  You may want to
 use poedit to help you accomplish this task. Ask for help if you need
