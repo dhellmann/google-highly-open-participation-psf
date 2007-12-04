@@ -1,0 +1,44 @@
+tags = "coding,thirdparty"
+
+summary = """
+Write a new restructured text formatter plugin for PyBlosxom based on
+the old restructured text entryparser plugin.
+"""
+
+description = """
+PyBlosxom 1.4 and previous versions had entryparsers which would format 
+file-based entries that had a specified extension.
+
+For example, the restructured text entryparser would open files that ended 
+in .rst, parse the contents, convert the body of the entry from restructured 
+text to HTML, and return the resulting title, metadata, and HTML body.
+
+PyBlosxom 2.0 will have formatters which allow people to write formatting 
+plugins that aren't restricted to parsing files.  Formatters take the body of 
+an entry and convert it from some markup (reST, Markdown, some wiki markup, 
+...) into HTML.
+
+PyBlosxom 2.0 (which is still under development) is in SVN trunk in the
+PyBlosxom SVN repository.
+
+Entryparsers for PyBlosxom 1.4 are in SVN here:
+
+http://pyblosxom.svn.sourceforge.net/viewvc/pyblosxom/trunk/contrib/entryparsers/
+
+There are more details on the format callback in "Formatters and entry parsers 
+specification" in the wiki here:
+
+http://pyblosxom.sourceforge.net/wiki/index.php/Formatters_and_entry_parsers_specification
+
+The goal of this task is to write, document and test a new restructured text
+formatter plugin.
+
+Note: If you notice any problems with either the specification or the proposed
+architecture while you're writing the plugin, let me (will.guaraldi@gmail.com)
+know.
+
+
+Completion:
+
+Attach the new restructured text formatter plugin to this task.
+"""
