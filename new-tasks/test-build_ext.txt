@@ -1,0 +1,33 @@
+tags = "test,stdlib,coverage"
+
+summay = """
+Write unit test for Python's distutils build_ext and compilers
+"""
+
+description = """
+distutils is Python's infrastructure for distributing 3d party extensions. Parts
+of distutils aren't covered with tests yet. An important part of the distutils
+is the build_ext command and the compilers. They provide an unified interface
+to compile C and C++ extension on all supported platforms with a large list of
+compilers.
+
+Write a small unit test that compiles a small C extension with distutils in a
+temporary directory. Verify that the extension can be loaded and has all
+its attributes and functions. After the test unload the extension and remove
+the temporary data.
+
+The C extension for the test is already included in the Python source tree.
+Compile Modules/xxmodule.c as xx.
+
+Completion:
+- a svn diff against the trunk
+- a successful test run on at least one of the three major platforms Linux, Mac or Windows
+
+Relevant pages:
+- GettingAndCompilingPython
+- HowToTest
+
+Notes:
+Please contact the Mentor Christian Heimes for further help and
+assistance for Windows users.
+"""
