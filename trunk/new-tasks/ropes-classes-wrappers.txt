@@ -1,0 +1,22 @@
+tags = "hard,code"
+
+summary = """
+Write nice Python classes for PyPy Ropes algorithm
+"""
+
+description = """
+See
+
+  http://morepypy.blogspot.com/2007/11/ropes-branch-merged.html
+
+Write Python classes that expose the ropes algorithms in PyPy as two classes,
+one behaving as much as possible as the builtin str type, the other as the
+builtin unicode type. Write unittests for these classes to check them for
+correct behaviour.
+
+This doesn't involve any knowledge of PyPy, the classes written should be just
+completely normal Python code.
+
+"""
+
+owner = "cfbolz@gmail.com"
