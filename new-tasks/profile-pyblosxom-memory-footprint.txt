@@ -1,0 +1,39 @@
+tags = "performance,thirdparty"
+
+summary = """
+Install PyBlosxom, investigate its memory footprint in several typical
+usage scenarios and write a brief report.
+"""
+
+description = """
+Read:
+
+http://wingolog.org/archives/2007/11/27/reducing-the-footprint-of-python-applications
+
+Install PyBlosxom 1.4.2.  Create a blog with 250 entries in it spread 
+out across 10 categories.  The entries should be well-formed PyBlosxom 
+entries, but they can contain gibberish text (if you want, use the text 
+of this task wrapped in <p> ... </p>).  Using the default blog properties 
+is fine.  There's no need to install any plugins.
+
+Using techniques described in that article (particularly the mem_usage.py
+script), investigate PyBlosxom's memory footprint in the following scenarios:
+
+  - running as a CGI script
+  - running as a WSGI application with Paste
+  - running PyBlosxom as a static renderer
+
+Details for installing and using PyBlosxom in these three modes are in
+the PyBlosxom documentation.
+
+Write a report containing the setup used (version of Python, operating
+system, how you produced the entries, ...), the data produced by your 
+investigation as well as any additional observations, conclusions 
+and suggestions for making PyBlosxom run better.
+
+The report should be written using restructured text.
+
+Completion:
+
+Send the completed document to the ghop-python list.
+"""
