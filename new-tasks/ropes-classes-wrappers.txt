@@ -14,6 +14,10 @@ one behaving as much as possible as the builtin str type, the other as the
 builtin unicode type. Write unittests for these classes to check them for
 correct behaviour.
 
+The PyPy rope algorithms can be found here:
+
+https://codespeak.net/svn/pypy/dist/pypy/rlib/rope.py
+
 This doesn't involve any knowledge of PyPy, the classes written should be just
 completely normal Python code.
 
