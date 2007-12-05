@@ -1,0 +1,18 @@
+tags = "test,docs"
+
+summary = """
+Write an introduction to py.test following along the lines of this
+introduction to the nose testing framework:
+
+   http://ivory.idyll.org/articles/nose-intro.html
+
+At the very least include information up to "running doctests", but
+the more the better.  Be sure to include features unique to py.test.
+
+Completion:
+
+Attach the completed file, in reStructuredText, to the task and e-mail
+the ghop-python list.
+"""
+
+owner = "titus@idyll.org"

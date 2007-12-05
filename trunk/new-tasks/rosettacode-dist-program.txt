@@ -1,0 +1,46 @@
+tags = "docs,examples,rosettacode"
+
+summary = """
+Demonstrate several solutions to the rosettacode.org "distributed program" task.
+"""
+
+description = """
+
+RosettaCode.org is a wiki containing implementations of common
+algorithms in multiple languages.  Many of the pages include Python
+sample code, but some do not.  To complete this task, submit
+implementations for the algorithms listed below.
+
+http://rosettacode.org/rosettacode/w/index.php?title=Distributed_program
+
+There are many, many ways for Python programs to communicate across the
+network.  Pick five and write implementations demonstrating each.
+
+Some suggestions: PyLinda; Pyro; 2-way XML-RPC; Spread.
+
+Completion:
+
+Edit the RosettaCode.org wiki to add a Python example to each of the 
+pages listed above.  Once all of your examples are posted, add a
+comment here and send an email to the ghop-python mailing list.  All
+of the code samples will be tested before this task is marked as
+completed, so check your work!
+
+Other information:
+
+Please read the instructions for contributing content to
+RosettaCode.org
+(http://rosettacode.org/rosettacode/w/index.php?title=Help:Contribute_Content
+and
+http://rosettacode.org/rosettacode/w/index.php?title=Help:Adding_a_new_programming_example)
+before posting anything to the site.
+
+Feel free to ask for help via email on the ghop-python list or
+comments on this task.  The existing sample code for other languages
+may not be the best possible solution for Python, but should give you
+an idea of how to implement the algorithms.  All of the programming
+tasks listed above can be implemented using native language operations
+or standard library modules.
+"""
+
+owner = "doug.hellmann@gmail.com"

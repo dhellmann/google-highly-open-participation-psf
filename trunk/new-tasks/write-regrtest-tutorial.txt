@@ -1,4 +1,3 @@
-# @CTB wiki pages
 tags = "docs,core,testing"
 
 summary = """
@@ -6,12 +5,21 @@ Write a HOWTO on running existing Lib tests, and writing new unit/doctests.
 """
 
 description = """
-Write a HOWTO on running the existing tests, with and without code
-coverage; see RunningPythonTests and RecordingTestCoverage for
-inspiration, and regrtest.py's docstring for command line options.
-Also include a section demonstrating how to add both unittests and
-doctests for a fictitious new Library module, "foobar.py", to the
-CPython core source.
+
+Write a HOWTO on running the existing tests for Python, with and
+without code coverage; see RunningPythonTests and
+RecordingTestCoverage for inspiration, and regrtest.py's docstring for
+command line options.
+
+Also include a discussion of best practices for writing unit tests for
+CPython source (e.g., have a '__main__' section, have a test_main()
+method, group tests in a reasonable fashion, don't repeat tests in
+separate test files, etc).  Use the xxsubtype module as an example if
+needed.
+
+See the README kept with CPython's unit tests (Lib/test/README from
+svn) and most doctest/unittest-based tests from the CPython test suite
+for inspiration.
 
 While you're at it, fix 'Lib/test/regrest.py -h' so it actually outputs help.
 
@@ -22,4 +30,4 @@ Attach HOWTO (in reStructuredText format) to this task, along with an
 changes.
 """
 
-owner = "brett@python.org"
+owner = "bcannon@gmail.com"

@@ -1,0 +1,24 @@
+tags = "core,test,hard"
+
+summary = """
+Rewrite test_logging using doctest or unittest or both.
+"""
+
+description = """
+The tests in the file Lib/test/test_logging.py should be updated to use
+a testing framework.
+
+Completion:
+
+Attach the result of an 'svn diff' to this task and contact the
+ghop-python mailing list.
+
+Relevant Wiki pages:
+
+ - HowToTest
+ - RunningPythonTests
+ - GettingAndCompilingPython
+
+"""
+
+owner = "bcannon@gmail.com"
