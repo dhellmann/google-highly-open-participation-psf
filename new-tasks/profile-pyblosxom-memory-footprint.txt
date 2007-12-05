@@ -37,3 +37,5 @@ Completion:
 
 Send the completed document to the ghop-python list.
 """
+
+owner = "will.guaraldi@gmail.com"
