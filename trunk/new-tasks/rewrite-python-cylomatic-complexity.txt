@@ -1,0 +1,20 @@
+tags = "coding,hard"
+
+summary = """
+(Re-)write the cylomatic complexity analyzer for Python code.
+"""
+
+description = """
+See http://www.journyx.com/curt/complexity.html for a Perl implementation
+that implements Python complexity analysis.
+
+To erase this stain on Python's honor, write a cyclomatic complexity
+analyzer for Python *in* Python.
+
+Completion:
+
+Attach completed program, with associated unittests, to this task.
+Be sure to include some documentation and sample output.
+"""
+
+owner = "titus@idyll.org"

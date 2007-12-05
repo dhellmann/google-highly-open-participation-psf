@@ -1,0 +1,20 @@
+tags = "coding"
+
+summary = """
+Write code to read in, save, and search e-mail files.
+"""
+
+description = """
+Write code that reads in e-mail files, parses the headers into a sqlite
+database, and then uses the sqlite full-text search system to search
+for specific headers or text.  Implement a simple search language in
+cmd that lets you retrieve specific messages based on search parameters.
+
+For extra kudos, support flattening and searching of HTML e-mails.
+
+Completion:
+
+Attach the final code, with tests (doctests?) and/or examples.
+"""
+
+owner = "titus@idyll.org"

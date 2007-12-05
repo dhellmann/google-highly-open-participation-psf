@@ -1,0 +1,26 @@
+tags = "coding"
+
+summary = """
+(Re-)write a log parsing module from Perl into Python.
+"""
+
+description = """
+Provide a Python implementation of asql,
+
+   http://www.steve.org.uk/Software/asql/
+
+using sqlite and cmd.
+
+Bonus points for writing/including a generic Apache log file parser in
+pyparsing.
+
+Kudos for any disparaging remarks you make about Perl in the source code
+itself (but be polite and factual).
+
+Completion:
+
+Attach the source code itself, with documentation and examples, to this
+task.
+"""
+
+owner = "titus@idyll.org"
