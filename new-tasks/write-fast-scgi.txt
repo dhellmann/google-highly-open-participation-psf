@@ -1,0 +1,20 @@
+tags = "coding,C"
+
+summary = """
+Implement an auto-start SCGI ability.
+"""
+
+description = """
+Implement the idea described here,
+
+   http://blog.ianbicking.org/2007/08/03/fast-cgi-that-isnt-fastcgi/
+
+Feel free to implement it in either C or Python.
+
+Completion:
+
+Attach the source code itself, with documentation and examples, to this
+task.
+"""
+
+owner = "titus@idyll.org"

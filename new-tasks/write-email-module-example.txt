@@ -1,0 +1,23 @@
+tags = "coding,docs,examples,straightforward"
+
+summary = """
+Write an example for the email module documentation.
+"""
+
+description = """
+Write an example for the email module docs,
+
+   http://docs.python.org/lib/module-email.html
+
+of using the email module to write an HTML e-mail with a text alternative.
+
+For bonus points, demonstrate using the smtplib module to actually send
+the message.
+
+Completion:
+
+Attach an 'svn diff' against the Python trunk containing your changes
+and send an e-mail to the ghop-python mailing list.
+"""
+
+owner = "titus@idyll.org"
