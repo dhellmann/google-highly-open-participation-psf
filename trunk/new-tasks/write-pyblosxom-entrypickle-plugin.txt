@@ -32,4 +32,4 @@ Upload the file containing your entry cache pickle plugin as an
 attachment to this task.
 """
 
-owner = "titus@idyll.org"
+owner = "will.guaraldi@gmail.com"

@@ -42,3 +42,5 @@ Completion:
 
 Attach the new restructured text formatter plugin to this task.
 """
+
+owner = "will.guaraldi@gmail.com"
