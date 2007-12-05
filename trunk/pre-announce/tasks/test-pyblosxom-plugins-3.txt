@@ -1,4 +1,4 @@
-tags = "testing,thirdparty"
+tags = "test,thirdparty"
 
 summary = """
 Test several plugins from pyblosxom (pyblosxom #3).

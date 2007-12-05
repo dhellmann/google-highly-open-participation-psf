@@ -1,4 +1,4 @@
-tags = "tests,thirdparty"
+tags = "test,thirdparty"
 
 summary = """
 Write automated tests for pyfacebook.

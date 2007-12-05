@@ -1,4 +1,4 @@
-tags = "core,docs"
+tags = "core,docs,C"
 
 summary = """
 Document the PySys_* C API functions in the C API Reference.
