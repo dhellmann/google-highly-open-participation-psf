@@ -1,0 +1,20 @@
+tags = "coding,test"
+
+summary = """
+Write a nose plugin to support running the Python stdlib tests within nose.
+"""
+
+description = """
+Reimplement the regrest functionality in a nose plugin.
+
+This plugin should support loading the basic tests from the Lib/test/
+directory and executing and reporting on the results, all from within
+the nose framework.
+
+For extra kudos, translate the existing regrtest.py tags into nose tags,
+perhaps using pinocchio's decorator module.
+
+Completion:
+
+Attach the nose plugin and example output to this file.
+"""
