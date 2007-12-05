@@ -1,0 +1,25 @@
+tags = "screencast,thirdparty,shedskin"
+
+summary = """
+Record a Shed Skin ShowMeDo tutorial
+"""
+description = """
+Download and install Shed Skin, and read the included README for usage
+instructions:
+
+    http://shedskin.sourceforge.net
+
+Add a Shed Skin tutorial video at
+
+    http://showmedo.com
+
+It should demonstrate how to install Shed Skin, how to compile and use a
+non-trivial program (e.g. the mandelbrot test) as a stand-alone program
+and as an extension module. Preferrably it also shows how to use
+Parallel Python with Shed Skin.
+
+Completion:
+Attach the URL of the video to this task.
+"""
+
+owner = "van.lindberg@gmail.com"

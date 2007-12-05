@@ -1,0 +1,26 @@
+tags = "C,development,thirdparty,shedskin"
+
+summary = """
+Add support for the socket module in Shed Skin
+"""
+
+description = """
+Download and install Shed Skin, and read the included README for usage
+instructions:
+
+    http://shedskin.sourceforge.net
+
+Especially read the part about how to implement libraries. Have a look
+at the lib/ directory for examples of several standard library module
+implementations.
+
+Add support for the socket module. You'll need to have experience with C
+and C++ to pull this off!
+
+Completion:
+
+Submit a patch as an attachment to this ticket, and at the Shed Skin page on SourceForge (http://shedskin.sourceforge.net).  Include the URL to the patch reference in a comment here.
+
+"""
+
+owner = "van.lindberg@gmail.com"

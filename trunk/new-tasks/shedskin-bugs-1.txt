@@ -1,0 +1,34 @@
+tags = "testing,thirdparty,shedskin"
+
+summary = """
+Look for bugs in Shed Skin
+"""
+
+description = """
+Download and install Shed Skin, and read the included README for usage
+instructions:
+
+http://shedskin.sourceforge.net
+
+Download at the Python programs identified by URL below and 
+compile them with Shed Skin. Run both the CPython version and the Shed 
+Skin version using a variety of input data. Report on whether there are 
+any crashes or differences in output between the two versions.
+
+If the Shed Skin version doesn't behave correctly, isolate the crash or 
+difference to as small a test-case as possible and open a bug report on 
+the Shed Skin site. Include the URLs to those tickets in your report here.
+
+http://www.uselesspython.com/download.php?script_id=131
+http://www.uselesspython.com/download.php?script_id=270
+http://www.uselesspython.com/download.php?script_id=267
+http://www.uselesspython.com/download.php?script_id=269
+http://www.uselesspython.com/download.php?script_id=264
+
+Completion:
+
+Test the programs and write up a success report or bug report for each, and attach the report to this task.
+
+"""
+
+owner = "van.lindberg@gmail.com"
