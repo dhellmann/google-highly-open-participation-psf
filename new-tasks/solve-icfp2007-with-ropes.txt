@@ -27,4 +27,4 @@ Upload Python code and benchmark results, and write a short post (blog size)
 on the results.
 """
 
-owner = "titus@idyl.org"
+owner = "cfbolz@gmail.com,avassalotti@gmail.com"

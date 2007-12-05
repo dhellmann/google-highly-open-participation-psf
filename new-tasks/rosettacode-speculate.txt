@@ -1,0 +1,39 @@
+tags = "docs,examples,rosettacode"
+
+summary = """
+Discuss (and implement?) a solution to the "single instance" rosettacode task.
+"""
+
+description = """
+
+RosettaCode.org is a wiki containing implementations of common
+algorithms in multiple languages.  Many of the pages include Python
+sample code, but some do not.  To complete this task, submit a
+discussion of how this could be implemented for at least one platform
+(Windows, Linux, Mac OS X); for extra kudos, implement it.
+
+http://rosettacode.org/rosettacode/w/index.php?title=Determine_if_Only_One_Instance_is_Running
+
+Completion:
+
+Send your discussion to the ghop-python list and (assuming it's specific
+enough) post it to the rosettacode.org wiki.
+
+Other information:
+
+Please read the instructions for contributing content to
+RosettaCode.org
+(http://rosettacode.org/rosettacode/w/index.php?title=Help:Contribute_Content
+and
+http://rosettacode.org/rosettacode/w/index.php?title=Help:Adding_a_new_programming_example)
+before posting anything to the site.
+
+Feel free to ask for help via email on the ghop-python list or
+comments on this task.  The existing sample code for other languages
+may not be the best possible solution for Python, but should give you
+an idea of how to implement the algorithms.  All of the programming
+tasks listed above can be implemented using native language operations
+or standard library modules.
+"""
+
+owner = "doug.hellmann@gmail.com"

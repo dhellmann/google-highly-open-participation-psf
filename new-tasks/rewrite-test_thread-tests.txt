@@ -1,0 +1,24 @@
+tags = "core,test"
+
+summary = """
+Rewrite test_thread in unittest and/or doctest.
+"""
+
+description = """
+The tests in the file Lib/test/test_thread.py should be re-written
+as a doctest or unittest, whichever is most appropriate.
+
+Completion:
+
+Attach the result of an 'svn diff' to this task and contact the
+ghop-python mailing list.
+
+Relevant Wiki pages:
+
+ - HowToTest
+ - RunningPythonTests
+ - GettingAndCompilingPython
+
+"""
+
+owner = "bcannon@gmail.com"

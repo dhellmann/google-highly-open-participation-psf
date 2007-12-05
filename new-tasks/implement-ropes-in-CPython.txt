@@ -28,4 +28,4 @@ Attach a .tar.gz or zip file to this issue and send an e-mail to the
 mailing list.
 """
 
-owner = "titus@idyl.org"
+owner = "cfbolz@gmail.com,avassalotti@gmail.com"

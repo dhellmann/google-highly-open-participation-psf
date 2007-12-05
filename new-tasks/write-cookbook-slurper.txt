@@ -1,0 +1,24 @@
+tags = "docs,examples"
+
+summary = """
+Write a Python cookbook recipe reading script that lists the modules imported.
+"""
+
+description = """
+The Python Cookbook is a compilation of interesting and useful recipes in
+Python.  Write a script that takes the text version of a cookbook recipe,
+executes it, and lists the modules imported by that cookbook recipe.
+
+Note that it doesn't need to support 3rd party modules that may not
+be installed; it only needs to support standard Python modules.
+
+For extra kudos, make it minimally robust to importing modules that don't
+actually exist on the system you're running.  (See the __import__ hook
+stuff.)
+
+Completion:
+
+Test your script on 10 different Cookbook scripts that actually import
+modules.  Attach files containing some sample output and the script itself
+to this task.  E-mail the ghop-python list.
+"""

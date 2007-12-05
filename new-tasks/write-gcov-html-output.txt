@@ -1,0 +1,26 @@
+tags = "core,C,coverage"
+
+summary = """
+Write a gcov reader and a gcov-to-HTML converter.
+"""
+
+description = """
+'gcov' is a coverage analysis program for the GNU C compiler,
+
+   http://gcc.gnu.org/onlinedocs/gcc/Gcov.html
+
+Using a C program of your choice, get some gcov output, and write a parser
+to read the gcov output into a Python class structure.  (This can be a
+simple structure, but please avoid using just a list or a dictionary; make
+it easy to understand.)
+
+Then write a simple gcov-to-HTML converter.
+
+For extra kudos, support the '-b' (branch) output.
+
+Completion:
+
+Attach the source code and some sample output to this task.
+"""
+
+owner = "titus@idyll.org"

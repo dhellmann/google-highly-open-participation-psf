@@ -1,6 +1,7 @@
+# @CTB
 tags = "test,stdlib,coverage"
 
-summay = """
+summary = """
 Write unit test for Python's distutils build_ext and compilers
 """
 

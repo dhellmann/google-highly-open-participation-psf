@@ -1,0 +1,29 @@
+tags = "core,C,coverage,tricky"
+
+summary = """
+Do a gcov analysis of the CPython modules when running the tests.
+"""
+
+description = """
+'gcov' is a coverage analysis program for the GNU C compiler,
+
+   http://gcc.gnu.org/onlinedocs/gcc/Gcov.html
+
+Compile CPython with gcov enabled, run all of the tests with regrtest.py,
+and write a preliminary report analyzing the coverage of a few of the
+importable modules in Modules/.
+
+Note that this would ordinarily be straightforward, but gcov does not
+supported shared libraries.  So, you'll have to figure out how to compile
+all of the CPython Modules/ into the final python binary.
+
+(Do this on Linux.  Don't take this task unless you're familiar with
+Linux compilation nastiness, configure, and Makefiles!  Ask for help.)
+
+Completion:
+
+Write a HOWTO in reStructuredText format and attach it, together
+with a few gcov reports, to this task.
+"""
+
+owner = "titus@idyll.org"
