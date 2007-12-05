@@ -1,4 +1,4 @@
-tags = "testing,thirdparty"
+tags = "test,thirdparty"
 
 summary = """
 Write automated linking tests for MoinMoin.

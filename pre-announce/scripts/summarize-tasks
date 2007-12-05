@@ -26,6 +26,8 @@ if __name__ == '__main__':
     for task in tasks:
         tags.update(task.tags)
 
+    tags = list(tags)
+    tags.sort()
     print '%d tags:' % (len(tags),)
     for tag in tags:
         print "\t%s" % (tag,)

@@ -1,4 +1,4 @@
-tags = "demo,thirdparty,advocacy"
+tags = "docs,thirdparty,advocacy"
 
 summary = """
 Write an example use case of the DB API for a MySQL database

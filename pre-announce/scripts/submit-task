@@ -28,6 +28,8 @@ def submit_task(task):
 
     submit('submit')
 
+    show()
+
 if __name__ == '__main__':
     account = 'titus@idyll.org'
     passwd = getpass.getpass('password for %s: ' % (account,))
