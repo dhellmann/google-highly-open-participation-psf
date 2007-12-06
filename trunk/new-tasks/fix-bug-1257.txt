@@ -1,0 +1,28 @@
+tags = "C,coding,stdlib"
+
+summary = """
+Fix Python issue #1257: "atexit errors should result in nonzero exit code"
+"""
+
+description = """
+The task is to get this issue resolved:
+
+    http://bugs.python.org/issue1257
+
+What you have to do:
+
+Implement a fix for the problem in C. Store the number of failing
+atexit calls in an extern int Py_SomeName var. Exit Python with a non
+zero exit number when one or more calls are failing.
+
+The GettingAndCompilingPython wiki page will help you setting up your
+working directory with Python 2.6. WorkingOnDocumentation has details
+on writing documentation.
+
+Completion:
+
+Attach a diff file to this issue and send an e-mail to the
+mailing list.
+"""
+
+owner = "titus@idyll.org"

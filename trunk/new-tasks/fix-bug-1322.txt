@@ -1,0 +1,28 @@
+tags = "python,coding,stdlib"
+
+summary = """
+Fix Python issue #1322: "platform.dist() has unpredictable result under Linux"
+"""
+
+description = """
+The task is to get this issue resolved:
+
+    http://bugs.python.org/issue1322
+
+What you have to do:
+
+Enhance Python's platform module by porting Christian Heimes' outdated patch
+'platform_py25.patch' to Python 2.6 (trunk). Create tests for the new
+feature and update the documentation accordingly.
+
+The GettingAndCompilingPython wiki page will help you setting up your
+working directory with Python 2.6. WorkingOnDocumentation has details
+on writing documentation.
+
+Completion:
+
+Attach a diff file to this issue and send an e-mail to the
+mailing list.
+"""
+
+owner = "titus@idyll.org"
