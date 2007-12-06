@@ -1,0 +1,26 @@
+#####
+# Task: implement python-memcached for a database-backed Django app
+#####
+
+tags = "web, db, Django, memcached"
+
+summary = """
+Implement python-memcached for a database-backed Django app
+"""
+
+description = """
+1) Download Django
+2) Go through the tutorial and set up the poll application
+(<http://www.djangoproject.com/documentation/tutorial01/>). Use MySQL
+or PostgreSQL as the DB.
+3) Time some of the requests to the database using twill-fork.
+4) Implement python-memcached to cache requests to the database
+(<http://www.tummy.com/Community/software/python-memcached/>)  
+5) Time same requests, which should now go to memcached. Compare to
+results from step 3).
+"""
+
+Completion:"""
+Attach tar.gz of your code with documentation on how to use it. Time
+database requests with and without memcached. Explain results.
+"""

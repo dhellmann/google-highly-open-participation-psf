@@ -9,7 +9,23 @@ Implement the idea described here,
 
    http://blog.ianbicking.org/2007/08/03/fast-cgi-that-isnt-fastcgi/
 
-Feel free to implement it in either C or Python.
+Please implement it in C,
+
+Notes:
+
+There's also already a cgi2scgi script in the scgi sources,
+which does all the SCGI stuff and just needs process management added to
+it.  The script is short and doesn't have any dependencies other than
+the stdlib, so it's easy to work with.
+
+A cool way to lay it out would be with a #! like:
+
+  #!/path/to/cgi_starter
+  start_process = server_start_script
+  socket = scgi.sock
+
+etc., so the configuration would itself be the CGI script, with the
+actual gateway being the interpreter.
 
 Completion:
 
