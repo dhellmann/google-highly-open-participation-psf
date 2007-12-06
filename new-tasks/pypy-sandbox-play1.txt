@@ -1,0 +1,71 @@
+tags = "pypy, implementation, advocacy"
+
+summary = """
+Adopt PyPy demos at http://play1.codespeak.net to be able to run
+a python tutorial (selected one page, eventually more) with sandboxed pypy
+in order to prevent unauthorized access.
+"""
+
+description = """
+Few definitions:
+
+PyPy project - implementation of Python interpreter in Python itself,
+providing
+few distinct features.
+
+Sandboxing - Idea of controlling interpreter execution. PyPy has sandboxing
+python interpreter which can be controlled from the outside python
+process.
+
+Play1 - demo application written partly as python web server and partly
+in Restricted Python (the thing used to implement python interpreter in
+PyPy itself) and translated to javascript, available at
+http://play1.codespeak.net
+
+The idea is to use play1 and sandboxing to create nice and interactive
+python demo. This can be pypy specific (as there are some avaible on
+the web page), but can be completely pypy-independent (just for python).
+If good enough, I think this might appear on the main python web page as a
+nice
+demo. From student it requires using svn, translating pypy and
+sticking pieces together (I can help a lot as well as whole #pypy-dev on
+freenode).
+
+Completion would mean that one page from tutorial is available as
+interactive
+tutorial
+"""
+
+owner = "fijall@gmail.com"
+
+
+
+On Dec 6, 2007 10:09 AM, Titus Brown <titus@caltech.edu> wrote:
+
+>
+> -> > The purpose of the task is to
+> -> > dig into pypy rather than achieve something splendorous with it this
+> way.
+> -> >
+> ->
+> -> I'm fully in support of this being added to tasks for GHOP.
+>
+> +1
+>
+> Note that I've revised the new task guidelines to describe a simple
+> process for adding your task.  (Basically, at this point you just write
+> it up in the right format; see svn, new tasks.)
+>
+> cheers,
+> --t
+>
+> >
+>
+
+--~--~---------~--~----~------------~-------~--~----~
+You received this message because you are subscribed to the Google Groups "Python GHOP Mentors list" group.
+To post to this group, send email to ghop-python-mentors@googlegroups.com
+To unsubscribe from this group, send email to ghop-python-mentors-unsubscribe@googlegroups.com
+For more options, visit this group at http://groups.google.com/group/ghop-python-mentors?hl=en
+-~----------~----~----~----~------~----~------~--~---
+
