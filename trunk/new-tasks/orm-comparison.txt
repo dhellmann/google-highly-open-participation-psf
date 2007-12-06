@@ -1,0 +1,118 @@
+tags = "database,orm,thirdparty"
+
+summary = """
+Compare four Python ORMs
+"""
+
+description = """
+
+Taking a simple but complete schema, outlined below, and some sample
+data, also supplied, use each of four Python ORM toolkits to perform
+operations on the data. Some of the ORMS may not support certain kinds
+of relational data structure (or may not support it easily).  There
+may be an overhead in setting up some as opposed to others, and some
+may offer performance benefits.
+
+It is suggested, but not required, that sqlite be used as the database
+for the task: its driver is included with Python 2.5+ and all the ORMs
+support it out of the box.
+
+Schema:
+
+This suggested schema is the basis for a book review site. The focus
+of the site is the book, but within the book article you can link to
+other books by the same author, other books in the same series, or
+other books in the same genres. The schema is very slightly artificial
+as it tries to include 1:m, m:n, optional 1:1 and extended m:n
+relationships.
+
+The key entity is the BOOK. It has a title which is unique and is
+limited to 100 characters and review notes which may be as long as you
+like. It must be written by an author who may have written other
+books. It may occupy a specific place in a series.  It may belong to
+one or more genres, of which one is considered the principal
+genre. The book has a type -- Fiction or Nonfiction.  If the book is
+Nonfiction, it is linked to a set of nonfiction data.
+
+The AUTHOR has a unique name and, optionally, biographical notes.  The
+author must have written at least one book in the database and may
+have written more.
+
+The SERIES has a name and, optionally, overall review notes for the
+series. The series must contain at least one book in the database and
+may contain more.
+
+The GENRE has a name and a brief description. A genre may contain no
+books, one or some.
+
+The NONFICTION_DATA includes the publisher, publication date and
+number of pages of the book. Nonfiction data refers to only one book.
+
+ORMs:
+
+The four ORMs suggested for this task are:
+
+SQLObject - http://sqlobject.org/
+Storm - https://storm.canonical.com/
+Mother - http://www.dbmother.org/
+Elixir - http://elixir.ematia.de/trac/wiki
+(possibly the "raw" sqlalchemy ORM as well)
+
+Task steps and completion criteria:
+
+The first part of the task would be to use each ORM to create the
+schema according to its own techniques. Then the data should be loaded
+from the .csv files supplied. A separate database should be used for
+each ORM.
+
+The second part of the task would involve running a series of sample
+queries, exercising common data needs. A set of queries to use is
+listed below.  It is important that the same queries be attempted
+across all ORMs, to give an indication as to where one ORM facilitates
+a particular kind of selection.
+
+Completion criteria: upload the source code used for each ORM and the
+output from the query runs, again for each ORM.
+
+Queries:
+
+For each ORM, formulate and then print the output of these queries.
+
+* List all books (title only) by the author Anne Fine
+* List all books for which Adventure is a genre
+* List all authors with only one book in the database
+* List the author and title of all books which don't
+form part of a series
+* List the title, author, publisher and publication date
+for all books whose author's surname begins with 'B'.
+(For fiction books, the last two will be empty).
+* List the top 5 most prolific authors
+* List any genre which doesn't include any books
+* Create a new genre "Python" and apply it to all
+books with the word "dark" in their title.
+* Add a new non-fiction book "The Python Programming Language",
+published by "Python Press" in 2007.
+* Update the notes on the book "Starcross" to add the phrase:
+"I loved this book".
+
+Data:
+
+A data file will be made available in the ghop-python google group's
+files section.  Although the data set comes from a real-world book
+review site (goodtoread.org) it has been artificially adjusted to suit
+the task. In particular, two non-fiction books were added with their
+additional data to be able to have a 1:1 optional relationship. And to
+extend the m:n between books and genres, the first listed of the
+genres should be considered the principal genre for a book.
+
+Extra credit:
+
+1. Compare the same operations using SQL natively via Python's sqlite
+wrapper, to determine the overhead of an object-based approach.
+
+2. Use each ORM to access the databases created by the other ORMs to
+produce the list of the top 5 most prolific authors.
+
+"""
+
+owner = "tjgolden@gmail.com"
