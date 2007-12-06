@@ -22,7 +22,7 @@ We don't have much of a task process; here are some guidelines.
 
 First, send your idea(s) to the [http://groups.google.com/group/ghop-python ghop-python] list.  If you get critical responses, please try to answer them or revise your task appropriately!
 
-Second, write up your task(s) in the proper format.  There are examples in the subversion archive under new-tasks/.
+Second, write up your task(s) in the proper format.  There are examples in the subversion archive under [http://google-highly-open-participation-psf.googlecode.com/svn/trunk/ new-tasks/].
 
 Third, ask for subversion write privileges and check your tasks in, or send them to the mailing list with a note that you think they're ready!
 
