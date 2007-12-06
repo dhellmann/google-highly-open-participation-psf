@@ -97,9 +97,11 @@ published by "Python Press" in 2007.
 
 Data:
 
-A file with sample data is attached to this ticket.  Although the data
-set comes from a real-world book review site (goodtoread.org) it has
-been artificially adjusted to suit the task. In particular, two
+A data file has been made available in the ghop-python google group's
+files section at
+http://ghop-python.googlegroups.com/web/book-schema.zip.  Although the
+data set comes from a real-world book review site (goodtoread.org) it
+has been artificially adjusted to suit the task. In particular, two
 non-fiction books were added with their additional data to be able to
 have a 1:1 optional relationship. And to extend the m:n between books
 and genres, the first listed of the genres should be considered the
