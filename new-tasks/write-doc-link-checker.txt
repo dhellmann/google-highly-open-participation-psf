@@ -1,0 +1,36 @@
+tags = "coding,python,docs"
+
+summary = """
+Write a link checker for the Python documentation tools
+"""
+
+description = """
+The Python documentation contains many external links, which are
+always a maintenance burden since they may change or disappear.
+
+Extend the documentation tools (Sphinx) with a link checker that
+can be run over the docs and 
+
+The documentation toolset is available in Subversion at
+
+    http://svn.python.org/projects/doctools/trunk/sphinx
+
+It converts the reST sources of the documentation to HTML, LaTeX
+or similar output formats. To add the link checker, it will be
+easiest to add a new "builder" that doesn't write output files,
+but goes through the parsed input files for external links and
+outputs a summary of intact and broken links.
+
+There exist several link checkers for Python, so you can likely
+adapt most the code from one of them.
+
+You will likely have more questions about Sphinx while doing
+this task, so just ask Georg Brandl over IRC or email anytime.
+
+
+Completion:
+
+Attach the source code itself, as a patch file.
+"""
+
+owner = "titus@idyll.org"
