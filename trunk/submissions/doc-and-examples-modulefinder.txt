@@ -1,0 +1,35 @@
+# Submitted by daryl.spitzer@gmail.com via BayPiggies
+
+tags = "docs,examples,stdlib"
+
+summary = """
+Add examples to the 'modulefinder' module.
+"""
+
+description = """
+
+Add documentation and examples to the 'modulefinder' module in the Python
+2.6 standard library.
+
+See DocumentationAndExampleGuidelines for general information on
+getting the latest docs, editing them, and generating patches.
+
+Details for this specific module:
+
+- Add examples of use and document ModuleFinder.modules
+
+Add these examples in a separate 'examples' section.
+
+Completion:
+
+Attach the results of a 'svn diff' (context diff) against the Python
+source tree to this task in a comment, and send an e-mail briefly
+describing the changes you made to the ghop-python mailing list.
+
+Relevant wiki pages:
+
+ - DocumentationAndExampleGuidelines
+ - WorkingOnDocumentation
+"""
+
+owner = "georg.brandl"
