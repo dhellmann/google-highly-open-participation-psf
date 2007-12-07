@@ -19,8 +19,10 @@ experience with C and C++ to pull this off!
 
 Completion:
 
-  Submit a patch for each function as an attachment to this ticket, and at the Shed Skin page on SourceForge (http://shedskin.sourceforge.net).  Include the URL to each patch reference in a comment here.
-
+Submit a patch for each function as an attachment to this ticket, and
+at the Shed Skin page on SourceForge
+(http://shedskin.sourceforge.net).  Include the URL to each patch
+reference in a comment here.
 """
 
 owner = "van.lindberg@gmail.com"
