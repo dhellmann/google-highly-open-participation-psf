@@ -1,4 +1,4 @@
-tags = "testing,thirdparty,shedskin"
+tags = "test,thirdparty,shedskin"
 
 summary = """
 Look for bugs in Shed Skin

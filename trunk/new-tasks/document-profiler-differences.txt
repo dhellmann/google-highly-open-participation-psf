@@ -31,3 +31,4 @@ Relevant pages:
   - http://docs.python.org/dev/library/hotshot.html
 """
 
+owner = "titus@idyll.org"

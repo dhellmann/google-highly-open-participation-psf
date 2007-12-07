@@ -1,4 +1,4 @@
-tags = "hard,code"
+tags = "hard,coding"
 
 summary = """
 Write nice Python classes for PyPy Ropes algorithm

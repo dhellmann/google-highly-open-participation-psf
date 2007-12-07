@@ -1,5 +1,4 @@
-# @CTB
-tags = "hard,C"
+tags = "hard,C,pypy"
 
 summary = """
 Implement a 'ropes' datatype for CPython in C.

@@ -1,4 +1,4 @@
-tags = "C,development,thirdparty,shedskin"
+tags = "C,coding,thirdparty,shedskin"
 
 summary = """
 Add support for the socket module in Shed Skin

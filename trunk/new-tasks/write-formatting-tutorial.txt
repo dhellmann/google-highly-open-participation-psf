@@ -27,3 +27,4 @@ Relevant pages:
   - http://docs.python.org/dev/3.0/library/string.html#format-string-syntax
 """
 
+owner = "georg.brandl"

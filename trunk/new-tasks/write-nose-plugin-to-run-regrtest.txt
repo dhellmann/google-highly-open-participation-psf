@@ -1,4 +1,4 @@
-tags = "coding,test"
+tags = "coding,test,tricky"
 
 summary = """
 Write a nose plugin to support running the Python stdlib tests within nose.
@@ -18,3 +18,5 @@ Completion:
 
 Attach the nose plugin and example output to this file.
 """
+
+owner = "titus@idyll.org"

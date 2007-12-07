@@ -1,5 +1,4 @@
-# @CTB change time estimate
-tags = "hard"
+tags = "hard,pypy"
 
 summary = """
 Solve the first section (through section 3) of the ICFP '07 contest.

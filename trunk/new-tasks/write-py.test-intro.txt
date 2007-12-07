@@ -1,6 +1,10 @@
 tags = "test,docs"
 
 summary = """
+Write an introduction to py.test.
+"""
+
+description = """
 Write an introduction to py.test following along the lines of this
 introduction to the nose testing framework:
 

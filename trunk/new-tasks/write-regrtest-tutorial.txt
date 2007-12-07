@@ -1,4 +1,4 @@
-tags = "docs,core,testing"
+tags = "docs,core,test"
 
 summary = """
 Write a HOWTO on running existing Lib tests, and writing new unit/doctests.
