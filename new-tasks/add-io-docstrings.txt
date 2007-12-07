@@ -1,0 +1,27 @@
+tags = "docs,examples,stdlib,py3k"
+
+summary = """
+Add the missing docstrings of the new 'io' module.
+"""
+
+description = """
+Python 3000 provides a new I/O library module, called 'io', conforming
+to PEP 3116. Document with docstrings the undocumented interfaces of
+this module.
+
+Completion:
+
+Attach the results of a 'svn diff' (context diff) against the Python
+3.0 source tree to this task in a comment, and send an e-mail briefly
+describing the changes you made to the ghop-python mailing list.
+
+Relevant pages:
+
+ - PEP 3116 "New I/O", http://www.python.org/dev/peps/pep-3116/
+ - http://svn.python.org/projects/python/branches/py3k/Lib/io.py
+ - GettingAndCompilingPython
+ - DocumentationAndExampleGuidelines
+ - WorkingOnDocumentation
+"""
+
+owner = "avassalotti@gmail.com"
