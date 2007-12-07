@@ -1,0 +1,37 @@
+tags = "thirdparty,newtask"
+
+summary = """
+Write 5 or more new tasks around social networking site functionality.
+"""
+
+description = """
+
+Write at least 5 detailed task suggestions around combining existing
+social networking sites with Python.  This can involve
+
+ - creating new applications (in Python) to be hosted through the
+   social networking site (e.g. Facebook applications),
+
+ - writing meta-applications (in Python) to manipulate and extract
+   information from the sites using existing Python libraries,
+
+ - adding specific (and somewhat ambitious) functionality to existing
+   Python libraries,
+
+ - creating new Python libraries.
+
+We strongly suggest discussing your ideas on the ghop-python list before
+committing to writing them up in detail; it's your responsibility to make
+sure that the tasks are reasonable!
+
+Also note that you will be ineligible to work on the tasks that you write,
+for legal reasons.
+
+Completion:
+
+Send your final task suggestions to the ghop-python mailing list and
+allow discussion for 24 hrs.  Revise according to suggestions and
+attach to this task, along with a pointer to the ghop-python thread.
+"""
+
+owner = "titus@idyll.org"
