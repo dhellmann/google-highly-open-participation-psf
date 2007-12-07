@@ -1,0 +1,45 @@
+tags = "docs,py3k"
+
+summary = """
+Update the Python 3.0 "What's new" document.
+"""
+
+description = """
+Each new version of Python has a "What's new" document in its documentation.
+The one for the upcoming Python 3.0 has not been kept up to date.
+
+Your task is to record as many non-trivial changes as possible in that
+document, as far as they aren't already there, at least in the form of a
+brief sentence. The important thing here is that the changes don't get
+lost; no elaborate examples are needed for now -- the paragraphs can
+be expanded later.
+
+Many important changes are listed in PEP 3100 and the other 3xxx PEPs
+marked as accepted or final; many more have been noted in the Misc/NEWS
+file for the 3.0 branch. However, it would also be a good thing to go
+through the commit messages for the branch to spot any notable changes
+not mentioned in one of these sources.
+
+Make sure the entries are properly split up in groups so that one can
+easily find changes to a particular part of Python.
+
+See the DocumentationAndExampleGuidelines and WorkingOnDocumentation wiki
+pages for helpful information, under
+
+   http://code.google.com/p/google-highly-open-participation-psf/w/list
+
+The PEPs can be found at http://www.python.org/dev/peps
+
+Completion:
+
+Attach the results of an 'svn diff' (context diff) against the Python
+source tree to this task, and send a brief description of your changes
+to the ghop-python mailing list.
+
+Relevant wiki pages:
+
+ - DocumentationAndExampleGuidelines
+ - WorkingOnDocumentation
+"""
+
+owner = "georg.brandl"
