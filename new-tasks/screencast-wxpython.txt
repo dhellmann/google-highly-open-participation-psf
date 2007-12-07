@@ -1,0 +1,29 @@
+tags = "screencast,thirdparty"
+
+summary = """
+Record a screencast on wxPython.
+"""
+
+description = """
+Install wxPython,
+
+    http://www.wxpython.org/
+
+and record a screencast of the demo app.  Be sure to go through at
+least 10 different demo screens, taking them three or four separate
+categories (e.g. Common Dialogs, Window Layout, Clipboard..)
+
+Completion:
+
+Attach either a file containing the screencast, or the URL of the
+screencast, to this task.  The screencast must be in an acceptable
+format and should be under 100 mb in size; see HowToMakeScreencasts.
+Be sure to post it with an acceptable license; see StudentPage for
+more information.
+
+Relevant wiki pages:
+
+  - HowToMakeScreencasts.
+"""
+
+owner = "titus@idyll.org"
