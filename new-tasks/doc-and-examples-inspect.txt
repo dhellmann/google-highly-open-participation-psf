@@ -1,0 +1,35 @@
+tags = "docs,examples,stdlib"
+
+summary = """
+Add examples to the 'inspect' module.
+"""
+
+description = """
+
+Add documentation and examples to the 'inspect' module in the Python
+2.6 standard library.
+
+See DocumentationAndExampleGuidelines for general information on
+getting the latest docs, editing them, and generating patches.
+
+Details for this specific module:
+
+ - Integrate as much as is practical of Doug Hellmann's PyMOTW
+   post on inspect into the official docs, focusing on specific
+   examples.
+
+Add these examples in a separate 'examples' section.
+
+Completion:
+
+Attach the results of a 'svn diff' (context diff) against the Python
+source tree to this task in a comment, and send an e-mail briefly
+describing the changes you made to the ghop-python mailing list.
+
+Relevant wiki pages:
+
+ - DocumentationAndExampleGuidelines
+ - WorkingOnDocumentation
+"""
+
+owner = "georg.brandl"

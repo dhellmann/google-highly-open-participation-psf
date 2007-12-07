@@ -1,0 +1,38 @@
+tags = "docs,examples,stdlib"
+
+summary = """
+Add examples to the 'SocketServer' module.
+"""
+
+description = """
+
+Add documentation and examples to the 'SocketServer' module in the Python
+2.6 standard library.
+
+See DocumentationAndExampleGuidelines for general information on
+getting the latest docs, editing them, and generating patches.
+
+Details for this specific module:
+
+ - write simple examples for SocketServer.TCPServer and UDPServer, showing
+   both the client and server sides, and sending at least two messages
+   back and forth.  (Make sure your code works ;)
+
+ - show how to use ForkingMixIn and ThreadingMixIn to build asynchronous
+   handlers.
+
+Add these examples in a separate 'examples' section.
+
+Completion:
+
+Attach the results of a 'svn diff' (context diff) against the Python
+source tree to this task in a comment, and send an e-mail briefly
+describing the changes you made to the ghop-python mailing list.
+
+Relevant wiki pages:
+
+ - DocumentationAndExampleGuidelines
+ - WorkingOnDocumentation
+"""
+
+owner = "georg.brandl"
