@@ -1,0 +1,33 @@
+tags = "panda3d,thirdparty,hard"
+
+summary = """
+Create a visible coordinate system for Panda3D.
+"""
+
+description = """
+Panda3D is a 3D engine: a library of subroutines for 3D rendering and
+game development. The library is C++ with a set of Python
+bindings. Game development with Panda3D usually consists of writing a
+Python program that controls the Panda3D library.
+
+See http://code.google.com/p/python-panda3d-examples/.
+
+Initially one of the most confusing aspects of 3D programming consist
+of not being able to tell the orientation and location of objects in
+the 3D space. Create a visible coordinate system that shows all three
+axes and displays labels on them.
+
+Recommendations: you may need to create a simple 3D model (a cylinder)
+that will be used (scaled and rotated) as an axis. You may use
+MilkShape to easily create such a model. Use text nodes to display the
+labels. Tip: the coordinate system in Panda3D is a right handed z-up
+coordinate system -> X is to the right, Y is into the screen, and Z is
+up.
+
+Completion:
+
+Attach your source code with all necessary supporting files to this task.
+Add a wiki page to the python-panda3d-examples wiki explaining your program.
+"""
+
+owner = "istvan.albert@gmail.com"

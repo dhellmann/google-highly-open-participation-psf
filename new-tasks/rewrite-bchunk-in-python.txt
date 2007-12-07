@@ -1,0 +1,20 @@
+tags = "thirdparty,multimedia"
+
+summary = """
+Rewrite bchunk in Python.
+"""
+
+description = """
+Rewrite bchunk,
+
+  http://he.fi/bchunk/
+
+in Python, so that it has a nice scripting interface and is platform
+independent.
+
+Completion:
+
+Attach code, with documentation and tests, to this task.
+"""
+
+owner = "titus@idyll.org"

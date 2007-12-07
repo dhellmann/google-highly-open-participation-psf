@@ -1,0 +1,32 @@
+tags = "panda3d,thirdparty,hard"
+
+summary = """
+Implement floating messages for Panda3D.
+"""
+
+description = """
+Panda3D is a 3D engine: a library of subroutines for 3D rendering and
+game development. The library is C++ with a set of Python
+bindings. Game development with Panda3D usually consists of writing a
+Python program that controls the Panda3D library.
+
+See http://code.google.com/p/python-panda3d-examples/.
+
+For this task you will need to implement a common display mechanism,
+one that temporarily displays a slowly floating message. Most often
+the messages float upwards, change color as they move and/or fade out.
+
+Create a program that loads up a model, then upon a keypress creates a
+message and floats it upwards combining multiple effects (color,
+transparency etc).
+
+Recommendations: Use a text node and animate it via Intervals. Combine
+multiple effects with Parallels or Sequences.
+
+Completion:
+
+Attach your source code with all necessary supporting files to this task.
+Add a wiki page to the python-panda3d-examples wiki explaining your program.
+"""
+
+owner = "istvan.albert@gmail.com"
