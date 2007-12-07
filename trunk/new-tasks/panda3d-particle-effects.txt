@@ -13,7 +13,7 @@ Python program that controls the Panda3D library.
 See http://code.google.com/p/python-panda3d-examples/.
 
 Panda3D comes with highly customizable particle effects but there is
-little to no information on these effects look like or what parameters
+little to no information on what these effects look like or what parameters
 one might choose to simulate various desired outcomes: explosion,
 fire, splash, smoke, wapor, "cool magic effect" etc.
 

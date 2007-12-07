@@ -1,0 +1,31 @@
+tags = "statlib,thirdparty"
+
+summary = """
+Combine multiple statistics modules into a single package.
+"""
+
+description = """
+The goal of the project is to combine several python statistics modules 
+into a single package.
+
+See http://python-statlib.googlecode.com
+
+Combine the statistical modules stats.py, pstat.py (testing files statstests.zip) and matfunc.py into a 
+single package called statlib. Write a distutil based setup script (setup.py) that 
+can be used to install the package in the standard way (python setup.py install). 
+Make your setup script able to publish this package via the Python Package Index.
+Write a wiki page on this site that lists the functions available in stats.py and matfunc.py. 
+
+Recommendations: Target modules stats.py, pstat.py, statstest.zip can be 
+found at http://www.nmr.mgh.harvard.edu/Neural_Systems_Group/gary/python.html. The 
+matfunc module can be found at http://users.rcn.com/python/download/python.htm
+
+For details on distributing python modules see: http://docs.python.org/dist/dist.html
+
+Attach your source code with all necessary supporting files to this task.
+(You may also submit these files into the python-statlib subversion repository)
+Add the wiki page listing the statistical functions implemented in the modules 
+to the python-statlib wiki
+"""
+
+owner = "istvan.albert@gmail.com"
