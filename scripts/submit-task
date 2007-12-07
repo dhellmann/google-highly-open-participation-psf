@@ -1,0 +1,51 @@
+#! /usr/bin/env python
+import sys
+import tasklib
+from twill.commands import *
+import getpass
+
+def login(account, password):
+    go('https://www.google.com/accounts/ManageAccount')
+    fv('1', 'Email', account)
+    fv('1', 'Passwd', password)
+    submit()
+
+def submit_task(task):
+    go('http://code.google.com/p/google-highly-open-participation-psf/issues/list')
+
+    descr = task.descr
+    descr += "\n\nTask duration: please complete this task within 5 days (120 hours) of claiming it."
+
+    follow('New Issue')
+    fv('3', 'summary', task.summary)
+    fv('3', 'comment', descr)
+    fv('3', 'status', 'Open')
+    fv('3', 'cc', task.owner)
+
+    for i, tag in enumerate(task.tags):
+        n = '%d' % (i + 10,)
+        fv('3', n, tag)
+
+    submit('submit')
+
+    show()
+
+if __name__ == '__main__':
+    account = 'titus@idyll.org'
+    passwd = getpass.getpass('password for %s: ' % (account,))
+
+    tasks = []
+    for filename in sys.argv[1:]:
+        task = tasklib.load_task_from_file(filename)
+        if task:
+            tasks.append(task)
+
+    def mycmp(a, b):
+        return cmp(a.summary, b.summary)
+    tasks.sort(mycmp)
+
+    login(account, passwd)
+    
+    for task in tasks:
+        print task
+        submit_task(task)

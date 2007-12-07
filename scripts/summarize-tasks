@@ -1,0 +1,33 @@
+#! /usr/bin/env python
+import sys
+import tasklib
+
+if __name__ == '__main__':
+    tasks = set()
+    
+    startdir = '.'
+    if len(sys.argv) == 2:
+        startdir = sys.argv[1]
+
+    print 'Looking for tasks (*.txt) under %s' % (startdir,)
+
+    tasks = tasklib.gather_tasks(startdir)
+    tasks = list(tasks)
+
+    def mycmp(a, b):
+        return cmp(a.summary, b.summary)
+    tasks.sort(mycmp)
+
+    print '%d tasks:' % (len(tasks),)
+    for task in tasks:
+        print '\t', task
+
+    tags = set()
+    for task in tasks:
+        tags.update(task.tags)
+
+    tags = list(tags)
+    tags.sort()
+    print '%d tags:' % (len(tags),)
+    for tag in tags:
+        print "\t%s" % (tag,)
