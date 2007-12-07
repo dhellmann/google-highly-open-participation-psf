@@ -22,3 +22,5 @@ Test your script on 10 different Cookbook scripts that actually import
 modules.  Attach files containing some sample output and the script itself
 to this task.  E-mail the ghop-python list.
 """
+
+owner = "titus@idyll.org"

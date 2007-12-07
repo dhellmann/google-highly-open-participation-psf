@@ -1,4 +1,4 @@
-tags = "python,coding,stdlib"
+tags = "core,coding,stdlib"
 
 summary = """
 Fix Python issue #1322: "platform.dist() has unpredictable result under Linux"

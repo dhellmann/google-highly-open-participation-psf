@@ -1,4 +1,4 @@
-tags = "C,development,thirdparty,shedskin"
+tags = "C,coding,thirdparty,shedskin"
 
 summary = """
 Add support for several os module functions in Shed Skin

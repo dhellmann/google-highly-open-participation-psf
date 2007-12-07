@@ -1,4 +1,4 @@
-tags = "python,coding,stdlib"
+tags = "core,coding,stdlib"
 
 summary = """
 Fix Python issue #1299: "distutils.sysconfig is not cross-platform compatible"

@@ -1,4 +1,4 @@
-tags = "coding,python,docs"
+tags = "coding,core,docs"
 
 summary = """
 Write a link checker for the Python documentation tools
