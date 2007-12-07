@@ -1,0 +1,24 @@
+tags = "core,docs,hard"
+
+summary = """\
+Provide examples and discussion to round out "Unifying types and classes"
+"""
+
+description = """
+See
+
+   http://www.python.org/download/releases/2.2.3/descrintro/
+
+section "Additional Topics."  Fill in appropriately.
+
+Note that some of this is moderately-to-mindbendingly difficult.
+Be sure to ask for help if you are confused.  Working examples are
+the way to go; if you want to start a new document with doctests
+in it, that would be ideal.
+
+Completion:
+
+Attach updates, in reStructuredText format.
+"""
+
+owner = "titus@idyll.org"

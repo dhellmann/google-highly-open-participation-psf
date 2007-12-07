@@ -1,0 +1,37 @@
+tags = "thirdparty,pygame,newtask"
+
+summary = """
+Write 5 or more task suggestions for pygame/pgu/pug.
+"""
+
+description = """
+
+Write at least 5 detailed task suggestions around pygame/pgu/pug.
+
+These can include
+
+ - adding needed documentation to these packages,
+
+ - new game ideas,
+
+ - game rewrite ideas,
+
+ - ideas for new functionality.
+
+We strongly suggest discussing your ideas on the ghop-python list
+before committing to writing them up in detail; it's your
+responsibility to make sure that the tasks are reasonable!  (Warning:
+we know some pygame programmers, and we are not afraid to consult with
+them.)
+
+Also note that you will be ineligible to work on the tasks that you write,
+for legal reasons.
+
+Completion:
+
+Send your final task suggestions to the ghop-python mailing list and
+allow discussion for 24 hrs.  Revise according to suggestions and
+attach to this task, along with a pointer to the ghop-python thread.
+"""
+
+owner = "titus@idyll.org"
