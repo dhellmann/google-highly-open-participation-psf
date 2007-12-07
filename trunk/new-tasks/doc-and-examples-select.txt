@@ -1,0 +1,32 @@
+tags = "docs,examples,stdlib"
+
+summary = """
+Add examples to the 'select' module.
+"""
+
+description = """
+
+Add examples to the 'select' module in the Python
+2.6 standard library.
+
+See DocumentationAndExampleGuidelines for general information on
+getting the latest docs, editing them, and generating patches.
+
+Details for this specific module:
+
+ - add an example for each function call in this module (there are only
+   5 or so ;)
+
+Completion:
+
+Attach the results of a 'svn diff' (context diff) against the Python
+source tree to this task in a comment, and send an e-mail briefly
+describing the changes you made to the ghop-python mailing list.
+
+Relevant wiki pages:
+
+ - DocumentationAndExampleGuidelines
+ - WorkingOnDocumentation
+"""
+
+owner = "georg.brandl"
