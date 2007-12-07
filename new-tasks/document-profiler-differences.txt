@@ -6,12 +6,12 @@ standard library.
 """
 
 description = """
-Python's standard library currently provide three similar profilers --
-i.e., cProfile, profile and hotshot. While each profiler has its own
-strengths (and weaknesses), keeping them all increases the
-maintenance burden of Python core developers. Therefore, the future
-version of Python, Python 3000, will provide a single and universal
-profiler to its users.
+Python's standard library currently provides three similar profilers:
+cProfile, profile and hotshot. While each profiler has its own
+strengths (and weaknesses), keeping them all increases the maintenance
+burden of Python core developers. Therefore, the future version of
+Python, Python 3000, will provide a single and universal profiler to
+its users.
 
 Write a document that describes as many as possible differences that
 exists between the three profilers. Types of difference includes (but
@@ -23,7 +23,7 @@ Bonus marks if you comes up with specific examples of the differences.
 
 Completion:
 
-Send the completed document to the ghop-python list.
+Attach the completed report document to this ticket.
 
 Relevant pages:
 

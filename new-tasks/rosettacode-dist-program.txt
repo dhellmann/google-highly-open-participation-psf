@@ -16,7 +16,7 @@ http://rosettacode.org/rosettacode/w/index.php?title=Distributed_program
 There are many, many ways for Python programs to communicate across the
 network.  Pick five and write implementations demonstrating each.
 
-Some suggestions: PyLinda; Pyro; 2-way XML-RPC; Spread.
+Some suggestions: PyLinda; Pyro; 2-way XML-RPC; Spread; HTTP; the processing module
 
 Completion:
 
@@ -38,9 +38,7 @@ before posting anything to the site.
 Feel free to ask for help via email on the ghop-python list or
 comments on this task.  The existing sample code for other languages
 may not be the best possible solution for Python, but should give you
-an idea of how to implement the algorithms.  All of the programming
-tasks listed above can be implemented using native language operations
-or standard library modules.
+an idea of how to implement the algorithms.
 """
 
 owner = "doug.hellmann@gmail.com"

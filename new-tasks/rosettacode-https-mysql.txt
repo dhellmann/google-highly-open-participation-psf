@@ -35,9 +35,7 @@ before posting anything to the site.
 Feel free to ask for help via email on the ghop-python list or
 comments on this task.  The existing sample code for other languages
 may not be the best possible solution for Python, but should give you
-an idea of how to implement the algorithms.  All of the programming
-tasks listed above can be implemented using native language operations
-or standard library modules.
+an idea of how to implement the algorithms.
 """
 
 owner = "titus@idyll.org"
