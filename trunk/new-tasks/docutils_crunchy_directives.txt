@@ -1,0 +1,44 @@
+tags = "coding,thirdparty"
+
+summary = """
+Create new rst directives for Crunchy.
+"""
+
+description = """
+Crunchy takes an html Python tutorial and transforms it into an interactive
+session within a browser.  While Crunchy can work with regular html documents,
+it produces better results when VLAM (Very Little Additional Markup) is used
+as special attributes to the html tags.  You can read about VLAM in the
+Crunchy tutorial.
+
+However, whereas html documents are very common,
+their syntax tend to be a little bit tedious to write without making mistakes
+using simple text editors.  Many Python programmers prefer to write documents
+using reStructuredText (rst) and use docutils to transform rst document into
+html ones.
+
+docutils can make use of 'directives' to add special markup to files.
+Create new 'directives' so that rst documents can incorporate the equivalent
+of VLAM, i.e. docutils could make use of these new directives to transform
+the rst document into an html one with the appropriate VLAM attributes.
+
+You can download Crunchy from
+
+http://code.google.com/p/crunchy
+
+and docutils from
+
+http://docutils.sourceforge.net/
+
+You can read about creating new rst directives here:
+
+http://docutils.sourceforge.net/docs/howto/rst-directives.html
+
+Completion:
+
+Attach your directives file, as well as a sample
+rst file that you use for test.  You have 5 days after you claim this task to complete it.
+
+"""
+
+owner = "georg.brandl@gmail.com"

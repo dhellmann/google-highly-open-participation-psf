@@ -1,0 +1,40 @@
+tags = "coding,thirdparty"
+
+summary = """
+Write an reStructuredText plugin for Crunchy.
+"""
+
+description = """
+Crunchy takes an html Python tutorial and transforms it into an interactive
+session within a browser.  However, whereas html documents are very common,
+their syntax tend to be a little bit tedious to write without making mistakes
+using simple text editors.  Many Python programmers prefer to write documents
+using reStructuredText (rst) and use docutils to transform rst document into
+html ones.
+
+Write a plugin for Crunchy that uses docutils to read in an rst document,
+transforms it into an html one (preferably in-memory, i.e. without actually
+creating a separate file) without any special markup,
+and passes it back to Crunchy (vlam.py) for further processes as usual.  
+You will also need to make minor changes to vlam.py to make this work.
+
+You can download Crunchy from
+
+http://code.google.com/p/crunchy
+
+and docutils from
+
+http://docutils.sourceforge.net/
+
+Completion:
+
+Attach your plugin (rst.py) and the modified vlam.py, as well as a sample
+rst file that you use for test.  You have 5 days after you claim this task to complete it.
+
+Bonus points: include a doctest-based test file (test_rst.txt) that (unit) tests
+all the functions you have included in your plugin.  Look at the tests directory
+of the Crunchy distribution for examples.
+
+"""
+
+owner = "andre.roberge@gmail.com"
