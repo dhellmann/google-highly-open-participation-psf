@@ -1,0 +1,41 @@
+tags = "coding,core,docs"
+
+summary = """
+Write a coverage checker for the Python documentation tools
+"""
+
+description = """
+The Python documentation is quite complete, but there are things
+missing.
+
+Write a tool that does a minimal check of the completeness of
+Python's documentation, with regard to standard module contents
+and C API functions/macros.
+
+The documentation toolset is available in Subversion at
+
+    http://svn.python.org/projects/doctools/trunk/sphinx
+
+It converts the reST sources of the documentation to HTML, LaTeX
+or similar output formats. To add the coverage checker, it will be
+easiest to add a new "builder" that doesn't write output files,
+but goes through the parsed input as well as the Python library,
+and outputs a summary of classes, functions, methods and C functions
+that are not documented.
+
+Tools such as this already existed for the old LaTeX-based
+documentation tools, and are archived at
+
+    http://svn.python.org/projects/python/tags/py26-before-rstdocs/Doc/tools/findsyms
+    http://svn.python.org/projects/python/tags/py26-before-rstdocs/Doc/tools/findcsyms
+    http://svn.python.org/projects/python/tags/py26-before-rstdocs/Doc/tools/undoc_symbols.py
+
+You will likely have more questions about Sphinx while doing
+this task, so just ask Georg Brandl over IRC or email anytime.
+
+Completion:
+
+Attach the source code itself, as a patch file.
+"""
+
+owner = "georg.brandl"

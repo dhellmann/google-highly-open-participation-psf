@@ -32,4 +32,4 @@ Completion:
 Attach the source code itself, as a patch file.
 """
 
-owner = "titus@idyll.org"
+owner = "georg.brandl"
