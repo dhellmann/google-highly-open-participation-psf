@@ -1,0 +1,28 @@
+tags = "screencast,thirdparty"
+
+summary = """
+Record a screencast on matplotlib.
+"""
+
+description = """
+Install matplotlib,
+
+    http://matplotlib.sourceforge.net/
+
+and record a screencast demonstrating 3-5 of the more complicated example
+screenshots and the features available for interacting with them.
+
+Completion:
+
+Attach either a file containing the screencast, or the URL of the
+screencast, to this task.  The screencast must be in an acceptable
+format and should be under 100 mb in size; see HowToMakeScreencasts.
+Be sure to post it with an acceptable license; see StudentPage for
+more information.
+
+Relevant wiki pages:
+
+  - HowToMakeScreencasts.
+"""
+
+owner = "titus@idyll.org"
