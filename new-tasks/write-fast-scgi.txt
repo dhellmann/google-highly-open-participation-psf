@@ -9,7 +9,7 @@ Implement the idea described here,
 
    http://blog.ianbicking.org/2007/08/03/fast-cgi-that-isnt-fastcgi/
 
-Please implement it in C,
+Please implement it in C, and test it aganst one of the Python SCGI servers.
 
 Notes:
 

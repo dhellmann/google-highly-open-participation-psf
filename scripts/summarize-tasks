@@ -22,12 +22,23 @@ if __name__ == '__main__':
     for task in tasks:
         print '\t', task
 
-    tags = set()
+    owners = set()
     for task in tasks:
-        tags.update(task.tags)
+        owners.add(task.owner)
 
-    tags = list(tags)
-    tags.sort()
-    print '%d tags:' % (len(tags),)
-    for tag in tags:
-        print "\t%s" % (tag,)
+    tags = {}
+    for task in tasks:
+        for tag in task.tags:
+            n = tags.get(tag, 0)
+            n += 1
+            tags[tag] = n
+
+    tags_by_name = list(tags.keys())
+    tags_by_name.sort()
+    print '%d tags:' % (len(tags_by_name),)
+    for tag in tags_by_name:
+        print "\t%s - %d" % (tag, tags[tag])
+
+    owners = list(owners)
+    owners.sort()
+    print ",".join(owners)
