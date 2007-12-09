@@ -1,0 +1,43 @@
+tags = "C,docs,example,mac"
+
+summary = """
+Write documentation how to create universal binaries on Mac
+"""
+description = """
+
+Add documentation and examples how to create universal binaries on Mac
+including how to write cross platform C code.
+
+See http://permalink.gmane.org/gmane.comp.python.general/550246
+
+See DocumentationAndExampleGuidelines for general information on
+getting the latest docs, editing them, and generating patches.
+
+Details for this specific module:
+
+- Update the documentations to explain how universal binaries are
+created
+
+- Explain the difference between the PPC and Intel architecture in a
+few sentennces
+  with an emphasis on the endianness.
+
+- Add a short C code example that shows how to detect Mac and and the
+endianness
+  during compile time with #ifdef preprocessor macros and how to write
+platform and
+  endian specific code with preprocessor macros.
+
+Completion:
+
+Attach the results of a 'svn diff' (context diff) against the Python
+source tree to this task in a comment, and send an e-mail briefly
+describing the changes you made to the ghop-python mailing list.
+
+Relevant wiki pages:
+
+ - DocumentationAndExampleGuidelines
+ - WorkingOnDocumentation
+"""
+
+owner = "tiran79"
