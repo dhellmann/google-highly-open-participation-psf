@@ -1,0 +1,113 @@
+# Submitted by Paul McGuire ptmcg@austin.rr.com
+
+tags = "pyparsing,tests"
+
+summary = """
+Write unit tests for the pyparsing withAttribute feature.
+"""
+
+description = """
+
+pyparsing 1.4.8 introduced the withAttribute parse action factory
+method, to create parse actions that qualify HTML tags by specifying a
+required attribute.  Here is the documentation of withAttribute:
+
+'''Helper to create a validating parse action to be used with start tags
+created with makeXMLTags or makeHTMLTags. Use withAttribute to qualify
+a starting tag with a required attribute value, to avoid false matches
+on common tags such as <TD> or <DIV>.
+
+    Call withAttribute with a series of attribute names and values.
+    Specify the list of filter attributes names and values as:
+
+    - keyword arguments, as in (class="Customer",align="right"), or
+    - a list of name-value tuples, as in ( ("ns1:class", "Customer"),
+      ("ns2:align","right") )
+
+    For attribute names with a namespace prefix, you must use the
+    second form.  Attribute names are matched insensitive to
+    upper/lower case.
+'''
+
+Here is an example script using withAttribute:
+http://pyparsing.wikispaces.com/space/showimage/withAttribute.py
+
+Write a set of unit tests using the template below that will
+demonstrate successful implementation of withAttribute.  Tests should
+include:
+
+- two different forms of calling withAttribute (using named
+  arguments, and using a list of name-value tuples)
+- selecting only matching tags from among several tags of the same
+  name, and rejecting those not having the specified attributes
+- test case-insensitive attribute name match
+- any other tests of parsing behavior you feel are interesting (do NOT
+  bother with tests of invalid arguments)
+
+Optional: 
+
+If you want to write up a test plan first, you may submit this for
+review before writing the test script, if you want feedback or
+suggestions.
+
+Completion:
+
+Attach your unit test script and any descriptive text to this task.
+
+Test template:
+
+    from pyparsing import <pyparsing names used by the test>
+
+    # define test input string or strings
+    <test-input-string> = "blah blah"
+
+    # define grammar to test pyparsing feature
+    expr = <pyparsing expression construction goes here>
+
+    # define expected result
+    expected = <list of expected tokens or token groups>
+
+    # run test
+    result = expr.parseString(<test-input-string>)
+
+    # print out diagnostic values
+    print result.dump()
+
+    # assert successful results
+    assert <successful-test-condition>, <test-failure-message>
+    assert not <negative-test-condition>, <negative-test-passed-but-shouldnt-have-message>
+
+Here is an example of a unit test that partially exercises the
+pyparsing Word class:
+
+    from pyparsing import Word, alphas, alphanums
+
+    # define test input string or strings
+    testInputString = "Area51 T2 Alien3"
+
+    # define grammar to test pyparsing feature
+    expr  = Word(alphas)
+
+    # define expected result
+    expected = [['Area'], ['T'], ['Alien']]
+
+    # run test
+    result = expr.searchString(testInputString)
+
+    # print out diagnostic values
+    print result.dump()
+
+    # assert successful results
+    assert result.asList() == expected, "Failed test, expected %s, got %s" % (expected, result.asList())
+
+
+You can view existing unit tests at:
+http://pyparsing.svn.sourceforge.net/viewvc/pyparsing/src/unitTests.py?revision=121&view=markup
+
+It is not necessary to update this file with the new test.  Just write
+the code which I will then integrate back into the test suite as the
+body of a runTest method of a new test class.
+
+"""
+
+owner = "ptmcg@austin.rr.com"
