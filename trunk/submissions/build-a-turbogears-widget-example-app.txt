@@ -1,0 +1,51 @@
+tags = "web,examples,thirdparty,advocacy"
+
+summary = """
+Create a demo application with TurboGears and a CogBin widget
+"""
+
+description = """
+
+Go to the TurboGears cogbin
+
+    http://turbogears.org/cogbin/
+
+and pick one or several of the projects listed under "Widgets", for example
+(but not excluding other listed projects):
+
+* FileFields
+* dynwidgets
+* InPlace
+* Lightbox
+* MochiInterpreter
+* TGCaptcha
+* TGFusionCharts
+* TGLightWindow
+* TurboFeeds
+* TurboTinyMCE
+* submodal
+
+Build a small demo application with TuboGears that demonstrates how to use 
+the widget(s) and show-cases their features. Write a one-page quickstart guide
+on how to install and run the demo application (ReStructuredText format).
+
+Relevant TurboGears Documentation links:
+
+* http://docs.turbogears.org/1.0/QuickStart
+* http://docs.turbogears.org/1.0/Widgets
+* http://docs.turbogears.org/1.0/Widgets
+* http://docs.turbogears.org/1.0/WidgetBrowser
+
+
+Completion:
+
+Attach an archive (Zip or tarball) with your project directory or build
+a Python egg and attach this together with a configuration file. Also 
+attach the quickstart guide in ReST format. Extra points for screenshots of 
+the running app or a little screencast showing it in action.
+
+Task duration: please complete this task within 5 days (120 hours) of
+claiming it.
+"""
+
+owner = "Christopher Arndt <ghop@turbogears.org>"

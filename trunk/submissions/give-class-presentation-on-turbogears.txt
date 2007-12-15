@@ -1,0 +1,29 @@
+tags = "web,demo,thirdparty,advocacy"
+
+summary = """
+Give a class or interest-group presentation on TurboGears
+"""
+
+description = """
+
+Work through the TurboGears 20-minutes-wiki tutorial at
+
+   http://docs.turbogears.org/1.0/Wiki20
+
+and give a class or interest-group demonstration of the tutorial.
+Document your presentation by taking a photo at the end of the
+presentation and uploading your slides in PDF format.
+
+Completion:
+
+Attach files containing the slides and give us information on when/where
+you will be presenting, you don't need to actually hold this presentation 
+before this task is considered completed, but we expect that you do it 
+eventually (we'd also love to see a photo and hear about your
+experience; consider that part of the bonus points.)
+
+Task duration: please complete this task within 5 days (120 hours) of
+claiming it.
+"""
+
+owner = "Christopher Arndt <ghop@turbogears.org>"
