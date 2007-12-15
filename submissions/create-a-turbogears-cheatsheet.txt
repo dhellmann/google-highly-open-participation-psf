@@ -1,0 +1,49 @@
+tags = "web,docs,thirdparty"
+
+summary = """
+Create a 1-2 page cheat sheet for TurboGears developers
+"""
+
+description = """
+
+Collect information on basic usage for the following parts of TurboGears:
+
+    * TurboGears controllers
+    * TurboGears validators / FormEncode
+    * SQLObject (or alternatively SQLAlchemy)
+    * Kid (or alternatively Genshi)
+
+and build a 1-2 page cheat sheet with the most important reference
+information a TurboGears developer would need for creating a basic web
+application. Keep the information concise and and concentrate on the
+most frequently needed features of each project.
+
+Relevant TurboGears Documentation links:
+
+Remark: This list is just a selection of documents that contain relevant 
+information for this task. It is not an exhaustive list, you are expected
+to examine other resources, especially the reference documentation of
+third-party projects!
+
+* http://docs.turbogears.org/1.0/QuickStart
+* http://docs.turbogears.org/1.0/GettingStarted/CherryPy
+* http://docs.turbogears.org/1.0/ExposeDecorator
+* http://docs.turbogears.org/1.0/ValidateDecorator
+* http://docs.turbogears.org/1.0/GettingStarted/UseDatabase
+* http://docs.turbogears.org/1.0/GettingStarted/DefineDatabase
+* http://docs.turbogears.org/1.0/SQLAlchemy
+* http://docs.turbogears.org/1.0/GettingStarted/Kid
+* http://docs.turbogears.org/1.0/GenshiTemplating
+
+
+Completion:
+
+Attach the completed cheat sheet as a PDF file or a suitable open,
+editable format like ODF, ReST or LaTeX. Extra points for a nice
+fold-able layout (e.g. three column layout).
+
+Task duration: please complete this task within 5 days (120 hours) of
+claiming it.
+"""
+
+owner = "Christopher Arndt <ghop@turbogears.org>"
