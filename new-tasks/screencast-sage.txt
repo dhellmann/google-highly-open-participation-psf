@@ -1,0 +1,35 @@
+tags = "thirdparty,screencast"
+
+summary = """
+Record a screencast on the Sage Notebook
+"""
+
+description = """
+Access a Sage Notebook and record a 10-20 minute screencast demonstrating input evaluation, docstring and source lookup, tab-completion, LaTeX and HTML output, and 2D & 3D plotting.
+
+There are three public Sage Notebooks at http://sagemath.com, http://sagemath.org, and https://sage.math.washington.edu:8102. You can also run notebooks yourself with Sage (http://sagemath.org/).
+
+Start your screencast by entering some interesting code and evaluating it by hitting SHIFT-ENTER then writing some more code and evaluating that and continuing for several cells. Next, create a new worksheet and write interesting code in a bunch of cells then evaluate the whole worksheet by selecting "Evaluate All" under "Action" at the top of the page.
+
+Third, show the docstrings of several modules, functions, classes, and methods by typing "?" after the‏ir indientifiers and hiting TAB. Then, show their source code by typing "??" after their identifiers and hitting TAB. Next give examples tab-completion by hitting TAB after a few partial identifiers and selecting identifiers using arrow and ENTER keys.
+
+Six, give good examples of 2D plotting for algebra/geometry and art. Also, give examples of 3D plotting with the Sage interface to Tachoyn, see http://sagemath.org/doc/html/ref/module-sage.plot.tachyon.html. Plus, give a walk through of 3D plotting with Sage's Java3D (still under inital development), see docstrings at http://www.sagemath.org/hg/sage-main/file/7110a20969c8/sage/plot/plot3d/plot3d.py.
+
+Finally, show off two and three dimensional plotting related to the Rubiks Cube, see http://sagemath.org/doc/html/ref/module-sage.matrix.dense-matrix-pyx.html.
+
+Completion:
+
+Attach either a file containing the screencast, or the URL of the
+screencast, to this task. The screencast must be in an acceptable
+format, see HowToMakeScreencasts.
+Be sure to post it with an acceptable license; see StudentPage for
+more information.
+
+Relevant wiki pages:
+
+  - HowToMakeScreencasts.
+
+Task duration: please complete this task within 5 days (120 hours) of claiming it.
+"""
+
+owner = "timothy.clemans@gmail.com"
