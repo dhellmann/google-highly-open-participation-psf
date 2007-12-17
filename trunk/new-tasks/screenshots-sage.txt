@@ -7,7 +7,7 @@ Make 40 screenshots of the Sage Notebook and write titles and captions for them
 description = """
 Access a Sage Notebook and take at leat 40 screenshots of the Sage Notebook and write good titles and captions for them. Have an emphasis on visualization in your collection.
 
-There are three public Sage Notebooks at http://sagemath.com, http://sagemath.org, and https://sage.math.washington.edu:8102. You can also run notebooks yourself with Sage (http://sagemath.org/).
+There are three public Sage Notebooks at http://sagenb.com, http://sagenb.org, and https://sage.math.washington.edu:8102. You can also run notebooks yourself with Sage (http://sagemath.org/).
 
 Completion:
 
