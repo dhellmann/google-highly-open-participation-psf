@@ -7,7 +7,7 @@ Record a screencast on the Sage Notebook
 description = """
 Access a Sage Notebook and record a 10-20 minute screencast demonstrating input evaluation, docstring and source lookup, tab-completion, LaTeX and HTML output, and 2D & 3D plotting.
 
-There are three public Sage Notebooks at http://sagemath.com, http://sagemath.org, and https://sage.math.washington.edu:8102. You can also run notebooks yourself with Sage (http://sagemath.org/).
+There are three public Sage Notebooks at http://sagenb.com, http://sagenb.org, and https://sage.math.washington.edu:8102. You can also run notebooks yourself with Sage (http://sagemath.org/).
 
 Start your screencast by entering some interesting code and evaluating it by hitting SHIFT-ENTER then writing some more code and evaluating that and continuing for several cells. Next, create a new worksheet and write interesting code in a bunch of cells then evaluate the whole worksheet by selecting "Evaluate All" under "Action" at the top of the page.
 
