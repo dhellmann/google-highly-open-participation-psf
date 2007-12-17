@@ -1,0 +1,34 @@
+tags = "statlib,testing,thirdparty"
+
+summary = """
+Converting statlib tests to docstrings
+"""
+
+description = """
+The goal of the statlib project is to combine several python statistics modules 
+into a single package.
+
+See http://python-statlib.googlecode.com
+
+A previous GHOP task has combined a number of statistics libraries into 
+this package. This task now builds upon that result and aims to improve 
+the package in several ways. The following sub-tasks need to be completed:
+
+1. Modify the Dispatch class in the stats.py module to operate on NumPy instances. 
+The current behavior expects Numeric arrays but the Numeric library has been super seeded 
+by NumPy (you will need to install NumPy on your computer, see http://numpy.scipy.org/ )
+
+2. Rewrite the test/test_allstats.py script to use doctests (see the HowToTest page on 
+the Python GHOP wiki) and create a single text file that contains only docstrings. Modify 
+the test data to use regular python lists rather than numerical arrays so that the 
+tests can be run on systems without numerical libraries installed.
+
+Suggestion: step 2 can be done by hand one test at a time, but you could write 
+a script to generate the docstrings by combining the existing program and its output
+
+Use the most current source code archive for your work. To complete the task create 
+a new archive (with python setup.py sdist ) that contains your modifications and attach 
+it to this issue.
+"""
+
+owner = "istvan.albert@gmail.com"
