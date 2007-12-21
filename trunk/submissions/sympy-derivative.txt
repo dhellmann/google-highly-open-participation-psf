@@ -1,0 +1,25 @@
+tags = "sympy,thirdparty,coding"
+
+summary = """
+SymPy - make Derivative not to be evaluated
+"""
+
+description = """
+
+SymPy is a Python library for symbolic mathematics:
+
+http://code.google.com/p/sympy/
+
+download it, play with it.
+
+Derivative should not be evaluated
+ http://code.google.com/p/sympy/issues/detail?id=476
+
+ Send a patch, that fixes the behaviour as reported in the issue above.
+
+ Please join the SymPy mailinglist (see the webpage) and ask any
+ questions you might have about SymPy in there.
+
+"""
+
+owner = "Ondrej Certik <ondrej.certik@gmail.com>"

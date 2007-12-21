@@ -1,0 +1,25 @@
+tags = "sympy,thirdparty,coding"
+
+summary = """
+SymPy - fix prettyprinting in ipython
+"""
+
+description = """
+
+SymPy is a Python library for symbolic mathematics:
+
+http://code.google.com/p/sympy/
+
+download it, play with it.
+
+Fix: pretty-printing messes up ipython
+ http://code.google.com/p/sympy/issues/detail?id=484
+
+ Send a patch, that fixes the behaviour as reported in the issue above.
+
+ Please join the SymPy mailinglist (see the webpage) and ask any
+ questions you might have about SymPy in there.
+
+"""
+
+owner = "Ondrej Certik <ondrej.certik@gmail.com>"
