@@ -1,0 +1,31 @@
+tags = "C,coding,thirdparty,shedskin"
+
+summary = """
+Add support for several string module functions in Shed Skin
+"""
+
+description = """
+Download and install Shed Skin, and read the included README for usage
+instructions:
+
+    http://shedskin.sourceforge.net
+
+Especially read the part about how to implement libraries. Have a look
+at the lib/ directory for examples of several standard library module
+implementations.
+
+Add support to lib/builtin.?pp for the following string methods:
+
+partition, rpartition, splitlines, rsplit and istitle
+
+You'll need to have experience with C and C++ to pull this off!
+
+Completion:
+
+Submit a patch as an attachment to this ticket.
+
+Task duration: please complete this task within 5 days (120 hours) of
+claiming it.
+"""
+
+owner = "van.lindberg,mark.dufour"
