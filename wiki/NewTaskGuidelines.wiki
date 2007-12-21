@@ -1,4 +1,4 @@
-#summary Guidelines for coming up with new tasks.
+#summary Guidelines for submitting new tasks.
 #labels mentors,Featured
 
 = Task outline =
@@ -18,14 +18,16 @@ If you don't already have a project in mind but want to contribute by writing up
 
 = Submitting a task =
 
-We don't have much of a task process; here are some guidelines.
+*Please don't enter tasks directly into the tracker*.  We are batching new task creations for admin and review purposes, and we can't edit a task once it's been submitted; if there are errors in the task, we have to either delete/withdraw it (which is bad) or amend it with comments (which is confusing).
 
-First, send your idea(s) to the [http://groups.google.com/group/ghop-python ghop-python] list.  If you get critical responses, please try to answer them or revise your task appropriately!
+Here's our process for submitting new tasks:
 
+First, send your idea(s) to the [http://groups.google.com/group/ghop-python ghop-python] list.  If you get critical responses, please try to answer them or revise your task appropriately!  No comments means that no one has anything negative to say ;)
+ 
 Second, write up your task(s) in the proper format.  There are examples in the subversion archive under [http://google-highly-open-participation-psf.googlecode.com/svn/trunk/ new-tasks/].
 
-Third, ask for subversion write privileges and check your tasks in, or send them to the mailing list with a note that you think they're ready!
+Third, ask for subversion write privileges and check your tasks into the trunk/submissions/ directory, or send them to the mailing list with a note that you think they're ready!
 
 Note that if you are just submitting a task but won't be able to mentor or judge it, you should write your task so that someone relatively unfamiliar with the project can judge it.
 
-Note that Wiki markup (and live links) don't show up in task descriptions.  (This is a known "feature".)
+Oh, and Wiki markup (and live links) don't show up in task descriptions.  (This is a known "feature".)
