@@ -1,0 +1,42 @@
+tags = "sympy,thirdparty,coding"
+
+summary = """
+SymPy - implement piecewise functions support
+"""
+
+description = """
+
+SymPy is a Python library for symbolic mathematics:
+
+http://code.google.com/p/sympy/
+
+download it, play with it.
+
+Create support for piecewise functions in SymPy:
+
+http://code.google.com/p/sympy/issues/detail?id=353
+
+do it by creating a new SymPy function Piecewise, that will be called
+like this:
+
+p = Piecewise(x, [[(-oo,0), 0], [(0,1), x], [(1,oo), 1]])
+
+and it will hold all the information and behave like a normal
+function, thus
+
+p.diff(x)
+
+will produce another (correct) Piecewise function.
+
+Read:
+
+http://code.google.com/p/sympy/wiki/SymPySvn
+
+how to create your own functions.
+
+Please join the SymPy mailinglist (see the webpage) and ask any
+questions you might have about SymPy in there.
+
+"""
+
+owner = "Ondrej Certik <ondrej.certik@gmail.com>"

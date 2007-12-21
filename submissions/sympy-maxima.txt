@@ -1,0 +1,34 @@
+tags = "sympy,thirdparty,coding"
+
+summary = """
+SymPy - implement Maxima parser
+"""
+
+description = """
+
+SymPy is a Python library for symbolic mathematics:
+
+http://code.google.com/p/sympy/
+
+download it, play with it.
+
+Implement Maxima  parser
+
+http://code.google.com/p/sympy/issues/detail?id=161
+
+So that it is easier to try SymPy for those CAS users.
+
+Implement just basic arithmetics and functions parsing, like
+
+x+y+sin(x)**y etc.
+
+(This is enough to fix this issue. If you are interested in writing full
+parser,
+let's dicuss it on SymPy mailinglist and create a new issue for that.)
+
+Please join the SymPy mailinglist (see the webpage) and ask any
+questions you might have about SymPy in there.
+
+"""
+
+owner = "Ondrej Certik <ondrej.certik@gmail.com>"

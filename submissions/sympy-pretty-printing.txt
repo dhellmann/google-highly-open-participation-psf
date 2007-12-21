@@ -1,0 +1,39 @@
+tags = "sympy,thirdparty,coding"
+
+summary = """
+SymPy - fix fonts, so that pretty printing works nice everywhere
+"""
+
+description = """
+
+SymPy is a Python library for symbolic mathematics:
+
+http://code.google.com/p/sympy/
+
+download it, play with it.
+
+Unicode pretty-printing: font issues
+
+http://code.google.com/p/sympy/issues/detail?id=447
+
+We've implemented ascii-art 2D pretty-printing of formulas, and it works
+reliable in unicode capable terminal such as UXTerm:
+
+http://sympy.googlecode.com/svn/materials/web/screenshots/uterm-isympy-unicode.png
+
+But in other terminals, and firefox browser the rendering is not so
+nice - lines that have to be countinuous, are not.
+
+http://code.google.com/p/sympy/wiki/PrettyPrinting
+
+We've tracked down that this issue is related to fonts, and we'd like a
+student to find a way to properly tune common applications
+(gnome-terminal, firefox) to display the drawing nicely.
+
+
+Please join the SymPy mailinglist (see the webpage) and ask any
+questions you might have about SymPy in there.
+
+"""
+
+owner = "Ondrej Certik <ondrej.certik@gmail.com>"
