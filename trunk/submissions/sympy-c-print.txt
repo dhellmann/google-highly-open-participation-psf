@@ -1,7 +1,7 @@
 tags = "sympy,thirdparty,coding"
 
 summary = """
-SymPy - implement python printing
+SymPy - implement c code printing
 """
 
 description = """
@@ -14,20 +14,23 @@ download it, play with it.
 
 Write a function, that will accept a SymPy expression and it will
 return a string, that can be
-evaluated in Python using the eval() function that will produce the
-original expression. Example:
+compiled using a C compiler (no references to Python from C).
+Example:
 
-print_python(x**2+y)
+print_c(sin(x)**4 * y**2)
 
 would print
 
-x = Symbol("x")
-y = Symbol("y")
-e = x**2+y
+float x;
+float y;
+e = pow(sin(x), 4)*pow(y,2);
+
+Of course, only a subset of SymPy's expressions (only those that have
+a corresponding C/math function) could be converted this way.
 
 More information here:
 
-http://code.google.com/p/sympy/issues/detail?id=81
+http://code.google.com/p/sympy/issues/detail?id=475
 
 Please join the SymPy mailinglist (see the webpage) and ask any
 questions you might have about SymPy in there.
