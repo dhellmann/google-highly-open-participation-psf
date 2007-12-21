@@ -28,6 +28,7 @@ Second, write up your task(s) in the proper format.  There are examples in the s
 
 Third, ask for subversion write privileges and check your tasks into the trunk/submissions/ directory, or send them to the mailing list with a note that you think they're ready!
 
+Please give us your gmail/code.google.com account name so that we can add you as a project member & put you on the automatic CC list for the task.
 Note that if you are just submitting a task but won't be able to mentor or judge it, you should write your task so that someone relatively unfamiliar with the project can judge it.
 
 Oh, and Wiki markup (and live links) don't show up in task descriptions.  (This is a known "feature".)
