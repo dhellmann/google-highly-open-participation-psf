@@ -37,4 +37,4 @@ Please join the SymPy mailinglist (see the webpage) and ask any questions you
 might have about SymPy in there.
 """
 
-owner = ondrej.certik"
+owner = "ondrej.certik"

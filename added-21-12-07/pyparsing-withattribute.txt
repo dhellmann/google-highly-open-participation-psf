@@ -1,6 +1,6 @@
 # Submitted by Paul McGuire ptmcg@austin.rr.com
 
-tags = "pyparsing,tests"
+tags = "pyparsing,test"
 
 summary = """
 Write unit tests for the pyparsing withAttribute feature.

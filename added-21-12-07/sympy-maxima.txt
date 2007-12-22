@@ -4,7 +4,7 @@ summary = """
 SymPy - implement Maxima parser
 """
 
-
+description = """
 SymPy is a Python library for symbolic mathematics:
 
 http://code.google.com/p/sympy/
