@@ -1,0 +1,37 @@
+tags = "pygame,thirdparty,coding,hard"
+
+summary = """
+Write a sokoban game in pygame.
+"""
+
+description = """
+
+Making new graphics, or stealing existing ones from e.g. KSokoban,
+
+    http://docs.kde.org/stable/en/kdegames/ksokoban/index.htm
+
+write a Sokoban game in pygame.  See http://en.wikipedia.org/wiki/Sokoban
+for more information on Sokoban.
+
+The game must have at least these features:
+
+ - Play like sokoban
+ - Keep track of what level one is on
+ - Allow a player to progress to the next level
+ - Have at least two levels that are specified using configuration files
+   outside the source code
+
+Extra Credit:
+ - Keep Track of score
+ - Keep Track of time
+ - Allow users to save after they have passed each level
+
+Completion:
+
+Attach the game code to this task, or send us the URL of a publicly
+available svn archive.
+
+(This task written by BenSwa)
+"""
+
+owner = ""
