@@ -1,4 +1,4 @@
-tags = "C,docs,example,mac"
+tags = "C,docs,examples,mac"
 
 summary = """
 Write documentation how to create universal binaries on Mac

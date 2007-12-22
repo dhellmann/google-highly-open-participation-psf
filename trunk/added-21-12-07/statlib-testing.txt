@@ -1,4 +1,4 @@
-tags = "statlib,testing,thirdparty"
+tags = "statlib,test,thirdparty"
 
 summary = """
 Increase the unit test coverage of the statlib package
