@@ -33,4 +33,4 @@ Notes: Please contact Christian Heimes for further help and assistance
 for Windows users.
 """
 
-owner = "tiran79@googlemail.com"
+owner = "titus@idyll.org"

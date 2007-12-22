@@ -27,8 +27,7 @@ def submit_task(task):
         fv('3', n, tag)
 
     submit('submit')
-
-    show()
+    ##show()
 
 if __name__ == '__main__':
     account = 'titus@idyll.org'
