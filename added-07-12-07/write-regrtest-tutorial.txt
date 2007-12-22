@@ -30,4 +30,4 @@ Attach HOWTO (in reStructuredText format) to this task, along with an
 changes.
 """
 
-owner = "bcannon@gmail.com"
+owner = "titus@idyll.org"

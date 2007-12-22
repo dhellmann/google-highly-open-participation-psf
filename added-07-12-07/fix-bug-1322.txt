@@ -25,4 +25,4 @@ Attach a diff file to this issue and send an e-mail to the
 mailing list.
 """
 
-owner = "tiran79@googlemail.com"
+owner = "titus@idyll.org"
