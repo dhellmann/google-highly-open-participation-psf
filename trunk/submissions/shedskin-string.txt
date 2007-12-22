@@ -10,9 +10,8 @@ instructions:
 
     http://shedskin.sourceforge.net
 
-Especially read the part about how to implement libraries. Have a look
-at the lib/ directory for examples of several standard library module
-implementations.
+Especially read the part about how to implement libraries. Have a look at the
+lib/ directory for examples of several standard library module implementations.
 
 Add support to lib/builtin.?pp for the following string methods:
 
@@ -23,9 +22,6 @@ You'll need to have experience with C and C++ to pull this off!
 Completion:
 
 Submit a patch as an attachment to this ticket.
-
-Task duration: please complete this task within 5 days (120 hours) of
-claiming it.
 """
 
 owner = "van.lindberg,mark.dufour"

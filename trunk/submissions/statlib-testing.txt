@@ -5,27 +5,32 @@ Increase the unit test coverage of the statlib package
 """
 
 description = """
-The goal of the statlib project is to combine several python statistics modules 
+The goal of the statlib project is to combine several python statistics modules
 into a single package.
 
 See http://python-statlib.googlecode.com
 
-A previous GHOP task has combined a number of statistics modules into 
-this package. This task now builds upon that result and aims to improve 
-the test coverage of this package 
+A previous GHOP task has combined a number of statistics modules into this
+package. This task now builds upon that result and aims to improve the test
+coverage of this package 
 
-Raise the coverage of the test/test_all.py script to over 70% from the current 20%.
-Use the test/cover.py script to measure your coverage. See the test/data/test_allstats.py 
-script for test cases (the first few tests have been transferred already) and rewrite them 
-in a manner that follows the conventions of the test_all.py script.
+Raise the coverage of the test/test_all.py script to over 70% from the current
+20%.  Use the test/cover.py script to measure your coverage. See the
+test/data/test_allstats.py script for test cases (the first few tests have been
+transferred already) and rewrite them in a manner that follows the conventions
+of the test_all.py script.
 
 Relevant wiki pages:
 
  - HowToTest
  - RecordingTestCoverage
 
-Download the most current statlib source code distribution. To complete the task attach 
-the new version of the test_all.py script to this issue.
+Download the most current statlib source code distribution.
+
+Task completion:
+
+To complete the task attach the new version of the test_all.py script to this
+issue.
 """
 
-owner = "istvan.albert@gmail.com"
+owner = "istvan.albert"

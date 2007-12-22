@@ -5,13 +5,21 @@ Create a conversion tool that converts python docstrings to google wiki markup.
 """
 
 description = """
-This task is inspired by an unexpected solution to a previous GHOP task. When asked to generate a wiki documentation page for a module the student wrote a simple script that extracted the docstrings and automatically generated a simple wiki markup:
+This task is inspired by an unexpected solution to a previous GHOP task. When
+asked to generate a wiki documentation page for a module the student wrote a
+simple script that extracted the docstrings and automatically generated a
+simple wiki markup:
 
 see http://python-statlib.googlecode.com/svn/trunk/misc/
 
-For this task you will need to create a more robust script that takes as  input a python module, (or package directory) and generates a wiki page (with Goole wiki markup) for the module (or each module in the package). 
+For this task you will need to create a more robust script that takes as  input
+a python module, (or package directory) and generates a wiki page (with Google
+wiki markup) for the module (or each module in the package). 
 
-Use the Epytext markup language for the syntax that your script should be able to parse (see http://epydoc.sourceforge.net/manual-epytext.html). You may consider writing your own parser or use an existing parsing library such as pyparsing (see http://pyparsing.wikispaces.com/).
+Use the Epytext markup language for the syntax that your script should be able
+to parse (see http://epydoc.sourceforge.net/manual-epytext.html). You may
+consider writing your own parser or use an existing parsing library such as
+pyparsing (see http://pyparsing.wikispaces.com/).
 
 To complete the task your script needs to be able to format the:
  - headings 
@@ -24,10 +32,13 @@ Extra credit: implement any other epydoc markup.
 
 Relevant webpages:
 
-For the Google wiki syntax see: http://code.google.com/p/support/wiki/WikiSyntax
+For the Google wiki syntax see:
+http://code.google.com/p/support/wiki/WikiSyntax
 
-PS: this script has the potential to be very widely used as more and more python projects are hosted via Google Code. Thus a good job on this task has the potential of providing you with long term satisfaction (and bragging rights).
-
+PS: this script has the potential to be very widely used as more and more
+python projects are hosted via Google Code. Thus a good job on this task has
+the potential of providing you with long term satisfaction (and bragging
+rights).
 """
 
-owner = "istvan.albert@gmail.com"
+owner = "istvan.albert"

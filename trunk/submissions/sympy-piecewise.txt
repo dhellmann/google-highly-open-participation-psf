@@ -5,7 +5,6 @@ SymPy - implement piecewise functions support
 """
 
 description = """
-
 SymPy is a Python library for symbolic mathematics:
 
 http://code.google.com/p/sympy/
@@ -32,11 +31,11 @@ Read:
 
 http://code.google.com/p/sympy/wiki/SymPySvn
 
-how to create your own functions.
+for how to create your own functions.
 
 Please join the SymPy mailinglist (see the webpage) and ask any
 questions you might have about SymPy in there.
 
 """
 
-owner = "Ondrej Certik <ondrej.certik@gmail.com>"
+owner = "ondrej.certik"

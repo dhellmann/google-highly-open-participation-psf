@@ -6,11 +6,16 @@ Add a code coverage report using Cobertura to Jython's build.
 
 description = """
 Use the ant tasks described on
-http://cobertura.sourceforge.net/anttaskreference.html to generate a
-coverage report for running Jython's regrtest.
 
-See http://wiki.python.org/jython/JythonDeveloperGuide to get started
-building Jython
+	http://cobertura.sourceforge.net/anttaskreference.html
+
+to generate a coverage report for running Jython's regrtest.
+
+See
+
+	http://wiki.python.org/jython/JythonDeveloperGuide
+
+to get started building Jython
 
 Completion:
 

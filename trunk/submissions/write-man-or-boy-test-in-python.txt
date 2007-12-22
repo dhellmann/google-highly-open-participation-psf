@@ -1,0 +1,15 @@
+tags = "coding,tricky"
+
+summary = """
+Write a Knuth "Man-or-Boy" test for Python.
+"""
+
+description = """
+See
+
+   http://en.wikipedia.org/wiki/Man_or_boy_test
+
+Completion: Update Wikipedia page, and attach program to this task.
+"""
+
+owner = ""

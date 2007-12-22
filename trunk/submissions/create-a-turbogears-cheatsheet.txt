@@ -46,4 +46,4 @@ Task duration: please complete this task within 5 days (120 hours) of
 claiming it.
 """
 
-owner = "Christopher Arndt <ghop@turbogears.org>"
+owner = "chris.arndt@web.de"

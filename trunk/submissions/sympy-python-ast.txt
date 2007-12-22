@@ -12,23 +12,20 @@ http://code.google.com/p/sympy/
 
 download it, play with it.
 
-Simplify internal parser by using Python AST
+Simplify the internal parser by using Python AST
 
 http://code.google.com/p/sympy/issues/detail?id=440
 
-There is a proof-of-concept, and just waiting for someone brave to come
-and finally implement it. Looks difficult, but it actually isn't -
-take the patch
-in the issue above,
-then refactor the old parsing module from sympy/core/parser.py to
-sympy/utilities/parser.py
-and use the new in sympy/core/basic.py (sympify)
+There is a proof-of-concept, and just waiting for someone brave to come and
+finally implement it. Looks difficult, but it actually isn't - take the patch
+in the issue above, then refactor the old parsing module from
+sympy/core/parser.py to sympy/utilities/parser.py and use the new code in
+sympy/core/basic.py (sympify)
 
 Make sure all the tests in SymPy pass (they should with the patch above).
 
 Please join the SymPy mailinglist (see the webpage) and ask any
 questions you might have about SymPy (or about this issue) in there.
-
 """
 
-owner = "Ondrej Certik <ondrej.certik@gmail.com>"
+owner = "ondrej.certik"
