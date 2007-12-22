@@ -100,7 +100,6 @@ pyparsing Word class:
     # assert successful results
     assert result.asList() == expected, "Failed test, expected %s, got %s" % (expected, result.asList())
 
-
 You can view existing unit tests at:
 http://pyparsing.svn.sourceforge.net/viewvc/pyparsing/src/unitTests.py?revision=121&view=markup
 
@@ -110,4 +109,4 @@ body of a runTest method of a new test class.
 
 """
 
-owner = "ptmcg@austin.rr.com"
+owner = ""

@@ -5,28 +5,25 @@ Improve SymPy documentation
 """
 
 description = """
-
 SymPy is a Python library for symbolic mathematics:
 
 http://code.google.com/p/sympy/
 
 download it, play with it.
 
-Improve the docstrings and wiki:
+The task is to improve the docstrings and wiki:
 
 http://code.google.com/p/sympy/issues/detail?id=294
 
-go to:
+Go to:
 
 http://sympy.googlecode.com/svn/api/sympy.html
 
-and make sure, there is no "Undocumented" line on the front page by
-writing a (at least
-a few lines) documentation for each module.
+and make sure there is no "Undocumented" line on the front page by writing
+at least a few lines of documentation for each module.
 
-Please join the SymPy mailinglist (see the webpage) and ask any
-questions you might have about SymPy in there.
-
+Please join the SymPy mailinglist (see the webpage) and ask any questions you
+might have about SymPy in there.
 """
 
-owner = "Ondrej Certik <ondrej.certik@gmail.com>"
+owner = "ondrej.certik"

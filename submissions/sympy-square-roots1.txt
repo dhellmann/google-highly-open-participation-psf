@@ -20,7 +20,6 @@ the patch should fix all the cases reported in that issue.
 
 Please join the SymPy mailinglist (see the webpage) and ask any
 questions you might have about SymPy in there.
-
 """
 
-owner = "Ondrej Certik <ondrej.certik@gmail.com>"
+owner = "ondrej.certik"

@@ -12,15 +12,14 @@ http://code.google.com/p/sympy/
 
 download it, play with it.
 
-refactor sqrt into x^(1/2)
+Task: refactor sqrt into x^(1/2)
 
  http://code.google.com/p/sympy/issues/detail?id=390
 
- Send a patch, that fixes the behaviour as reported in the issue above.
+Send a patch, that fixes the behaviour as reported in the issue above.
 
- Please join the SymPy mailinglist (see the webpage) and ask any
- questions you might have about SymPy in there.
-
+Please join the SymPy mailinglist (see the webpage) and ask any
+questions you might have about SymPy in there.
 """
 
-owner = "Ondrej Certik <ondrej.certik@gmail.com>"
+owner = "ondrej.certik"

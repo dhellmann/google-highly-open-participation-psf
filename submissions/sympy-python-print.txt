@@ -12,10 +12,11 @@ http://code.google.com/p/sympy/
 
 download it, play with it.
 
-Write a function, that will accept a SymPy expression and it will
-return a string, that can be
-evaluated in Python using the eval() function that will produce the
-original expression. Example:
+Write a function that will accept a SymPy expression and return a string that
+can be evaluated in Python using the eval() function to produce the
+original expression.
+
+Example:
 
 print_python(x**2+y)
 
@@ -31,7 +32,6 @@ http://code.google.com/p/sympy/issues/detail?id=81
 
 Please join the SymPy mailinglist (see the webpage) and ask any
 questions you might have about SymPy in there.
-
 """
 
-owner = "Ondrej Certik <ondrej.certik@gmail.com>"
+owner = "ondrej.certik"

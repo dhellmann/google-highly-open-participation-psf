@@ -12,14 +12,18 @@ http://code.google.com/p/sympy/
 
 download it, play with it.
 
-Derivative should not be evaluated
+The task is to correct this: Derivative should not be evaluated
+
  http://code.google.com/p/sympy/issues/detail?id=476
 
- Send a patch, that fixes the behaviour as reported in the issue above.
+Write a patch that fixes the behaviour as reported in the issue above.
 
- Please join the SymPy mailinglist (see the webpage) and ask any
- questions you might have about SymPy in there.
+Please join the SymPy mailinglist (see the webpage) and ask any questions you
+might have about SymPy in there.
 
+Task completion:
+
+Attach the patch to the SymPy project issue and add a comment to this issue.
 """
 
-owner = "Ondrej Certik <ondrej.certik@gmail.com>"
+owner = "ondrej.certik"

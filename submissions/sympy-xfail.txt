@@ -21,10 +21,9 @@ the XFAIL only works in serial mode in py.test (we use it
 regularly in sympy). The parallel mode doesn't work and that
 is the job in this task.
 
-
 Please join the SymPy mailinglist (see the webpage) and ask any
 questions you might have about SymPy in there.
 
 """
 
-owner = "Ondrej Certik <ondrej.certik@gmail.com>"
+owner = "ondrej.certik"

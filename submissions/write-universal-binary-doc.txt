@@ -15,18 +15,14 @@ getting the latest docs, editing them, and generating patches.
 
 Details for this specific module:
 
-- Update the documentations to explain how universal binaries are
-created
+- Update the documentations to explain how universal binaries are created
 
-- Explain the difference between the PPC and Intel architecture in a
-few sentennces
-  with an emphasis on the endianness.
+- Explain the difference between the PPC and Intel architecture in a few
+  sentences with an emphasis on the endianness.
 
 - Add a short C code example that shows how to detect Mac and and the
-endianness
-  during compile time with #ifdef preprocessor macros and how to write
-platform and
-  endian specific code with preprocessor macros.
+  endianness during compile time with #ifdef preprocessor macros and how to
+  write platform and endian specific code with preprocessor macros.
 
 Completion:
 
