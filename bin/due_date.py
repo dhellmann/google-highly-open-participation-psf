@@ -88,6 +88,12 @@ if __name__ == '__main__':
                              help='How time strings are formatted',
                              action='store',
                              )
+    option_parser.add_option('-o', '--output-format',
+                             dest='output_format',
+                             default='%B %d, %Y %H:%M:%S %Z',
+                             help='How time strings are formatted in output',
+                             action='store',
+                             )
 
     (options, args) = option_parser.parse_args()
 
@@ -119,5 +125,5 @@ if __name__ == '__main__':
     if options.verbose:
         print 'DUE (UTC):', due_utc.strftime(options.time_format)
     else:
-        print 'This task is due', due_utc.strftime(options.time_format)#.replace('%p',''))
+        print 'This task is due', due_utc.strftime(options.output_format)
         print 'Due-%s' % due_utc.strftime('%Y%m%d.%H%M')
