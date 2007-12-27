@@ -117,3 +117,4 @@ if __name__ == '__main__':
         print 'DUE (UTC):', due_utc.strftime(options.time_format)
     else:
         print 'This task is due', due_utc.strftime(options.time_format)
+        print 'Due-%s' % due_utc.strftime('%Y%m%d.%H%M')
