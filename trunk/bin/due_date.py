@@ -105,9 +105,12 @@ if __name__ == '__main__':
     if options.verbose:
         print 'CLAIMED  :', claimed.strftime(options.time_format)
 
-    # Calculate the due date
+    # Calculate the due date, rounded up to the nearest 5 minute
+    # increment.
     due = claimed + datetime.timedelta(options.days_to_complete)
-    due = due.replace(second=0, minute=((due.minute/5)+1)*5)
+    round_minutes = (((due.minute/5)+1)*5) % 60
+    round_hours = (((due.minute/5)+1)*5) / 60
+    due = due.replace(second=0, minute=round_minutes, hour=due.hour + round_hours)
     if options.verbose:
         print 'DUE      :', due.strftime(options.time_format)
 
@@ -116,5 +119,5 @@ if __name__ == '__main__':
     if options.verbose:
         print 'DUE (UTC):', due_utc.strftime(options.time_format)
     else:
-        print 'This task is due', due_utc.strftime(options.time_format)
+        print 'This task is due', due_utc.strftime(options.time_format)#.replace('%p',''))
         print 'Due-%s' % due_utc.strftime('%Y%m%d.%H%M')

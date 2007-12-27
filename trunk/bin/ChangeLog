@@ -1,4 +1,5 @@
 2007-12-27  Doug Hellmann  <doug.hellmann@gmail.com>
 
 	* due_date.py: Add the Due- tag to the output.
+	Fix rounding over an hour boundary.
 
