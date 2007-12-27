@@ -2,4 +2,5 @@
 
 	* due_date.py: Add the Due- tag to the output.
 	Fix rounding over an hour boundary.
+	Use 24-hr clock in output and offer a separate option for the output format.
 
