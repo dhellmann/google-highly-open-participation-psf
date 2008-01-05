@@ -51,3 +51,5 @@ it's best to create a patch file using the `svn diff` command. However, if
 in doubt you can also submit whole files, and your mentor can sort out what
 you changed. In any case, it's a good idea to update your checkout from time
 to time using `svn update`.
+
+Be sure to use `svn diff` to create a diff at the trunk/ level, e.g. the directory above Doc/.
