@@ -1,0 +1,30 @@
+tags = "C,coding,thirdparty,shedskin"
+
+summary = """
+Add basic support for the 'datetime' module
+"""
+
+description = """
+Download and install Shed Skin, and read the included README for usage
+instructions:
+
+   http://shedskin.sourceforge.net
+
+Especially read the part about how to implement libraries. Have a look
+at the lib/ directory for examples of several standard library module
+implementations.
+
+Add _basic_ support for the datetime module, by writing and converting
+a pure Python implementation to C++ using Shed Skin. Maintain a list
+of all difficult issues that arise, and don't try to solve them!
+
+Completion:
+
+Submit a patch, as well as the list of difficult issues, as attachments
+to this ticket.
+
+Task duration: please complete this task within 5 days (120 hours) of
+claiming it.
+"""
+
+owner = "mark.dufour@gmail.com"
