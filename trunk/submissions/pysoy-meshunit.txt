@@ -1,0 +1,37 @@
+tags = "pysoy,test"
+
+summary = """
+soy.meshes.Mesh unit test
+"""
+
+description = """
+Create a unit test (in tests/) which verifies the order, reusability, and 
+overall sanity of Vertex and Face objects added to a soy.meshes.Mesh.  
+Examples on how Vertex, Face, and Mesh objects work together can be seen at 
+http://svn.pysoy.org/trunk/pysoy/examples/blocks.py.
+
+This means that the mesh .faces[n] should remain at that position regardless 
+of new faces being added and other manipulations being made, .verts[n] should 
+likewise remain predictable both for the mesh and each face.
+
+If a face is added which shares 1 or 2 already known verticies, it should 
+reference the two already known which should remain in their current list 
+positions (.verts[n]).
+
+The source can be obtained through svn co http://svn.pysoy.org/trunk/pysoy
+
+
+Completion:
+
+Commit the work to http://svn.pysoy.org/, attach your diff(s) to this task, 
+and contact the ghop-python mailing list.
+
+
+Relevant Wiki pages:
+
+ - HowToTest
+ - RunningPythonTests
+
+"""
+
+owner = "arcriley"
