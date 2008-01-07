@@ -1,0 +1,39 @@
+tags = "pysoy,ode"
+
+summary = """
+Add working motor properties to angular joints and Drive action to power it
+"""
+
+description = """
+Add motor properties to the appropriate soy.joints (Ball, Universal, etc) 
+which creates the AMotor for that joint when one or more angular axis are 
+defined.  Then create soy.actions.Drive which powers the specified axis, and 
+lastly create a short demo for how to use it in examples/
+
+Ensure that axis can be removed and the AMotor associated with the joint is 
+removed along with the last axis and during joint destruction.  Also ensure 
+that any Drive action specified to use an axis which is removed does nothing 
+rather than segfaulting or locking up the simulation.
+
+There should be sufficient example code between soy.joints, soy.actions, and 
+the ODE joints documentation to complete this task.  Code must be done in 
+Pyrex using the existing coding conventions.
+
+The source can be obtained through svn co http://svn.pysoy.org/trunk/pysoy
+
+
+Completion:
+
+Commit the work to http://svn.pysoy.org/, attach your diff(s) to this task, 
+and contact the ghop-python mailing list.
+
+
+Relevant webpages:
+
+ - http://www.pysoy.org/browser/trunk/pysoy/src/joints
+ - http://www.pysoy.org/browser/trunk/pysoy/src/actions
+ - http://www.ode.org/ode-latest-userguide.html#sec_7_3_8
+
+"""
+
+owner = "arcriley"

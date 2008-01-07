@@ -1,0 +1,38 @@
+tags = "pysoy,opengl"
+
+summary = """
+Add soy.meshes.Billboard class which renders a material on a quad
+"""
+
+description = """
+A "billboard" is a quad (rectangle) which is always rendered facing the 
+camera, sometimes called a "sprite".  There are numerous tutorials for doing 
+this using OpenGL.  soy.meshes.Billboard must render such a quad with optional 
+axis-alignment set via boolean property.  
+
+A soy.meshes.Mesh class handles rendering by the orientation and position of 
+the soy.bodies.* it belongs to, each mesh can potentially belong to many 
+bodies.
+
+As can be seen in the code ( 
+http://svn.pysoy.org/trunk/pysoy/src/meshes/Mesh.pxi) the only OpenGL code 
+needed to implement this is that specific to billboards; soy.bodies.Body has 
+already transformed into the scene and the Billboard's .material property will 
+handle color/texture/etc. 
+
+The source can be obtained through svn co http://svn.pysoy.org/trunk/pysoy
+
+
+Completion:
+
+Commit the work to http://svn.pysoy.org/, attach your diff(s) to this task, 
+and contact the ghop-python mailing list.
+
+
+Relevant webpages:
+
+ - http://nehe.gamedev.net/data/articles/article.asp?article=19
+
+"""
+
+owner = "arcriley"
