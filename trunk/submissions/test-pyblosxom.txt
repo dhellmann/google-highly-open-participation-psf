@@ -1,0 +1,47 @@
+tags = "test,coverage,thirdparty"
+
+summary = """
+Increase test coverage for PyBlosxom
+"""
+
+description = """
+Progress on PyBlosxom 2.0 is moving along.  One of the things that is 
+seriously hampering efforts is that very little of the codebase is 
+covered by unit tests.
+
+The PyBlosxom 2.0 code is in the trunk.  Details on where to find
+the code are on the web-site at 
+http://pyblosxom.sourceforge.net/blog/static/development .
+
+PyBlosxom uses nose to do unit test discovery.  Details on how
+to run the tests are at the bottom of the README file in the codebase.
+
+The task here is to increase the test coverage from 39% to at least 
+60% for the code in PyBlosxom SVN trunk.
+
+Things you could look at adding tests for to increase test coverage:
+  - Pyblosxom.pyblosxom.EnvironmentDict
+  - Pyblosxom.pyblosxom.Request
+  - Pyblosxom.pyblosxom.Response
+  - Pyblosxom.pyblosxom.blosxom_entry_parser
+  - Pyblosxom.tools.run_callback (there's some work on this already)
+  - Pyblosxom.renderers.blosxom.get_included_flavour
+  - Pyblosxom.renderers.blosxom.get_flavour_from_dir
+  - Pyblosxom.renderers.blosxom.BlosxomRenderer
+  - and others....
+
+Completion:
+  - a svn diff against the trunk
+  - the coverage report before and after
+  - a written explanation of what tests were added, any problems 
+    you encountered and any other observations that would help to 
+    improve testing for PyBlosxom in the future
+
+Any questions, please comment in this issue or find willguaraldi in
+either #python-ghop or #pyblosxom on irc.freenode.net.
+
+Relevant pages:
+  - HowToTest
+"""
+
+owner = "will.guaraldi@gmail.com"
