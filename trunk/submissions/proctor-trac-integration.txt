@@ -1,0 +1,23 @@
+tags = "coding,trac,thirdparty"
+
+summary = """
+Create a program to load Proctor test results into trac tickets
+"""
+
+description = """
+Create a command line program to read Proctor (http://www.doughellmann.com/projects/Proctor/) test results and create trac (http://trac.edgewall.org) tickets from them.
+
+Proctor uses the unittest framework to run tests, and produces a parsable output report.  It also includes a library for parsing those results so they can be processed.  Your task is to use that library to create a program to load the test results into trac to open tickets for failing tests.
+
+All of the tests from the same class which FAIL for any reason or have the same ERROR (determined by the name of the exception causing the error) should be included in the same ticket.  The summary of the ticket should include the test name, as reported by Proctor.  The body of the ticket should include all of the information available from the parsed test report (for each test, the name, exit status, and traceback, if any).
+
+Your program must search for existing tickets for the same failures and avoid submiting duplicate tickets if there is already an open ticket for those failures.  One simple way to accomplish that is to use a well-defined formula for setting the summary so you can search for the value.
+
+For extra credit, include a command line option to your program to set the component and keywords of the new tickets created.
+
+Completion:
+
+You may start your own project for this program, or contribute it to Proctor (you will be credited when a new release of Proctor comes out if you contribute there).  If you start your own project, link to the home page for the project via a comment on this ticket.  In either case, attach a copy of the source for your program to this ticket.  If you need to make changes or enhancements to Proctor, attach a diff file suitable for patching the source.
+"""
+
+owner = "doug.hellmann@gmail.com"
