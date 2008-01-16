@@ -1,0 +1,40 @@
+tags = "C,coding,thirdparty,shedskin"
+
+summary = """
+Add support for seven 'os' modules in Shed Skin
+"""
+
+description = """
+Download and install Shed Skin, and read the included README for 
+usage instructions:
+
+    http://shedskin.googlecode.com
+
+Especially read the part about how to implement libraries. Have 
+a look at the lib/ directory for examples of several standard 
+library module implementations.
+
+Add support for the following functions in the 'os' module. You'll 
+need to have experience with C and C++ to pull this off!
+
+getpid
+putenv
+umask
+unsetenv
+chmod
+renames
+
+See task #240 and #297, which are similar to this task and both
+completed.
+
+Completion:
+
+Submit a patch for each function as an attachment to this ticket,
+making sure it works correctly under Windows and Linux.
+
+Task duration: please complete this task within 5 days (120 hours)
+of claiming it. 
+
+"""
+
+owner = "mark.dufour@gmail.com"
