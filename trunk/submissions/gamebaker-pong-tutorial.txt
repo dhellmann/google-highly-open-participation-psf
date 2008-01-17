@@ -1,0 +1,41 @@
+tags = "coding,games,documentation,thirdparty"
+
+summary = """
+Extend Game Baker demo game to a fully playable game
+"""
+
+description = """
+Game Baker is a graphical game development system.
+http://code.google.com/p/game-baker/
+
+We would like you to extend our pong demo to a fully playable game.
+Currently the game is rather easy to play to say the least.
+
+The demo is in our SVN under demos/test2-pong.py (or you can download the
+svn snapshot from the project homepage).
+
+once you have run this script a file "testgame.gb" will be created,
+which you can open from the main gui ("gamebaker.py"). for this project 
+you may either modify the .gb file from the GUI or the file test2-pong.py,
+which creates the demo from python.
+
+You may find our python scripting reference useful:
+http://code.google.com/p/game-baker/wiki/PythonScripting
+
+n.b. - each game object has a "workstate", which contains
+all of the object's event handlers.
+
+Completion:
+- deflect the ball depending on the speed of the paddle.
+- make the computer's paddle try to follow the position of the ball (not too well or the player can't win!).
+- enter any bugs or feature ideas in our issue tracking system.
+- submit your .gb or .py file attatched to this issue
+- write up a tutorial on how your event code works.
+- give game-baker permission to release your code under both the GPL and LGPL
+
+(sounds like a lot, but the entire game is currently about 40 lines of
+scripted python event handlers)
+
+"""
+
+owner = "tim@timwintle.co.uk"

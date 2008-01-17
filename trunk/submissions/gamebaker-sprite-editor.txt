@@ -1,0 +1,62 @@
+tags = "gtk,games,sprite,gui"
+
+summary = """
+Create sprite editor for Game Baker.
+"""
+
+description = """
+Game Baker is a graphical game development system in python.
+http://code.google.com/p/game-baker/
+
+we would like you to create a simple gui sprite editor for Game Baker.
+
+Sprites (animations) are saved in Game Baker as instances of
+game.Sprite
+ 
+frames of the animation are often held in a single sprite sheet
+(image), one frame next to another. These frames are saved in
+the list Sprite.imagefiles
+
+(example of creating a sprite from the platform demo)
+{{{
+    sprite = game.Sprite()
+    # The images are in one file, going downwards
+    sprite.imagefiles.append({"filename":"images/flag_sprite.bmp",
+"topleft":(4,4), "bottomright":(37,41)})
+    sprite.imagefiles.append({"filename":"images/flag_sprite.bmp",
+"topleft":(4,52), "bottomright":(37,89)})
+    sprite.imagefiles.append({"filename":"images/flag_sprite.bmp",
+"topleft":(4,100), "bottomright":(37,137)})
+
+    # update the sprite frame every two game frames
+    sprite.framerate = 2
+
+    # Set the Alpha (transparent) colour to Red (255,0,0)
+    sprite.alphakey = (255,0,0)
+}}}
+
+you should use glade (glade.gnome.org),gtk or pygame. It will 
+require some experience with whichever you use.
+
+The application should be able to:
+-open a pickled instance of game.Sprite with pickle.load()
+-create a new instance of game.Sprite
+-open images
+-allow the user to select/modify frame areas and alpha colour
+-save the Sprite instance using pickle.dump()
+
+
+completion criteria:
+- uses glade / gtk / pygame
+- can create a new Sprite() instance
+- can load images and modify frame regions
+- can modify alpha colour
+- can save the instance to disk with pickle
+- give game-baker permission to release your code under both the GPL and LGPL.
+
+(it is highly recommended that only people with some basic
+experience of glade / gtk / pygame attempt this task)
+
+"""
+
+owner = "tim@timwintle.co.uk"
