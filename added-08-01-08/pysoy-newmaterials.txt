@@ -26,7 +26,6 @@ Completion:
 Commit the work to http://svn.pysoy.org/, attach your diff(s) to this task, 
 and contact the ghop-python mailing list.
 
-
 Relevant webpages:
  - http://www.falloutsoftware.com/tutorials/gl/gl8.htm
 

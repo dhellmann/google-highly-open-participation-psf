@@ -1,15 +1,29 @@
-tags = "coding,assistive technology,input,chuzer,thirdparty"
+tags = "coding,assistive_technology,input,chuzer,thirdparty"
 
 summary = """
 Graphics capture for the chuzer project.
 """
 
 description = """
-The project described at http://chuzer.org/ is an attempt to provide severely disabled computer users with a mechanism that allows them to indicate choices. The idea is that a helper can trigger the program to run with a specific set of choices, and the user can then indicate their choice by selecting one of up to six graphics displayed on the screen.
 
-This task requires you to modify the existing code base by adding a mechanism to allow the capture of graphics for use in the project.  Typically the disabled user's helpers will wish to capture graphics by selecting all or part of an image displayed in their web browser or other application.  The extension should therefore be a separate program.
+The chuzer project (http://chuzer.org/) is an attempt to provide
+severely disabled computer users with a mechanism that allows them to
+indicate choices. The idea is that a helper can trigger the program to
+run with a specific set of choices, and the user can then indicate
+their choice by selecting one of up to six graphics displayed on the
+screen.
 
-The capture tool needs to run on Windows.  To capture part of the screen, look at either wxPython's native capabilities or the ImageGrab module in PIL.  Post questions to the ghop-python mailing list if you need more help.
+This task requires you to modify the existing code base by adding a
+mechanism to allow the capture of graphics for use in the project.
+Typically the disabled user's helpers will wish to capture graphics by
+selecting all or part of an image displayed in their web browser or
+other application.  The extension should therefore be a separate
+program.
+
+The capture tool needs to run on Windows.  To capture part of the
+screen, look at either wxPython's native capabilities or the ImageGrab
+module in PIL.  Post questions to the ghop-python mailing list if you
+need more help.
 
 Images can be captured in any format displayable by the wx widget set.
 
@@ -18,4 +32,4 @@ Completion:
 Attach the source for your program to a comment on this ticket.  
 """
 
-owner = "holdenweb@gmail.com"
+owner = "holdenweb"

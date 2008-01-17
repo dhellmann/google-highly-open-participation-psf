@@ -22,9 +22,6 @@ Completion:
 
 Submit a patch, as well as the list of difficult issues, as attachments
 to this ticket.
-
-Task duration: please complete this task within 5 days (120 hours) of
-claiming it.
 """
 
 owner = "mark.dufour@gmail.com"

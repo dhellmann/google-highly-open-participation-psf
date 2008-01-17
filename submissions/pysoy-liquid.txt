@@ -5,27 +5,31 @@ PySoy: Create soy.meshes.Liquid
 """
 
 description = """
-Create a new soy.meshes class which renders the surface of a liquid (ie, 
-water) and it's depth through volumetric fog using GL_EXT_fog_coord, 
-demonstrated with a small example script.
+Create a new soy.meshes class which renders the surface of a liquid
+(ie, water) and it's depth through volumetric fog using
+GL_EXT_fog_coord, demonstrated with a small example script.
 
-At minimum color and size properties should be available.  A provided material 
-should render as the surface with it's alpha blending properly.
+At minimum color and size properties should be available.  A provided
+material should render as the surface with it's alpha blending
+properly.
 
-Extensions should be tested using GLEW.  Some OpenGL/GLEW functions and enums 
-may need to be added to gl.pxd.  Must render on i915, Xorg's free radeon/r200, 
-and proprietary nVidia drivers (ie, no GLSL).  Help is available on checking 
-for extension support and testing on different video cards and drivers.
+Extensions should be tested using GLEW.  Some OpenGL/GLEW functions
+and enums may need to be added to gl.pxd.  Must render on i915, Xorg's
+free radeon/r200, and proprietary nVidia drivers (ie, no GLSL).  Help
+is available on checking for extension support and testing on
+different video cards and drivers.
 
-The source can be obtained through svn co http://svn.pysoy.org/trunk/pysoy
+The source can be obtained through
+
+   svn co http://svn.pysoy.org/trunk/pysoy
+
 Some inter-module API changes are permissible to implement this.
 
 
 Completion:
 
-Commit the work to http://svn.pysoy.org/, attach your diff(s) to this task, 
-and contact the ghop-python mailing list.
-
+Commit the work to http://svn.pysoy.org/, attach your diff(s) to this
+task, and contact the ghop-python mailing list.
 
 Relevant webpages:
 

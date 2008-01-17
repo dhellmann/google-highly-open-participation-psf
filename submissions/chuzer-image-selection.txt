@@ -1,17 +1,27 @@
-tags = "coding,assistive technology,input,chuzer,thirdparty"
+tags = "coding,assistive_technology,input,chuzer,thirdparty"
 
 summary = """
 Graphics capture for the chuzer project.
 """
 
 description = """
-The project described at http://chuzer.org/ is an attempt to provide severely disabled computer users with a mechanism that allows them to indicate choices. The idea is that a helper can trigger the program to run with a specific set of choices, and the user can then indicate their choice by selecting one of up to six graphics displayed on the screen.
 
-You should also modify the existing choice code so that loadgrid() loads a set of six images for a choice from a given directory on disk, scaling them appropriately. The directory should be a command-line argument to the choice program.
+The chuzer project (http://chuzer.org/) is an attempt to provide
+severely disabled computer users with a mechanism that allows them to
+indicate choices. The idea is that a helper can trigger the program to
+run with a specific set of choices, and the user can then indicate
+their choice by selecting one of up to six graphics displayed on the
+screen.
+
+Please modify the existing choice code so that loadgrid() loads a set
+of six images for a choice from a given directory on disk, scaling
+them appropriately. The directory should be a command-line argument to
+the choice program.
 
 Completion:
 
-Create a patch file with svn diff based on the trunk version of chuzer and attach it with a comment on this ticket.
+Create a patch file with svn diff based on the trunk version of chuzer
+and attach it with a comment on this ticket.
 """
 
-owner = "holdenweb@gmail.com"
+owner = "holdenweb"

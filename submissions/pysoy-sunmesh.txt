@@ -9,35 +9,34 @@ Create a soy.meshes.Sun class with the following suggested properties:
 
  * .spot - the central (direct) spot of the sun
  * .aura - the large fuzzy glow around the sun
- * .streaks - cross-shaped streaks eminating from the star
+ * .streaks - cross-shaped streaks emanating from the star
 
-These can be rendered as in a soy.meshes.Billboard using triangle fans for the 
-spot and aura, and four triangles for the streaks.  Student is encouraged to 
-be creative in implementation and may add or change these properties or add 
-additional properties which enable different artistic rendering styles.
+These can be rendered as in a soy.meshes.Billboard using triangle fans
+for the spot and aura, and four triangles for the streaks.  Student is
+encouraged to be creative in implementation and may add or change
+these properties or add additional properties which enable different
+artistic rendering styles.
 
-For example, a 1d texture could be supported to color the halo and streaks, 
-defaulting to a basic "white to alpha" 2-texel 1d builtin texture.
+For example, a 1d texture could be supported to color the halo and
+streaks, defaulting to a basic "white to alpha" 2-texel 1d builtin
+texture.
 
-The latter two (aura and streaks) should diminish in intensity when the spot 
-is covered when one of the following is available (tested via GLEW):
- * GL_ARB_occlusion_query
- * GL_NV_occlusion_query
- * GL_HP_occlusion_test
+The latter two (aura and streaks) should diminish in intensity when
+the spot is covered when one of the following is available (tested via
+GLEW): * GL_ARB_occlusion_query * GL_NV_occlusion_query *
+GL_HP_occlusion_test
 
-Some OpenGL/GLEW functions and enums may need to be added to gl.pxd.  Must 
-render on i915, Xorg's free radeon/r200, and proprietary nVidia drivers.
-Help is available on checking for extension support and testing on different 
-video cards and drivers.
+Some OpenGL/GLEW functions and enums may need to be added to gl.pxd.
+Must render on i915, Xorg's free radeon/r200, and proprietary nVidia
+drivers.  Help is available on checking for extension support and
+testing on different video cards and drivers.
 
 The source can be obtained through svn co http://svn.pysoy.org/trunk/pysoy
 
-
 Completion:
 
-Commit the work to http://svn.pysoy.org/, attach your diff(s) to this task, 
-and contact the ghop-python mailing list.
-
+Commit the work to http://svn.pysoy.org/, attach your diff(s) to this
+task, and contact the ghop-python mailing list.
 
 Relevant webpages:
 
