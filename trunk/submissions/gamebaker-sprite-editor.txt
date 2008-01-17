@@ -5,17 +5,18 @@ Create sprite editor for Game Baker.
 """
 
 description = """
-Game Baker is a graphical game development system in python.
-http://code.google.com/p/game-baker/
+Game Baker is a graphical game development system in python:
 
-we would like you to create a simple gui sprite editor for Game Baker.
+   http://code.google.com/p/game-baker/
+
+We would like you to create a simple gui sprite editor for Game Baker.
 
 Sprites (animations) are saved in Game Baker as instances of
-game.Sprite
+game.Sprite.
  
-frames of the animation are often held in a single sprite sheet
-(image), one frame next to another. These frames are saved in
-the list Sprite.imagefiles
+Frames of the animation are often held in a single sprite sheet
+(image), one frame next to another. These frames are saved in the list
+Sprite.imagefiles.
 
 (example of creating a sprite from the platform demo)
 {{{
@@ -35,18 +36,18 @@ the list Sprite.imagefiles
     sprite.alphakey = (255,0,0)
 }}}
 
-you should use glade (glade.gnome.org),gtk or pygame. It will 
-require some experience with whichever you use.
+You should use glade (glade.gnome.org), gtk or pygame. It will require
+some experience with whichever you use.
 
 The application should be able to:
--open a pickled instance of game.Sprite with pickle.load()
--create a new instance of game.Sprite
--open images
--allow the user to select/modify frame areas and alpha colour
--save the Sprite instance using pickle.dump()
 
+ -open a pickled instance of game.Sprite with pickle.load()
+ -create a new instance of game.Sprite
+ -open images
+ -allow the user to select/modify frame areas and alpha colour
+ -save the Sprite instance using pickle.dump()
 
-completion criteria:
+Completion criteria:
 - uses glade / gtk / pygame
 - can create a new Sprite() instance
 - can load images and modify frame regions

@@ -5,24 +5,23 @@ PySoy: Add "dot3" .normal property to soy.materials.Material
 """
 
 description = """
-Add a .normal property to soy.materials.Material which, when given a Texture 
-instance and the appropriate OpenGL extensions available (tested by GLEW), 
-renders a tangent space normals texture.
+Add a .normal property to soy.materials.Material which, when given a
+Texture instance and the appropriate OpenGL extensions available
+(tested by GLEW), renders a tangent space normals texture.
 
-Some OpenGL/GLEW functions and enums may need to be added to gl.pxd.  Must 
-render on i915, Xorg's free radeon/r200, and proprietary nVidia drivers.
-Help is available on checking for extension support and testing on different 
-video cards and drivers.
+Some OpenGL/GLEW functions and enums may need to be added to gl.pxd.
+Must render on i915, Xorg's free radeon/r200, and proprietary nVidia
+drivers.  Help is available on checking for extension support and
+testing on different video cards and drivers.
 
-The source can be obtained through svn co http://svn.pysoy.org/trunk/pysoy
-Some inter-module API changes are permissible to implement this.
-
+The source can be obtained through svn co
+http://svn.pysoy.org/trunk/pysoy Some inter-module API changes are
+permissible to implement this.
 
 Completion:
 
 Commit the work to http://svn.pysoy.org/, attach your diff(s) to this task, 
 and contact the ghop-python mailing list.
-
 
 Relevant webpages:
 

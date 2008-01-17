@@ -28,10 +28,6 @@ You'll need to have experience with C to pull this off!
 Completion:
 
 Submit a patch as an attachment to this ticket.
-
-Task duration: please complete this task within 5 days (120 hours) of
-claiming it.
-
 """
 
 owner = "mark.dufour@gmail.com"
