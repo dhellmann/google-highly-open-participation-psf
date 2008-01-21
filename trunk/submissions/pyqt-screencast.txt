@@ -1,0 +1,33 @@
+tags = "screencast,gui"
+
+summary = """
+Record a screencast for PyQt.
+"""
+
+description = """
+Install PyQt4. If you have Windows, you can download the binary
+installer (http://www.riverbankcomputing.co.uk/pyqt/download.php),
+otherwise you'll have to compile it and its dependencies from the
+source. For that you'll need SIP (http://www.riverbankcomputing.co.uk/
+sip/download.php), the Qt library (http://trolltech.com/downloads/
+opensource#qt-open-source-edition), and the PyQt4 sources
+(http://www.riverbankcomputing.co.uk/pyqt/download.php).
+
+Then, record a screencast of the demo app (located in examples/tools).
+Be sure to go through at least 10 different examples, showing how the
+examples work.
+
+Completion:
+
+Attach either a file containing the screencast, or the URL of the
+screencast, to this task.  The screencast must be in an acceptable
+format and should be under 100 mb in size; see HowToMakeScreencasts.
+Be sure to post it with an acceptable license; see StudentPage for
+more information.
+
+Relevant wiki pages:
+
+  - HowToMakeScreencasts.
+"""
+
+owner = "titus@idyll.org"
