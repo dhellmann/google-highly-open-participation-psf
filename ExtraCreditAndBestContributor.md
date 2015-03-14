@@ -1,0 +1,7 @@
+The main purpose of [the Google Highly Open Participation Contest](http://code.google.com/opensource/ghop/2007-8) is to get **you** interested in contributing to the open source community.  Hopefully, your involvement will continue well after the contest is finished.  The "ideal" contributor is one that would become a full participant in the Python community, who would contribute to various projects on an ongoing basis.
+
+If you are that "ideal" contributor, you will no doubt do more than simply meeting the stated requirements for the tasks you have completed.  Perhaps you will go a bit deeper than what is required for each task you complete.  Or, perhaps, you will use the knowledge you have gained in completing one task (for example: writing unit tests for a specified module) and use that knowledge elsewhere (for example: writing unit tests for modules that have not been mentioned in official tasks).  As the "ideal" contributor, you will certainly not be afraid to tackle the tasks that have been identified as being more challenging.  And you will likely write enthusiastically about your experience with Python, and convince others to join in.
+
+As a start, some projects have suggestions for "extra credit".  You could look at these suggestions and either implement them or do some extra work of your own design...
+
+Impress us with your efforts and we might nominate you as the "best contributor" chosen to represent the Python community at the [Google Highly Open Participation Contest](http://code.google.com/opensource/ghop/2007-8) awards!

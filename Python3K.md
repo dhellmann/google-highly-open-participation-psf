@@ -1,0 +1,1 @@
+[Python 3.0](http://www.python.org/download/releases/3.0/) (a.k.a. Python 3000 or Python3k) is the next generation of Python.  It includes some changes to the language which make it not backwards-compatible with Python 2.x.  It is currently in Alpha release status.
